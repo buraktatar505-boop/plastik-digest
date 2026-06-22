@@ -6,7 +6,7 @@ import ArticleCard from "@/components/ArticleCard";
 import type { Article, TodayData } from "@/types";
 
 // Her istekte taze JSON oku (next dev'de de, production'da da)
-export const dynamic = "force-dynamic";
+
 
 function loadToday(): TodayData {
   const filePath = path.join(process.cwd(), "data", "today.json");
