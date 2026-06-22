@@ -26,6 +26,6 @@ jobs:
           git add data/
           git diff --cached --quiet || git commit -m "digest: $(date -u +%Y-%m-%d)"
           git push
-                - name: Vercel deploy tetikle
+      - name: Vercel deploy tetikle
         run: curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
 
