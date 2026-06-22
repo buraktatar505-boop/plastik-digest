@@ -19,6 +19,22 @@
     },
     {
       "date": "2026-06-22",
+      "category": "aesthetic",
+      "pmid": "37095384",
+      "title": "Aesthetic Surgery Advice and Counseling from Artificial Intelligence: A Rhinoplasty Consultation with ChatGPT.",
+      "authors": "Xie Y, Seth I, Hunter-Smith DJ et al.",
+      "journal": "Aesthetic Plast Surg",
+      "year": 2023,
+      "doi": "10.1007/s00266-023-03338-7",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37095384/",
+      "citation_count": 128,
+      "rcr": 28.6927679443613,
+      "abstract": "BACKGROUND: ChatGPT is an open-source artificial large language model that uses deep learning to produce human-like text dialogue. This observational study evaluated the ability of ChatGPT to provide informative and accurate responses to a set of hypothetical questions designed to simulate an initial consultation about rhinoplasty. METHODS: Nine questions were prompted to ChatGPT on rhinoplasty. The questions were sourced from a checklist published by the American Society of Plastic Surgeons, and the responses were assessed for accessibility, informativeness, and accuracy by Specialist Plastic Surgeons with extensive experience in rhinoplasty. RESULTS: ChatGPT was able to provide coherent and easily comprehensible answers to the questions posed, demonstrating its understanding of natural language in a health-specific context. The responses emphasized the importance of an individualized approach, particularly in aesthetic plastic surgery. However, the study also highlighted ChatGPT's limitations in providing more detailed or personalized advice. CONCLUSION: Overall, the results suggest that ChatGPT has the potential to provide valuable information to patients in a medical context, particularly in situations where patients may be hesitant to seek advice from medical professionals or where access to medical advice is limited. However, further research is needed to determine the scope and limitations of AI language models in this domain and to assess the potential benefits and risks associated with their use. LEVEL OF EVIDENCE V: Observational study under respected authorities. This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+      "abstract_tr": "",
+      "score": 0.755
+    },
+    {
+      "date": "2026-06-22",
       "category": "reconstructive",
       "pmid": "36563175",
       "title": "First-in-Human Free Flap Tissue Reconstruction Using a Dedicated Microsurgical Robotic Platform.",
@@ -32,6 +48,22 @@
       "abstract": "BACKGROUND: Microsurgery has become standard of care for increasingly complex techniques in tissue harvest, replantation, reconstruction, allotransplantation, and supermicrosurgery on submillimetric vessels. As techniques become more challenging and are performed at smaller and smaller scale, there is greater potential application for robotic assistance in extreme motion scaling and tremor reduction. METHODS: The Symani Surgical System (Medical Microinstruments, S.p.A, Calci, Pisa, Italy), a robotic platform designed for microsurgery, was used in a robot-assisted microsurgical free flap reconstruction using a perforator-to-perforator flap technique. This procedure utilized robot-assisted anastomosis of an artery and vein. RESULTS: The procedure was completed successfully, with vessels fully patent immediately following and 20 minutes after anastomosis. The flap was viable, no re-exploration of the anastomosis was necessary postoperatively, and no flap loss occurred. CONCLUSIONS: This novel, dedicated robotic platform with wristed microsurgical instruments was shown to be feasible for carrying out robot-assisted anastomosis of veins and arteries less than 0.8 mm in diameter, in the domain of supermicrosurgery. The system has the potential to open the field of microsurgery to new clinicians and to facilitate new microsurgical applications that were previously rendered inaccessible by the limits of manual precision and physiological tremor.",
       "abstract_tr": "",
       "score": 0.955
+    },
+    {
+      "date": "2026-06-22",
+      "category": "reconstructive",
+      "pmid": "36780355",
+      "title": "Ultrathin Anterolateral Thigh Free Flap: An Adipocutaneous Flap with the Most Superficial Elevation Plane.",
+      "authors": "Cha HG, Hur J, Ahn C et al.",
+      "journal": "Plast Reconstr Surg",
+      "year": 2023,
+      "doi": "10.1097/PRS.0000000000010295",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36780355/",
+      "citation_count": 15,
+      "rcr": 7.470803703449235,
+      "abstract": "BACKGROUND: Although many efforts have been made to create thinner anterolateral thigh (ALT) flaps, their thickness varies among patients, and the flap may be still too thick to match shallow defects. The authors successfully harvested an ALT flap through the most superficial elevation plane, the superficial fat layer, which was useful to match the shallow defects. METHODS: All patients who underwent ALT free flap reconstruction for upper and lower distal extremity defects were divided retrospectively into groups by ALT flap elevation plane: thin, above the deep fascia; superthin, at the superficial fascia; and ultrathin, through the superficial fat. Preoperative computed tomographic angiography and duplex ultrasonography planning were used for all patients. Anatomical characteristics of donor subcutaneous tissue and surgical details, including flap thickness, flap size, and incidence of flap necrosis were compared among the groups and between sexes. RESULTS: The average deep and superficial fascial depths were 16.7 and 10.8 mm, 12.5 and 8.2 mm, and 9.1 and 5.6 mm ( P < 0.05), and the average flap thickness was 5.8 mm, 7.9 mm, and 7.8 mm ( P = 0.29) in the ultrathin, superthin, and thin ALT groups, respectively. No significant intergroup differences existed in flap size or complications. The deep and superficial fascia were located significantly deeper in female patients (9.4 and 6.0 mm in male patients and 14.9 and 9.6 mm in female patients, respectively). CONCLUSIONS: With precise preoperative planning, the most superficially elevated, ultrathin ALT flap can achieve optimal reconstructions of thin body areas. Female patients with thicker thighs and patients with a high body mass index would benefit from this flap. CLINICAL QUESTION/LEVEL OF EVIDENCE: Therapeutic, IV.",
+      "abstract_tr": "",
+      "score": 0.8521
     }
   ]
 }
