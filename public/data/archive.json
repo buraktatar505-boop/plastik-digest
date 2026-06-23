@@ -33,6 +33,22 @@
   },
   {
     "date": "2026-06-23",
+    "category": "aesthetic",
+    "pmid": "39384606",
+    "title": "Machine Learning, Deep Learning, Artificial Intelligence and Aesthetic Plastic Surgery: A Qualitative Systematic Review.",
+    "authors": "Nogueira R, Eguchi M, Kasmirski J et al.",
+    "journal": "Aesthetic Plast Surg",
+    "year": 2025,
+    "doi": "10.1007/s00266-024-04421-3",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39384606/",
+    "citation_count": 18,
+    "rcr": 8.6985911582017,
+    "abstract": "PURPOSE: This systematic review aims to assess the use of machine learning, deep learning, and artificial intelligence in aesthetic plastic surgery. METHODS: This qualitative systematic review followed the Preferred Reporting Items for Systematic Reviews and Meta-analyses reporting guideline. To analyze quality risk-of-bias assessment of all included articles, we used the ROBINS-I tool for non-randomized studies. We searched for studies with the following MeSH terms: Machine Learning OR Deep Learning OR Artificial intelligence AND Plastic surgery on MEDLINE/PubMed, EMBASE, and Cochrane Library, from inception until July 2024 without any filter applied. RESULTS: A total of 2,148 studies were screened and 41 were fully reviewed. We conducted article extraction, screening, and full text review using the rayyan tool. Eighteen studies were ultimately included in this review, describing the use of machine learning, deep learning and artificial intelligence in aesthetic plastic surgery. All studies were published from 2019 to 2024. Articles varied regarding the population studied, type of machine learning (ML), Deep Learning Model (DLM), Artificial Intelligence (AI) used, and aesthetic plastic surgery type. Of the eighteen studies, we included the following aesthetic plastic surgeries: augmentation mastopexy, breast augmentation, reduction mammoplasty, rhinoplasty, facial rejuvenation surgery, including facelift surgery; blepharoplasty, and body contouring. Image-based with AI, ML, and DLMs algorithms were used in these studies to improve human decision-making and identified factors associated with postoperative complications. CONCLUSION: AI, ML, and DL algorithms offer immense potential to transform the aesthetic plastic surgery field. By meticulously analyzing patient data, these technologies may, in the future, help optimize treatment plans, predict potential complications, and more clearly elucidate patient concerns, improving their ability to make informed decisions. The drawback, as with preoperative surgical simulation, is that patients may see an AI-generated image that is to their liking, but impossible to achieve; great care is needed when using such tools in order to not create unrealistic expectations. Ultimately, the old plastic surgery adage of ''under-promise and over-deliver'' will continue to hold true, at least for the foreseeable future. LEVEL OF EVIDENCE III: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 . Study registration A review protocol for this systematic review was registered at PROSPERO CRD42024567461.",
+    "abstract_tr": "",
+    "score": 0.7144
+  },
+  {
+    "date": "2026-06-23",
     "category": "reconstructive",
     "pmid": "35551691",
     "title": "Free flap transfer with supermicrosurgical technique for soft tissue reconstruction: A systematic review and meta-analysis.",
@@ -62,6 +78,22 @@
     "abstract": "INTRODUCTION: Reducing donor site morbidity after deep inferior epigastric artery perforator (DIEP) flap harvest relies mainly upon maintaining integrity of the anterior rectus sheath fascia. The purpose of this study is to describe our minimally-invasive technique for robotic DIEP flap harvest. METHODS: A retrospective review of four patients undergoing seven robotic-assisted DIEP flaps from 2019 to 2020 was conducted. Average patient age and BMI were 52 years (range: 45-60 years) and 26.7 kg/m RESULTS: All four patients underwent bilateral abdominally-based free flap reconstruction. Three patients received bilateral robotic DIEP flaps, and one patient underwent unilateral robotic DIEP flap reconstruction. The da Vinci Xi robot was used in all cases. Average flap weight and pedicle length were 522 g (range: 110-809 g) and 11.2 cm (range: 10-12 cm), respectively. There were no flap failures, and no patient experienced abdominal wall donor site morbidity on physical exam. CONCLUSION: While further studies are needed to validate its use, this report represents the largest series of robotic DIEP flap harvests to date and is a valuable addition to the literature.",
     "abstract_tr": "",
     "score": 0.8806
+  },
+  {
+    "date": "2026-06-23",
+    "category": "reconstructive",
+    "pmid": "35196696",
+    "title": "Vein Grafts in Free Flap Reconstruction: Review of Indications and Institutional Pearls.",
+    "authors": "Langdell HC, Shammas RL, Atia A et al.",
+    "journal": "Plast Reconstr Surg",
+    "year": 2022,
+    "doi": "10.1097/PRS.0000000000008856",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35196696/",
+    "citation_count": 25,
+    "rcr": 5.36899353340486,
+    "abstract": "Vein grafts enable soft-tissue reconstruction in cases of insufficient pedicle length, a lack of nearby recipient vessels, and a wide zone of injury caused by trauma or radiation therapy. The purpose of this article is to provide a comprehensive review of vein grafts in free flap reconstruction focusing on the timing of arteriovenous loops, complications, and surgical technique. Vein graft indications, types of vein grafts, and location-specific considerations are also reviewed. Three reconstructive microsurgeons at high-volume centers were asked to offer institutional pearls on the order of anastomosis, selection of donor veins, and timing of arteriovenous loops. In terms of gap length, vessel gaps less than 10 cm may be reconstructed with an interposition or transposition vein graft. For longer gaps, surgeons should consider the use of arteriovenous loops, transposition arteriovenous loops, or flow-through flaps. Both one and two-stage arteriovenous loops are used, depending on patient comorbidities, potential exposure of critical structures, and surgeon preference. Although one-stage arteriovenous loops expedite the reconstructive process, two-stage arteriovenous loops require shorter operations and help identify patients at risk of flap failure. Although whether the use of vein grafts increases flap failure rates is controversial, complications are highest in lower extremity reconstruction, cases of a prolonged interval between stages in two-stage arteriovenous loops, and unplanned vein grafts.",
+    "abstract_tr": "",
+    "score": 0.9149
   },
   {
     "date": "2026-06-22",
