@@ -1,7 +1,17 @@
 import Link from "next/link";
 import ArticleCard from "@/components/ArticleCard";
 import type { Article } from "@/types";
-import archiveData from "@/data/archive.json";
+
+const REPO_RAW = "https://raw.githubusercontent.com/buraktatar505-boop/plastik-digest/main";
+
+async function loadArchive(): Promise<Article[]> {
+  try {
+    const res = await fetch(`${REPO_RAW}/data/archive.json`, { cache: "no-store" });
+    return await res.json();
+  } catch {
+    return [];
+  }
+}
 
 function formatDate(dateStr: string): string {
   try {
@@ -21,8 +31,8 @@ function groupByDate(articles: Article[]): [string, Article[]][] {
   return Array.from(map.entries()).sort(([a], [b]) => b.localeCompare(a));
 }
 
-export default function ArchivePage() {
-  const articles = archiveData as Article[];
+export default async function ArchivePage() {
+  const articles = await loadArchive();
   const grouped = groupByDate(articles);
 
   return (
