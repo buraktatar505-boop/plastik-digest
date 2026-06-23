@@ -1,7 +1,17 @@
 import Link from "next/link";
 import ArticleCard from "@/components/ArticleCard";
 import type { Article } from "@/types";
-import todayData from "@/data/today.json";
+
+const REPO_RAW = "https://raw.githubusercontent.com/buraktatar505-boop/plastik-digest/main";
+
+async function loadToday() {
+  try {
+    const res = await fetch(`${REPO_RAW}/data/today.json`, { cache: "no-store" });
+    return await res.json();
+  } catch {
+    return { date: null, articles: [] };
+  }
+}
 
 function formatDate(dateStr: string | null): string {
   if (!dateStr) return "";
@@ -12,11 +22,11 @@ function formatDate(dateStr: string | null): string {
   } catch { return dateStr; }
 }
 
-export default function HomePage() {
-  const articles = (todayData as { date: string | null; articles: Article[] }).articles;
+export default async function HomePage() {
+  const data = await loadToday();
+  const articles: Article[] = data.articles ?? [];
   const aesthetic = articles.find((a) => a.category === "aesthetic");
   const reconstructive = articles.find((a) => a.category === "reconstructive");
-  const date = (todayData as { date: string | null }).date;
 
   return (
     <main className="min-h-screen">
@@ -24,7 +34,7 @@ export default function HomePage() {
         <div className="max-w-5xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
           <div>
             <h1 className="text-xl font-bold text-slate-900 tracking-tight">Plastik Cerrahi Digest</h1>
-            {date && <p className="text-slate-500 text-sm mt-0.5">{formatDate(date)}</p>}
+            {data.date && <p className="text-slate-500 text-sm mt-0.5">{formatDate(data.date)}</p>}
           </div>
           <Link href="/archive" className="text-sm text-slate-500 hover:text-slate-900 font-medium">Arşiv →</Link>
         </div>
