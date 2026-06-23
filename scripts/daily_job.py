@@ -1,7 +1,5 @@
-"""
-Günlük orkestrasyon betiği.
-Çalıştırma: python -m scripts.daily_job  (proje kök dizininden)
-"""
+import json
+import os
 from datetime import datetime
 
 from scripts import config
@@ -10,15 +8,15 @@ from scripts.icite import lookup as icite_lookup
 from scripts.pubmed import efetch_abstract, esearch, esummary
 from scripts.scoring import score_articles
 from scripts.summarize import summarize_tr
+from scripts.render import render_today, render_archive
 
 
-def _build_candidate(pmid: str, summaries: dict, icite: dict) -> dict | None:
+def _build_candidate(pmid, summaries, icite):
     pub = icite.get(pmid, {})
     s = summaries.get(pmid, {})
     if not pub and not s:
         return None
 
-    # Authors: ilk 3 + et al.
     authors_raw = s.get("authors", [])
     if isinstance(authors_raw, list):
         names = [a.get("name", "") for a in authors_raw[:3]]
@@ -28,8 +26,7 @@ def _build_candidate(pmid: str, summaries: dict, icite: dict) -> dict | None:
     else:
         authors = str(authors_raw)
 
-    # Year
-    year: int | None = pub.get("year")
+    year = pub.get("year")
     if year is None:
         raw_date = s.get("pubdate", "")
         try:
@@ -51,21 +48,21 @@ def _build_candidate(pmid: str, summaries: dict, icite: dict) -> dict | None:
     }
 
 
-def run() -> dict:
+def run():
     init_db()
     today = datetime.now().strftime("%Y-%m-%d")
-    print(f"[{today}] Daily job starting — MODE={config.MODE}, RECENCY={config.RECENCY_YEARS}yr")
+    print(f"[{today}] Başladı — MODE={config.MODE}")
 
-    results: dict[str, dict] = {}
+    results = {}
 
     for category in ["aesthetic", "reconstructive"]:
         print(f"\n  [{category}] PubMed aranıyor...")
         pmids = esearch(category, retmax=200)
-        print(f"  [{category}] {len(pmids)} aday bulundu")
+        print(f"  [{category}] {len(pmids)} aday")
 
         shown = already_shown(pmids)
         pmids = [p for p in pmids if p not in shown]
-        print(f"  [{category}] {len(pmids)} aday (tekrar filtresi sonrası)")
+        print(f"  [{category}] {len(pmids)} aday (dedup sonrası)")
 
         if not pmids:
             print(f"  [{category}] Yeni makale yok, atlanıyor.")
@@ -74,7 +71,7 @@ def run() -> dict:
         print(f"  [{category}] iCite skoru alınıyor...")
         icite = icite_lookup(pmids)
 
-        print(f"  [{category}] esummary meta verisi alınıyor...")
+        print(f"  [{category}] Metadata alınıyor...")
         summaries = esummary(pmids)
 
         candidates = []
@@ -85,7 +82,6 @@ def run() -> dict:
                 candidates.append(c)
 
         if not candidates:
-            print(f"  [{category}] Aday oluşturulamadı, atlanıyor.")
             continue
 
         scored = score_articles(candidates)
@@ -93,30 +89,29 @@ def run() -> dict:
         print(f"  [{category}] En iyi: PMID={best['pmid']} skor={best['score']}")
 
         print(f"  [{category}] Abstract alınıyor...")
-        abstract = efetch_abstract(best["pmid"])
-        best["abstract"] = abstract
+        best["abstract"] = efetch_abstract(best["pmid"])
 
-        print(f"  [{category}] Türkçe özet üretiliyor...")
-        best["abstract_tr"] = summarize_tr(abstract)
+        print(f"  [{category}] Türkçe özet...")
+        best["abstract_tr"] = summarize_tr(best["abstract"])
 
         save_pick(best)
         results[category] = best
         print(f"  [{category}] Kaydedildi ✓")
 
     export_json()
-    print(f"\n[{today}] Tamamlandı. {len(results)} makale kaydedildi.")
+
+    data_dir = config.DATA_DIR
+    with open(os.path.join(data_dir, "today.json"), encoding="utf-8") as f:
+        today_data = json.load(f)
+    with open(os.path.join(data_dir, "archive.json"), encoding="utf-8") as f:
+        archive_data = json.load(f)
+
+    render_today(today_data)
+    render_archive(archive_data)
+    print(f"\n[{today}] Tamamlandı. {len(results)} makale, HTML oluşturuldu.")
     return results
 
 
 if __name__ == "__main__":
     run()
-        from scripts.render import render_today, render_archive
-    import json, os
-    with open(os.path.join(config.DATA_DIR, "today.json"), encoding="utf-8") as f:
-        today_data = json.load(f)
-    with open(os.path.join(config.DATA_DIR, "archive.json"), encoding="utf-8") as f:
-        archive_data = json.load(f)
-    render_today(today_data)
-    render_archive(archive_data)
-    print(f"[{today}] HTML oluşturuldu.")
 
