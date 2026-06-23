@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-23",
+    "category": "aesthetic",
+    "pmid": "35259146",
+    "title": "Structural Preservation Rhinoplasty: A Hybrid Approach.",
+    "authors": "Toriumi DM, Kovacevic M, Kosins AM",
+    "journal": "Plast Reconstr Surg",
+    "year": 2022,
+    "doi": "10.1097/PRS.0000000000009063",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35259146/",
+    "citation_count": 53,
+    "rcr": 10.229053179077047,
+    "abstract": "Structural preservation rhinoplasty merges two popular philosophies of rhinoplasty-structure rhinoplasty and preservation rhinoplasty-in an effort to maximize patient outcomes, aesthetics, and function. This allows the surgeon to both preserve the favorable attributes of the nose, and also to structure the nasal tip and dorsum with grafts to maximize contour and support. The concept of dorsal preservation is to preserve favorable dorsal aesthetic lines without the creation of an \"open roof.\" However, the addition of some structure concepts can expand the utility of dorsal preservation in primary rhinoplasty patients. The authors discuss these structure concepts and their applicability to dorsal preservation.",
+    "abstract_tr": "",
+    "score": 0.8702
+  },
+  {
+    "date": "2026-06-23",
+    "category": "reconstructive",
+    "pmid": "35551691",
+    "title": "Free flap transfer with supermicrosurgical technique for soft tissue reconstruction: A systematic review and meta-analysis.",
+    "authors": "Escandón JM, Ciudad P, Mayer HF et al.",
+    "journal": "Microsurgery",
+    "year": 2023,
+    "doi": "10.1002/micr.30894",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35551691/",
+    "citation_count": 17,
+    "rcr": 6.6734561257793645,
+    "abstract": "BACKGROUND: Supermicrosurgery is a technique that allows microsurgeons to accomplish dissections and anastomoses of vessels and nerve fascicles with diameters of ≤0.8 mm. Considering the potential benefits of this technique and limited literature synthesizing the outcomes of supermicrosurgery, the aim of this study was to summarize the available evidence of reconstructive supermicrosurgery and to estimate the success rate. METHODS: We conducted a comprehensive search across PubMed, Scopus, Embase, and Web of Science. We included patient-based studies reporting on procedures for soft-tissue reconstruction with free flaps specifying the use of supermicrosurgery. We excluded studies reporting on lymphatic surgery, solely peripheral nerve surgery, and tissue replantation. Our primary endpoint was to calculate the flap success rate. Pooled estimates were calculated using a random-effects meta-analytic model. RESULTS: Forty-seven studies reporting outcomes of 698 flaps were included for qualitative synthesis. Overall, 15.75% of flaps were used for head and neck, 4.4% for breast and trunk, 9.3% for upper limb, and 69.2% for lower limb reconstruction. The most used flap was the superficial circumflex iliac artery perforator flap (41.5%). The overall flap success rate was 96.6% (95%CI 95.2%-98.1%). The cumulative rate of partial flap loss was 3.84% (95%CI 1.8%-5.9%). The overall vascular complication rate resulting in complete or partial flap loss was 5.93% (95%CI 3.5%-8.3%). CONCLUSIONS: Supermicrosurgery displays a high success rate. Further studies are necessary to explore the true potential of supermicrosurgery. This technique reformulates the boundaries of reconstructive surgery due to its extensive application.",
+    "abstract_tr": "",
+    "score": 0.8717
+  },
+  {
     "date": "2026-06-22",
     "category": "aesthetic",
     "pmid": "39103642",
