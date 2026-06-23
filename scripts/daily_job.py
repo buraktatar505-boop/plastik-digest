@@ -110,3 +110,13 @@ def run() -> dict:
 
 if __name__ == "__main__":
     run()
+        from scripts.render import render_today, render_archive
+    import json, os
+    with open(os.path.join(config.DATA_DIR, "today.json"), encoding="utf-8") as f:
+        today_data = json.load(f)
+    with open(os.path.join(config.DATA_DIR, "archive.json"), encoding="utf-8") as f:
+        archive_data = json.load(f)
+    render_today(today_data)
+    render_archive(archive_data)
+    print(f"[{today}] HTML oluşturuldu.")
+
