@@ -20,6 +20,8 @@ jobs:
           ENABLE_TR_SUMMARY: "false"
           MODE: balanced
           RECENCY_YEARS: "5"
+                    DATA_DIR: public/data
+
       - run: |
           git config user.name "digest-bot"
           git config user.email "bot@plastik-digest"
