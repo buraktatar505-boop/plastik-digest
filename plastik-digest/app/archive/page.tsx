@@ -1,17 +1,8 @@
+"use client";
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import ArticleCard from "@/components/ArticleCard";
 import type { Article } from "@/types";
-
-const REPO_RAW = "https://raw.githubusercontent.com/buraktatar505-boop/plastik-digest/main";
-
-async function loadArchive(): Promise<Article[]> {
-  try {
-    const res = await fetch(`${REPO_RAW}/data/archive.json`, { cache: "no-store" });
-    return await res.json();
-  } catch {
-    return [];
-  }
-}
 
 function formatDate(dateStr: string): string {
   try {
@@ -24,16 +15,23 @@ function formatDate(dateStr: string): string {
 function groupByDate(articles: Article[]): [string, Article[]][] {
   const map = new Map<string, Article[]>();
   for (const a of articles) {
-    const existing = map.get(a.date) ?? [];
-    existing.push(a);
-    map.set(a.date, existing);
+    const list = map.get(a.date) ?? [];
+    list.push(a);
+    map.set(a.date, list);
   }
   return Array.from(map.entries()).sort(([a], [b]) => b.localeCompare(a));
 }
 
-export default async function ArchivePage() {
-  const articles = await loadArchive();
-  const grouped = groupByDate(articles);
+export default function ArchivePage() {
+  const [grouped, setGrouped] = useState<[string, Article[]][]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    fetch("/data/archive.json")
+      .then((r) => r.json())
+      .then((data: Article[]) => setGrouped(groupByDate(data)))
+      .finally(() => setLoading(false));
+  }, []);
 
   return (
     <main className="min-h-screen">
@@ -44,14 +42,16 @@ export default async function ArchivePage() {
         </div>
       </header>
       <div className="max-w-5xl mx-auto px-4 sm:px-6 py-10 space-y-14">
-        {grouped.length === 0 ? (
+        {loading ? (
+          <p className="text-center text-slate-400 py-24">Yükleniyor...</p>
+        ) : grouped.length === 0 ? (
           <p className="text-center text-slate-400 py-24">Henüz arşiv kaydı yok.</p>
         ) : (
-          grouped.map(([date, dayArticles]) => (
+          grouped.map(([date, arts]) => (
             <section key={date}>
               <h2 className="text-xs font-semibold uppercase tracking-wider text-slate-400 mb-5">{formatDate(date)}</h2>
               <div className="grid md:grid-cols-2 gap-6">
-                {dayArticles.map((a) => <ArticleCard key={a.pmid} article={a} />)}
+                {arts.map((a) => <ArticleCard key={a.pmid} article={a} />)}
               </div>
             </section>
           ))
