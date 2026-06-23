@@ -1,17 +1,8 @@
+"use client";
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import ArticleCard from "@/components/ArticleCard";
 import type { Article } from "@/types";
-
-const REPO_RAW = "https://raw.githubusercontent.com/buraktatar505-boop/plastik-digest/main";
-
-async function loadToday() {
-  try {
-    const res = await fetch(`${REPO_RAW}/data/today.json`, { cache: "no-store" });
-    return await res.json();
-  } catch {
-    return { date: null, articles: [] };
-  }
-}
 
 function formatDate(dateStr: string | null): string {
   if (!dateStr) return "";
@@ -22,11 +13,23 @@ function formatDate(dateStr: string | null): string {
   } catch { return dateStr; }
 }
 
-export default async function HomePage() {
-  const data = await loadToday();
-  const articles: Article[] = data.articles ?? [];
-  const aesthetic = articles.find((a) => a.category === "aesthetic");
-  const reconstructive = articles.find((a) => a.category === "reconstructive");
+export default function HomePage() {
+  const [date, setDate] = useState<string | null>(null);
+  const [aesthetic, setAesthetic] = useState<Article | null>(null);
+  const [reconstructive, setReconstructive] = useState<Article | null>(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    fetch("/data/today.json")
+      .then((r) => r.json())
+      .then((data) => {
+        setDate(data.date);
+        const arts: Article[] = data.articles ?? [];
+        setAesthetic(arts.find((a) => a.category === "aesthetic") ?? null);
+        setReconstructive(arts.find((a) => a.category === "reconstructive") ?? null);
+      })
+      .finally(() => setLoading(false));
+  }, []);
 
   return (
     <main className="min-h-screen">
@@ -34,16 +37,16 @@ export default async function HomePage() {
         <div className="max-w-5xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
           <div>
             <h1 className="text-xl font-bold text-slate-900 tracking-tight">Plastik Cerrahi Digest</h1>
-            {data.date && <p className="text-slate-500 text-sm mt-0.5">{formatDate(data.date)}</p>}
+            {date && <p className="text-slate-500 text-sm mt-0.5">{formatDate(date)}</p>}
           </div>
           <Link href="/archive" className="text-sm text-slate-500 hover:text-slate-900 font-medium">Arşiv →</Link>
         </div>
       </header>
       <div className="max-w-5xl mx-auto px-4 sm:px-6 py-10">
-        {!aesthetic && !reconstructive ? (
-          <div className="text-center py-24 text-slate-400">
-            <p className="text-lg font-medium text-slate-600">Bugün henüz makale seçilmedi</p>
-          </div>
+        {loading ? (
+          <p className="text-center text-slate-400 py-24">Yükleniyor...</p>
+        ) : !aesthetic && !reconstructive ? (
+          <p className="text-center text-slate-400 py-24">Bugün henüz makale seçilmedi.</p>
         ) : (
           <div className="grid md:grid-cols-2 gap-6">
             {aesthetic && <ArticleCard article={aesthetic} />}
