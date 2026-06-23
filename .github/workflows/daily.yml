@@ -20,12 +20,11 @@ jobs:
           ENABLE_TR_SUMMARY: "false"
           MODE: balanced
           RECENCY_YEARS: "5"
-                    DATA_DIR: public/data
-
+          DATA_DIR: public/data
       - run: |
           git config user.name "digest-bot"
           git config user.email "bot@plastik-digest"
-          git add data/
+          git add data/ public/data/
           git diff --cached --quiet || git commit -m "digest: $(date -u +%Y-%m-%d)"
           git push
       - name: Vercel deploy tetikle
