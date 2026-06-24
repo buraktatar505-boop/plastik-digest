@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-24",
+    "category": "aesthetic",
+    "pmid": "34480483",
+    "title": "Novel targets and therapies for keloid.",
+    "authors": "Naik PP",
+    "journal": "Clin Exp Dermatol",
+    "year": 2022,
+    "doi": "10.1111/ced.14920",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34480483/",
+    "citation_count": 70,
+    "rcr": 8.308941508796153,
+    "abstract": "Keloids are the result of aberrant tissue scarring typically occurring in injured skin, and are caused by the overgrowth of granulation tissue or collagen type III during the healing process. There is a genetic component, thus a predisposition can be genetically transmitted. Keloids are difficult to treat because of their postexcisional recurrence, and they have an impact on patient quality of life due to psychological distress caused by cosmetic concerns and functional disability. Treatment ranges from classic corticosteroid therapy to multimodal approaches such as injections, cryotherapy, laser, radiation, radiofrequency ablation and extracorporeal shockwave therapy. Recent discoveries into the pathogenesis of keloid have enabled clinicians to expand the therapeutic options for treatment. The aim of this paper was to review the literature, clarify the general concept of keloid development, and assess emerging treatment options such as stem cell therapy, mitomycin C, bleomycin, interferon, botulinum toxin type A, calcium channel blockers, angiotensin-converting enzyme inhibitors and fat grafting, and the evolutionary advancement towards epigenetic modifications and gene therapy.",
+    "abstract_tr": "",
+    "score": 0.6525
+  },
+  {
+    "date": "2026-06-24",
+    "category": "reconstructive",
+    "pmid": "37394775",
+    "title": "Supermicrosurgery with perforator-to-perforator anastomoses for lower limb reconstructions - A systematic review and meta-analysis.",
+    "authors": "Lo Torto F, Firmani G, Patanè L et al.",
+    "journal": "Microsurgery",
+    "year": 2024,
+    "doi": "10.1002/micr.31081",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37394775/",
+    "citation_count": 8,
+    "rcr": 5.253272073014303,
+    "abstract": "BACKGROUND: Supermicrosurgical flaps based on perforator-to-perforator microanastomoses have been described for lower limb reconstruction. This approach offers the benefit of raising short pedicles while sparing axial vessels, which effectively enables complex reconstructive techniques in comorbid patients at high risk of reconstructive failure. The aim of our study is to assess the surgical outcomes of perforator-to-perforator based flaps in comparison to conventional free flaps for reconstructions of the lower limb district, through a systematic review of literature and meta-analysis. METHODS: A search on PubMed, Embase, Cohrane, and Web of Science was performed between March-July 2022. No restrictions were placed on study date. Only English manuscripts were assessed. Reviews, short communications, letters, correspondence were excluded after reviewing their references for potentially relevant studies. A Bayesian approach was used to conduct the meta-analysis comparing flap-related outcomes. RESULTS: From 483 starting citations, 16 manuscripts were included for full-text analysis in the review, and three were included in the meta-analysis. Out of 1556 patients, 1047 received a perforator-to-perforator flap. Complications were reported in 119 flaps (11.4%), which included total flap failure in 71 cases (6.8%), partial flap failure in 47 cases (4.5%). Overall flap complications had a HR of 1.41 (0.94-2.11; 95% C.I.). Supermicrosurgical and conventional microsurgical reconstructions were not associated with statistically significant differences (p = .89). CONCLUSION: Our evidence supports the safety of surgical outcomes, with acceptable flap complication rates. Nevertheless, these findings are limited by poor overall quality which must be addressed and used to encourage higher-level evidence in the field.",
+    "abstract_tr": "",
+    "score": 0.849
+  },
+  {
     "date": "2026-06-23",
     "category": "aesthetic",
     "pmid": "35259146",
