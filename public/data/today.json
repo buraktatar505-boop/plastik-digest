@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "articles": [
     {
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "category": "aesthetic",
-      "pmid": "34486647",
-      "title": "A Systematic Review and Meta-Analysis Evaluating the Impact of Tranexamic Acid Administration in Aesthetic Plastic Surgery.",
-      "authors": "Laikhter E, Comer CD, Shiah E et al.",
-      "journal": "Aesthet Surg J",
+      "pmid": "35764813",
+      "title": "The Use of the FACE-Q Aesthetic: A Narrative Review.",
+      "authors": "Ottenhof MJ, Veldhuizen IJ, Hensbergen LJV et al.",
+      "journal": "Aesthetic Plast Surg",
       "year": 2022,
-      "doi": "10.1093/asj/sjab333",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34486647/",
-      "citation_count": 48,
-      "rcr": 8.854961652864628,
-      "abstract": "BACKGROUND: Recent evidence suggests tranexamic acid (TXA) may improve outcomes in aesthetic surgery patients. OBJECTIVES: This systematic review aimed to investigate the impact of TXA use in aesthetic plastic surgery on bleeding and aesthetic outcomes. METHODS: A systematic literature search was conducted to identify studies evaluating TXA use in aesthetic plastic surgery. The primary outcome of interest was perioperative bleeding, reported as total blood loss (TBL), ecchymosis, and hematoma formation. Meta-analyses analyzing TBL and postoperative hematoma were performed. RESULTS: Of 287 identified articles, 14 studies evaluating TXA use in rhinoplasty (6), rhytidectomy (3), liposuction (3), reduction mammaplasty (1), and blepharoplasty (1) were included for analysis. Of 820 total patients, 446 (54.4%) received TXA. Meta-analysis demonstrated TXA is associated with 26.3 mL average blood loss reduction (95% CI, -40.0 to -12.7 mL; P < 0.001) and suggested a trend toward decreased odds of postoperative hematoma with TXA use (odds ratio, 0.280; 95% CI, 0.076-1.029; P = 0.055). Heterogeneity among reporting of other outcomes precluded meta-analysis; however, 5 of 7 studies found significantly decreased postoperative ecchymosis levels within 7 days of surgery, 3 studies found statistically significant reductions in postoperative drain output, and 1 study reported significantly improved surgical site quality for patients who received TXA (P = 0.001). CONCLUSIONS: TXA is associated with decreased blood loss and a trend toward decreased hematoma formation in aesthetic plastic surgery. Its use has the potential to increase patient satisfaction with postoperative recovery and decrease costs associated with complications, including hematoma evacuation.",
+      "doi": "10.1007/s00266-022-02974-9",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35764813/",
+      "citation_count": 42,
+      "rcr": 8.873131235908183,
+      "abstract": "INTRODUCTION: In the past decade there has been an increasing interest in the field of patient-reported outcome measures (PROMs) which are now commonly used alongside traditional outcome measures, such as morbidity and mortality. Since the FACE-Q Aesthetic development in 2010, it has been widely used in clinical practice and research, measuring the quality of life and patient satisfaction. It quantifies the impact and change across different aspects of cosmetic facial surgery and minimally invasive treatments. We review how researchers have utilized the FACE-Q Aesthetic module to date, and aim to understand better whether and how it has enhanced our understanding and practice of aesthetic facial procedures. METHODS: We performed a systematic search of the literature. Publications that used the FACE-Q Aesthetic module to evaluate patient outcomes were included. Publications about the development of PROMs or modifications of the FACE-Q Aesthetic, translation or validation studies of the FACE-Q Aesthetic scales, papers not published in English, reviews, comments/discussions, or letters to the editor were excluded. RESULTS: Our search produced 1189 different articles; 70 remained after applying in- and exclusion criteria. Significant findings and associations were further explored. The need for evidence-based patient-reported outcome caused a growing uptake of the FACE-Q Aesthetic in cosmetic surgery and dermatology an increasing amount of evidence concerning facelift surgery, botulinum toxin, rhinoplasty, soft tissue fillers, scar treatments, and experimental areas. DISCUSSION: The FACE-Q Aesthetic has been used to contribute substantial evidence about the outcome from the patient perspective in cosmetic facial surgery and minimally invasive treatments. The FACE-Q Aesthetic holds great potential to improve quality of care and may fundamentally change the way we measure success in plastic surgery and dermatology. LEVEL OF EVIDENCE III: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
       "abstract_tr": "",
-      "score": 0.6763
+      "score": 0.74
     },
     {
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "category": "reconstructive",
-      "pmid": "36728555",
-      "title": "HoloLens in Breast Reconstruction: What Is the Future?",
-      "authors": "Masterton G, Miller R, Patel J et al.",
-      "journal": "Plast Reconstr Surg",
-      "year": 2023,
-      "doi": "10.1097/PRS.0000000000010158",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36728555/",
-      "citation_count": 19,
-      "rcr": 4.145849002806763,
-      "abstract": "Autologous breast reconstruction using the deep inferior epigastric perforator flap has been established as the standard for perforator-based free-flap breast reconstruction. This technique relies on the surgeon's ability to identify the patient's relevant abdominal vasculature to facilitate accurate dissection, optimize surgical outcomes, and minimize morbidity. A technique is described in which the authors incorporate augmented reality using HoloLens technology in their surgical planning to identify epigastric arteries and perforators. This technology allows the surgeon to superimpose computed tomography angiography images directly onto the patient, facilitating an in vivo appreciation of underlying anatomy before incision and dissection. This allows real-time surgical planning, increasing the value and tangibility of preoperative computed tomography angiography with the potential to enhance the accuracy and efficiency of the operative technique. Although the authors did not use the HoloLens technology to make clinical decisions, they provide evidence of its accuracy and ease of use, offering a proof of concept. The potential of this technology is demonstrated, and the authors encourage future application in free-flap breast reconstruction and beyond.",
+      "pmid": "37589377",
+      "title": "MRA for Preoperative Planning and Postoperative Management of Perforator Flap Surgeries: A Review.",
+      "authors": "Thimmappa ND",
+      "journal": "J Magn Reson Imaging",
+      "year": 2024,
+      "doi": "10.1002/jmri.28946",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37589377/",
+      "citation_count": 13,
+      "rcr": 5.559937059642911,
+      "abstract": "Perforator flap magnetic resonance angiography (MRA) has emerged as a widely accepted and preferred modality for perforator flap mapping at several institutions. Autologous perforator flaps are a type of reconstructive microsurgical technique that involves transferring skin and fat from one part of the patient's body to another to replace tissue lost due to trauma, cancer resection, or other reasons. Autologous perforator flaps are based on a specific perforating blood vessel perfusing the transferred tissue. Hence, the surgery relies on the precise identification and mapping of perforating vessels to ensure successful outcomes. With its superior soft tissue contrast and multiplanar imaging capabilities, MRA has shown great potential in providing accurate and detailed visualization of perforator anatomy, size, and course. This review article summarizes the current literature on perforator flap MRA, including its technical considerations, imaging protocols, postprocessing, and reporting, specifically for autologous breast reconstructions. The advantages and limitations of MRA in evaluating perforator flaps are discussed, including its role in preoperative planning, intraoperative guidance, and postoperative assessment. Anatomy, brief surgical technique, specific technical modifications, and reporting of most commonly performed autologous breast flaps are described. Recent advancements in Perforator flap surgery and MRA techniques are discussed. Additionally, we examine the emerging role of artificial intelligence and machine learning in improving the accuracy and efficiency of perforator flap MRA interpretation. LEVEL OF EVIDENCE: 5 TECHNICAL EFFICACY: Stage 5.",
       "abstract_tr": "",
-      "score": 0.8341
+      "score": 0.77
     }
   ]
 }
