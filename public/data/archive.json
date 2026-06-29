@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-29",
+    "category": "aesthetic",
+    "pmid": "38485745",
+    "title": "Dorsal preservation rhinoplasty versus dorsal hump reduction: a randomized prospective study, functional and aesthetic outcomes.",
+    "authors": "Alsakka MA, ElBestar M, Gharib FM et al.",
+    "journal": "Eur Arch Otorhinolaryngol",
+    "year": 2024,
+    "doi": "10.1007/s00405-024-08546-8",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38485745/",
+    "citation_count": 13,
+    "rcr": 9.780886116509159,
+    "abstract": "PURPOSE: To compare the functional and esthetic outcomes of dorsal preservation rhinoplasty (DPR) and conventional dorsal hump reduction (DHR) in primary rhinoplasty using patient-reported outcome measures (PROMs) and cone beam computed tomography (CBCT). METHODS: In our randomized prospective double-blinded clinical trial, 50 patients had dorsal nasal hump surgery between October 2021 and November 2022 in our tertiary referral center. All surgeries were done by the same surgeon. Patients were randomly assigned to two groups: Group (A): 25 patients had DPR, and group (B): 25 patients underwent DHR. Pre-operative and post-operative evaluations were conducted using standardized cosmesis and health nasal outcomes survey (SCHNOS), surgeons' rhinoplasty evaluation questionnaire (SREQ), and the CBCT. RESULTS: Following an average of 7.22 ± 2.07 months, patients in both groups reported significantly higher levels of satisfaction, as measured by the SCHNOS score (p < 0.001) and the average of three SREQ scores (p < 0.001). These results align with the radiological analysis, which denoted an overall improvement in the average of both sides' internal nasal valve angle and cross-sectional area after surgery with (p = 0.001) and (p = 0.085), respectively, for the DPR group and with (p = 0.281) and (p = 0.014), respectively, for the DHR group. There was no statistically significant difference in outcomes between both groups (p > 0.05). CONCLUSION: Dorsal preservation is a viable alternative to conventional dorsal hump reduction in primary rhinoplasty. There was no difference in the functional and esthetic outcomes between both techniques, which were verified by radiological investigation.",
+    "abstract_tr": "",
+    "score": 0.7231
+  },
+  {
+    "date": "2026-06-29",
+    "category": "reconstructive",
+    "pmid": "40192162",
+    "title": "Free Flap Reconstruction of Abdominal Wall Defects: A Systematic Review and Pooled Analysis.",
+    "authors": "Kim MI, Manasyan A, Stanton EW et al.",
+    "journal": "Microsurgery",
+    "year": 2025,
+    "doi": "10.1002/micr.70059",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40192162/",
+    "citation_count": 6,
+    "rcr": 2.966056569534598,
+    "abstract": "BACKGROUND: Reconstruction of extensive abdominal wall defects poses significant challenges, often requiring free tissue transfer when traditional methods are inadequate. This review examines the past decade's literature on free flaps for abdominal wall reconstruction to guide decision-making. METHODS: A systematic review following PRISMA guidelines was conducted on July 17, 2024, using PubMed, Cochrane Library, Web of Science, Embase, and Scopus. Studies from 2013 to 2023 involving free flap reconstruction with at least 3 months follow-up were included. Surgical complications and outcomes were analyzed. RESULTS: Of 2269 articles, 32 met inclusion criteria, involving 104 free flaps. There were no reports of flap loss. The average defect size was 330.0 ± 200.8 cm CONCLUSION: Free flap reconstruction is safe and effective for large abdominal wall defects, with similar outcomes across flap types. Infection as the initial etiology was the strongest predictor of postoperative infection. Further studies are needed to establish guidelines for patient and flap selection.",
+    "abstract_tr": "",
+    "score": 0.859
+  },
+  {
     "date": "2026-06-28",
     "category": "aesthetic",
     "pmid": "38862661",
