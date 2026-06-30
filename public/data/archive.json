@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-30",
+    "category": "aesthetic",
+    "pmid": "36315261",
+    "title": "Complications of Aesthetic Surgical Tourism Treated in the USA: A Systematic Review.",
+    "authors": "McAuliffe PB, Muss TEL, Desai AA et al.",
+    "journal": "Aesthetic Plast Surg",
+    "year": 2023,
+    "doi": "10.1007/s00266-022-03041-z",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36315261/",
+    "citation_count": 23,
+    "rcr": 6.5279514977694735,
+    "abstract": "BACKGROUND: Medical tourism has grown increasingly popular in the past few decades. Cosmetic surgery centers have developed in vacation locales, offering procedures at lower prices. However, surgeons and patients alike are often unprepared for management of complications after patients return to the USA. The aim of this study is to provide an overview of US cosmetic surgery tourism patients and the complications faced by US healthcare providers. METHODS: A systematic review was performed using the Web of Science, Cochrane, Embase, Scopus, and PubMed databases up to February 2022; included articles were full-text, English language, and reported complications of patients receiving postoperative care in the USA after cosmetic surgery abroad. Two independent reviewers performed screening for article eligibility with a 3rd for conflict resolution. Patient demographics, procedure characteristics, and outcomes were extracted and aggregated. RESULTS: Twenty studies were included, describing 214 patients. Most patients were female (98.1%, n = 210), middle-aged, and Hispanic. The most common destination country was the Dominican Republic (82.7%, n = 177) and the most common surgical procedure was abdominoplasty (35.7%, n = 114). Complications were mainly infectious (50.9%, n = 112) and required prolonged treatment periods often greater than two months, with high rates of hospitalization (36.8%) and surgical management (51.8%). CONCLUSIONS: Cosmetic surgery tourism is a growing industry with adverse implications for the US healthcare system and patients themselves. This review aims to serve as a reference to prepare plastic surgeons for the scope of complications associated with cosmetic tourism and improve counseling to better prepare patients for the financial and health risks. LEVEL OF EVIDENCE III: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266.",
+    "abstract_tr": "",
+    "score": 0.6947
+  },
+  {
+    "date": "2026-06-30",
+    "category": "reconstructive",
+    "pmid": "33885162",
+    "title": "The profunda artery perforator free flap for lower extremity reconstruction.",
+    "authors": "Ciudad P, Kaciulyte J, Torto FL et al.",
+    "journal": "Microsurgery",
+    "year": 2022,
+    "doi": "10.1002/micr.30745",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33885162/",
+    "citation_count": 19,
+    "rcr": 3.8449286429228633,
+    "abstract": "BACKGROUND: The profunda artery perforator (PAP) flap has been reported in several types of reconstructions. This report aims to evaluate the usefulness and the clinical outcome of patients who underwent the PAP free flap for lower limb reconstruction. METHODS: Between February 2018 and February 2020, nine patients with injury at lower third of the leg, foot dorsum or foot plant (eight acute injuries and one chronic ulcer) were selected. Mean wound size was 12.5 × 6.3 cm (9 × 5-14.5 × 6.5). Inclusion criteria consisted in patient's request to hide the donor site scar and the absence of previous traumas or surgery in the donor site. Patients considered unable to bear prolonged surgery were excluded. Patients underwent preoperative CT angiography and peri-operative Doopler, for perforator selection. All flaps were designed with pinch test, in elliptical shape. Microvascular anastomosis was performed to the tibialis anterior/posterior or medial plantar vessels. Outcomes were evaluated in terms of wound coverage success and patient's quality of life through Lower Extremity Functional Scale (LEFS) questionnaire. RESULTS: The mean size of the harvested skin paddle was 13.5 × 7.4 cm (9 × 6-15 × 8) and mean pedicle length was 8.5 cm. Mean flap harvest time was 43.5 min (35-55). Flap survival rate was 100%, with one re-exploration with minimal partial flap loss. Mean follow-up was 13.5 months . Reconstructive results were successful in wound coverage and function. All patients reported satisfaction with their result by LEFS questionnaire (score:64.7). CONCLUSION: With proper patient selection, there was 100% flap survival rate with no major complication. According to our data, the PAP free flap could be a valuable option for lower extremity reconstruction.",
+    "abstract_tr": "",
+    "score": 0.8579
+  },
+  {
     "date": "2026-06-29",
     "category": "aesthetic",
     "pmid": "38485745",
