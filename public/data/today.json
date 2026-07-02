@@ -1,37 +1,37 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "articles": [
     {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "category": "aesthetic",
-      "pmid": "37580565",
-      "title": "Artificial Intelligence for Rhinoplasty Design in Asian Patients.",
-      "authors": "Li R, Shu F, Zhen Y et al.",
-      "journal": "Aesthetic Plast Surg",
-      "year": 2024,
-      "doi": "10.1007/s00266-023-03534-5",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37580565/",
-      "citation_count": 11,
-      "rcr": 7.341919702804966,
-      "abstract": "BACKGROUND: Rhinoplasty is one of the most challenging plastic surgeries because it lacks a uniform standard for preoperative design or implementation. For a long time, rhinoplasties were done without an accurate consensus of aesthetic design between surgeons and patients before surgery and consequently brought unsatisfactory appearance for patients. In recent years, three-dimensional (3D) simulation has been used to visualize the preoperative design of rhinoplasty, and good results have been achieved. However, it still relied on individual aesthetics and experience. The preoperative design remained a huge challenge for inexperienced surgeons and could be time-consuming to perform manually. Therefore, we adopted artificial intelligence (AI) in this work to provide a new idea for automated and efficient preoperative nasal contour design. METHODS: We collected a dataset of 3D facial images from 209 patients. For each patient, both the original face and the manually designed face using 3D simulation software were included. The 3D images were transformed into point clouds, based on which we used the modified FoldingNet model for deep neural network training (by pytorch 1.12). RESULTS: The trained AI model gained the ability to perform aesthetic design automatically and achieved similar results to manual design. We analysed the 1027 facial features captured by the AI model and concluded two of its possible cognitive modes. One is to resemble the human aesthetic considerations while the other is to fulfil the given task in a special way of the machine. CONCLUSION: We presented the first AI model for automated preoperative 3D simulation of rhinoplasty in this study. It provided a new idea for the automated, individual and efficient preoperative design, which was expected to bring a new paradigm for rhinoplasty and even the whole field of plastic surgery. LEVEL OF EVIDENCE IV: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+      "pmid": "36728791",
+      "title": "TikTok: Is It Time to Start Trending with #PlasticSurgery?",
+      "authors": "Long EA, Shiah E, Lin SJ",
+      "journal": "Plast Reconstr Surg",
+      "year": 2023,
+      "doi": "10.1097/PRS.0000000000010121",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36728791/",
+      "citation_count": 13,
+      "rcr": 4.51206979645125,
+      "abstract": "BACKGROUND: TikTok is a short-form video social media platform created in 2016 that has rapidly grown in popularity. The aim of this study was to examine trending plastic surgery videos on TikTok and to understand the dynamics of the #PlasticSurgery conversation on this relatively new social media platform. METHODS: A prospective analysis of TikTok videos identified by directly querying the platform using #PlasticSurgery was performed during November of 2020. Top trending videos at time of data collection, defined as having more than 100,000 likes, were included. Videos were analyzed for user credentials, video engagement (number of views, likes, shares, and comments), associated hashtags, and video purpose and content. RESULTS: The top 376 trending videos were viewed a total of 1,680,910,700 times at time of analysis. Videos made by board-certified plastic surgeons were, on average, more popular than videos made by non-plastic surgeons [490.4 versus 378.6 million likes ( P = 0.006); 5.1 versus 3.8 billion views ( P = 0.046)]. The most popular procedures featured were augmentation mammaplasty (531,143,800 views; 42,825,400 likes), followed by body contouring procedures such as liposuction and abdominoplasty (276,810,500 views; 22,362,000 likes) and rhinoplasty (243,724,100 views; 27,588,200 likes). Educational videos on average had significantly higher levels of engagement than entertainment-focused videos [549,336 versus 340,163 likes ( P = 0.002); 6.3 versus 2.9 million views ( P < 0.001)]. CONCLUSIONS: Videos about plastic surgery, particularly educational videos by board-certified plastic surgeons, perform exceptionally well on the TikTok platform. TikTok presents an opportunity for plastic surgeons to educate patients about plastic surgery procedures and to present themselves as board-certified plastic surgeons.",
       "abstract_tr": "",
-      "score": 0.6919
+      "score": 0.6776
     },
     {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "category": "reconstructive",
-      "pmid": "37549542",
-      "title": "Outcome analysis of free flap reconstruction for head and neck cancer with intraoperative indocyanine green angiography.",
-      "authors": "Chen KC, Lin CH, Ma H et al.",
+      "pmid": "37453410",
+      "title": "Extremity reconstruction with superficial circumflex iliac artery perforator free flap: Refinements and innovations after 101 cases.",
+      "authors": "Pereira N, Venegas J, Oñate V et al.",
       "journal": "J Plast Reconstr Aesthet Surg",
       "year": 2023,
-      "doi": "10.1016/j.bjps.2023.07.037",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37549542/",
-      "citation_count": 11,
-      "rcr": 4.119983006083578,
-      "abstract": "BACKGROUND: Intraoperative indocyanine green (ICG) angiography is used in free flap surgery to evaluate the patency of vessel anastomosis. This study evaluated the outcomes of intraoperative ICG angiography in free flap surgery for head and neck cancer. MATERIALS AND METHODS: This was a retrospective study of free flap reconstruction for head and neck cancer performed between 2015 and 2021. The outcomes analyzed were the total flap failure rate, re-exploration rate, and flap salvage rate. Differences in outcomes were compared in patients treated using intraoperative ICG angiography and those treated without. RESULTS: Of the 520 free flap surgeries in the 486 enrolled patients, 259 cases underwent intraoperative ICG angiography. In this group, there were 10 (3.9%) cases of total flap failure. In the non-ICG group, there were 22 cases (8.4%). There were 35 (13.5%) cases requiring re-exploration in the ICG group and 40 (15.3%) in the non-ICG group. The difference was not statistically significant. The flap salvage rate was 75.8% (25/33) in the ICG group and 51.4% (18/35) in the non-ICG group, which was a significant difference. CONCLUSION: We found that free flap surgery with intraoperative ICG angiography significantly decreased total flap failure rate and significantly increased salvage rate but did not significantly affect the re-exploration rate.",
+      "doi": "10.1016/j.bjps.2023.06.048",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37453410/",
+      "citation_count": 9,
+      "rcr": 3.9748519735149594,
+      "abstract": "INTRODUCTION: The superficial circumflex iliac artery perforator flap is based on perforators originated on the superficial circumflex iliac artery. This flap is thin and pliable, of moderate size, and has a concealed donor site. The authors report their experience, innovations, and refinements in both planning and execution, and the outcomes obtained after 101 extremity reconstruction consecutive cases. PATIENTS AND METHODS: A total of 101 superficial circumflex iliac artery perforator flaps were prospectively reviewed and followed up for at least one year at Hospital del Trabajador. The flaps were used for both upper (n = 21) and lower limbs (n = 80), planned with computed tomography angiography/augmented reality, and raised above the superficial fascia using a standardized approach. Demographic data, anatomy of the flap, surgical technique, and the results were assessed. RESULTS: Average flap size was 90.5 cm CONCLUSIONS: The superficial circumflex iliac artery perforator flap is versatile, thin, and pliable, suitable for covering even large defects in either the upper or lower extremities, obtaining a shallow contour and optimal esthetics results. The elevation can be standardized, but requires training and proper planning. This is the largest series in a Western country reporting the experience, refinements, and innovation that allows for better results in limb reconstruction.",
       "abstract_tr": "",
-      "score": 0.8578
+      "score": 0.815
     }
   ]
 }
