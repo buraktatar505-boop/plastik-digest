@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-04",
+    "category": "aesthetic",
+    "pmid": "37531619",
+    "title": "An Overview of Surgical Approaches for Lower Eyelid Blepharoplasty.",
+    "authors": "Nahai F, Niazi F, Nahai F et al.",
+    "journal": "Aesthet Surg J",
+    "year": 2023,
+    "doi": "10.1093/asj/sjad245",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37531619/",
+    "citation_count": 15,
+    "rcr": 6.974378363823114,
+    "abstract": "Age-related changes in the lower eyelid are noticed by patients as bags or circles under the eye, a tired look, and a flattened face. Lower eyelid blepharoplasty, in which the excess skin and/or orbital fat is excised and repositioned, is mainly performed for aesthetic reasons rather than the correction of functional abnormalities. Favorable outcomes for the combination of these approaches have been reported, but the most suitable surgical technique is still debated. This systematic narrative review deals with the indications, preoperative considerations, operative techniques, and complications of several different surgical approaches to lower eyelid blepharoplasty.",
+    "abstract_tr": "",
+    "score": 0.6552
+  },
+  {
+    "date": "2026-07-04",
+    "category": "reconstructive",
+    "pmid": "37441853",
+    "title": "Day microsurgery: Further application of free flap transfer as an ambulatory surgery.",
+    "authors": "Yamamoto T",
+    "journal": "J Plast Reconstr Aesthet Surg",
+    "year": 2023,
+    "doi": "10.1016/j.bjps.2023.06.055",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37441853/",
+    "citation_count": 9,
+    "rcr": 3.7701071782055506,
+    "abstract": "BACKGROUND: Free flap transfer (FFT) is essential in soft tissue reconstruction and can be done under local anesthesia. However, there is no study evaluating the feasibility of FFT without hospitalization. This study evaluated the feasibility of day microsurgery-FFT as a day surgery without hospitalization. METHODS: Patients who underwent day microsurgery were included. The FFT was performed under local infiltration and/or block anesthesia without sedation by a surgeon with enough experience in supermicrosurgery. We focused on minimal dissection and secure hemostasis to prevent possible complications. Patient characteristics, operative findings, and postoperative course were evaluated. RESULTS: Seventeen patients with a mean age of 40.4 years were included. All defects were of the upper extremity and due to trauma. Utilized anesthesia included local infiltration in 11 sites, digital block in 10 sites, wrist block in 12 sites, and elbow block in 4 sites. Used flap included superficial circumflex iliac artery perforator flap in 8 (47.1%) cases and short-pedicle partial toe flaps in 9 (52.9%) cases. The mean diameters of the anastomosed artery/vein were 0.88/1.29 mm, and the mean operation time was 68.9 min. All transferred flaps survived without total or partial necrosis. The postoperative course was uneventful except for 1 (5.9%) case with minor wound dehiscence. CONCLUSIONS: FFT could safely be performed without hospitalization in selected cases of an upper extremity defect. Supermicrosurgery and careful patient selection play an important role in safe day microsurgery.",
+    "abstract_tr": "",
+    "score": 0.7926
+  },
+  {
     "date": "2026-07-03",
     "category": "aesthetic",
     "pmid": "37220233",

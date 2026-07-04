@@ -1,37 +1,37 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "articles": [
     {
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "category": "aesthetic",
-      "pmid": "37220233",
-      "title": "Transconjunctival Fat Repositioning Blepharoplasty: Is Excess Fat Herniation a Prerequisite?",
-      "authors": "Chen J, Wu Y, Wang Y et al.",
-      "journal": "Plast Reconstr Surg",
-      "year": 2024,
-      "doi": "10.1097/PRS.0000000000010726",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37220233/",
-      "citation_count": 6,
-      "rcr": 4.654327282275034,
-      "abstract": "BACKGROUND: The fat repositioning technique has been widely used for the treatment of tear trough deformity, and there is a strong belief that excess fat herniation is a prerequisite for the procedure. The purpose of this study was to evaluate its effect in patients with minimal or no excess fat herniation. METHODS: A total of 232 patients underwent the procedure and met the inclusion criteria. Of them, 198 were primary cases, and 34 had a hisory of fat removal for blepharoplasty. The amount of infraorbital fat was evaluated preoperatively by palpation. Release of the tear trough ligament and fat redistribution were sequentially performed as described previously. Surgical outcome was assessed based on the Hirmand grading system and the FACE-Q scales. RESULTS: Tear trough deformities were eliminated in more than 85% of cases. Aesthetic results were comparable between the primary and secondary surgery groups. The percentage of patients who complained of extremely or moderately severe tear trough deformities decreased from 86.3% preoperatively to 34.0% postoperatively. The scores of the lower eyelid FACE-Q decreased significantly ( P < 0.05). Patients were satisfied with their decision to undergo blepharoplasty (78.2 ± 18.7). Undercorrection of the tear trough occurred in 30 patients. Other complications included 12 cases of transient conjunctiva bleeding, two cases of eyelid numbness, and six cases of dry eye. These resolved spontaneously. CONCLUSION: Fat repositioning is a feasible and effective technique for the treatment of tear trough deformities in patients with minimal or no excess orbital fat herniation, provided that a fat pad is palpable. CLINICAL QUESTION/LEVEL OF EVIDENCE: Therapeutic, IV.",
+      "pmid": "37531619",
+      "title": "An Overview of Surgical Approaches for Lower Eyelid Blepharoplasty.",
+      "authors": "Nahai F, Niazi F, Nahai F et al.",
+      "journal": "Aesthet Surg J",
+      "year": 2023,
+      "doi": "10.1093/asj/sjad245",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37531619/",
+      "citation_count": 15,
+      "rcr": 6.974378363823114,
+      "abstract": "Age-related changes in the lower eyelid are noticed by patients as bags or circles under the eye, a tired look, and a flattened face. Lower eyelid blepharoplasty, in which the excess skin and/or orbital fat is excised and repositioned, is mainly performed for aesthetic reasons rather than the correction of functional abnormalities. Favorable outcomes for the combination of these approaches have been reported, but the most suitable surgical technique is still debated. This systematic narrative review deals with the indications, preoperative considerations, operative techniques, and complications of several different surgical approaches to lower eyelid blepharoplasty.",
       "abstract_tr": "",
-      "score": 0.66
+      "score": 0.6552
     },
     {
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "category": "reconstructive",
-      "pmid": "40188534",
-      "title": "Postoperative complications in breast reconstruction with deep inferior epigastric perforator flap: Looking for evidence.",
-      "authors": "Remy K, Sapino G, Koch N et al.",
+      "pmid": "37441853",
+      "title": "Day microsurgery: Further application of free flap transfer as an ambulatory surgery.",
+      "authors": "Yamamoto T",
       "journal": "J Plast Reconstr Aesthet Surg",
-      "year": 2025,
-      "doi": "10.1016/j.bjps.2025.02.033",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40188534/",
-      "citation_count": 5,
-      "rcr": 2.7410613781451354,
-      "abstract": "INTRODUCTION: This study investigated patient- and surgery-related risk factors of postoperative complications in microvascular breast reconstruction with deep inferior epigastric perforator (DIEP) flaps. METHODS: We reviewed the retrospective charts of 212 patients who underwent 250 DIEP flap breast reconstructions between 2018 and 2023. Patient-related factors included demographic characteristics, comorbidities, radiation therapy, and chemotherapy. Surgery-related factors included reconstructive timing and laterality, perforator choice, venous anastomosis technique, and postoperative acetylsalicylic acid (ASA). Early flap complications (first postoperative week) included flap loss, venous congestion, and hematoma. Late flap complications (after the first postoperative week) included wound dehiscence, skin necrosis, fat necrosis, and infection. Donor-site complications (all late) included wound dehiscence, skin necrosis, infection, seroma, and bulging. RESULTS: The overall complication rate was 31.1%, and flap loss was 1.9%. Obesity and diabetes were significantly associated with late flap complications and donor-site complications (dehiscence, infection, fat necrosis, and seroma). Radiation therapy showed trends toward greater total flap loss, take back, and flap skin necrosis. Age, hypertension, smoking, and chemotherapy were not associated with higher complications. Harvesting multiple versus a single perforator was associated with significantly more donor-site complications. There were significantly more early flap complications and a trend toward more bulging with lateral versus medial row perforators. Venous anastomosis with a coupler versus a suture showed significantly lower flap complications. Reconstruction timing, laterality, vein number, and ASA use did not impact outcomes. CONCLUSION: Complications increased by obesity, diabetes, radiation therapy, and the use of multiple and lateral row perforators, as well as sutured venous anastomoses. Conversely, outcomes were not affected by age, hypertension, chemotherapy, reconstructive laterality and timing, vein number, coupler size, or postoperative ASA use.",
+      "year": 2023,
+      "doi": "10.1016/j.bjps.2023.06.055",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37441853/",
+      "citation_count": 9,
+      "rcr": 3.7701071782055506,
+      "abstract": "BACKGROUND: Free flap transfer (FFT) is essential in soft tissue reconstruction and can be done under local anesthesia. However, there is no study evaluating the feasibility of FFT without hospitalization. This study evaluated the feasibility of day microsurgery-FFT as a day surgery without hospitalization. METHODS: Patients who underwent day microsurgery were included. The FFT was performed under local infiltration and/or block anesthesia without sedation by a surgeon with enough experience in supermicrosurgery. We focused on minimal dissection and secure hemostasis to prevent possible complications. Patient characteristics, operative findings, and postoperative course were evaluated. RESULTS: Seventeen patients with a mean age of 40.4 years were included. All defects were of the upper extremity and due to trauma. Utilized anesthesia included local infiltration in 11 sites, digital block in 10 sites, wrist block in 12 sites, and elbow block in 4 sites. Used flap included superficial circumflex iliac artery perforator flap in 8 (47.1%) cases and short-pedicle partial toe flaps in 9 (52.9%) cases. The mean diameters of the anastomosed artery/vein were 0.88/1.29 mm, and the mean operation time was 68.9 min. All transferred flaps survived without total or partial necrosis. The postoperative course was uneventful except for 1 (5.9%) case with minor wound dehiscence. CONCLUSIONS: FFT could safely be performed without hospitalization in selected cases of an upper extremity defect. Supermicrosurgery and careful patient selection play an important role in safe day microsurgery.",
       "abstract_tr": "",
-      "score": 0.7933
+      "score": 0.7926
     }
   ]
 }
