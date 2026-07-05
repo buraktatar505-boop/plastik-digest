@@ -1,37 +1,37 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "articles": [
     {
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "category": "aesthetic",
-      "pmid": "37531619",
-      "title": "An Overview of Surgical Approaches for Lower Eyelid Blepharoplasty.",
-      "authors": "Nahai F, Niazi F, Nahai F et al.",
-      "journal": "Aesthet Surg J",
+      "pmid": "36396289",
+      "title": "Open Preservation Rhinoplasty Using the Piezo Electric Instrument.",
+      "authors": "Goksel A, Tran KN",
+      "journal": "Facial Plast Surg Clin North Am",
       "year": 2023,
-      "doi": "10.1093/asj/sjad245",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37531619/",
-      "citation_count": 15,
-      "rcr": 6.974378363823114,
-      "abstract": "Age-related changes in the lower eyelid are noticed by patients as bags or circles under the eye, a tired look, and a flattened face. Lower eyelid blepharoplasty, in which the excess skin and/or orbital fat is excised and repositioned, is mainly performed for aesthetic reasons rather than the correction of functional abnormalities. Favorable outcomes for the combination of these approaches have been reported, but the most suitable surgical technique is still debated. This systematic narrative review deals with the indications, preoperative considerations, operative techniques, and complications of several different surgical approaches to lower eyelid blepharoplasty.",
+      "doi": "10.1016/j.fsc.2022.08.007",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36396289/",
+      "citation_count": 14,
+      "rcr": 7.06902766244444,
+      "abstract": "Preservation rhinoplasty represents a growing shift in rhinoplasty philosophy toward preserving structurally sound anatomy and reshaping existing nasal structures into esthetic and functional ideals. It is fast gaining popularity owing to the theoretic functional and esthetic benefits of preserving the dorsal keystone area and dorsal esthetic lines. The preservation technique is made more accessible by the open approach, which provides an opportunity for the deformity to be clearly visualized from the tip of the nose to the dorsum, as well as enables greater ease of powered instrument access. The addition of the Piezo-electric device, with its range of rhinoplasty inserts, enables more precise and accurate management of the osseocartilaginous vault, reduces the risk of surface irregularities, and hence optimizes the overall surgical outcome.",
       "abstract_tr": "",
-      "score": 0.6552
+      "score": 0.6508
     },
     {
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "category": "reconstructive",
-      "pmid": "37441853",
-      "title": "Day microsurgery: Further application of free flap transfer as an ambulatory surgery.",
-      "authors": "Yamamoto T",
-      "journal": "J Plast Reconstr Aesthet Surg",
-      "year": 2023,
-      "doi": "10.1016/j.bjps.2023.06.055",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37441853/",
-      "citation_count": 9,
-      "rcr": 3.7701071782055506,
-      "abstract": "BACKGROUND: Free flap transfer (FFT) is essential in soft tissue reconstruction and can be done under local anesthesia. However, there is no study evaluating the feasibility of FFT without hospitalization. This study evaluated the feasibility of day microsurgery-FFT as a day surgery without hospitalization. METHODS: Patients who underwent day microsurgery were included. The FFT was performed under local infiltration and/or block anesthesia without sedation by a surgeon with enough experience in supermicrosurgery. We focused on minimal dissection and secure hemostasis to prevent possible complications. Patient characteristics, operative findings, and postoperative course were evaluated. RESULTS: Seventeen patients with a mean age of 40.4 years were included. All defects were of the upper extremity and due to trauma. Utilized anesthesia included local infiltration in 11 sites, digital block in 10 sites, wrist block in 12 sites, and elbow block in 4 sites. Used flap included superficial circumflex iliac artery perforator flap in 8 (47.1%) cases and short-pedicle partial toe flaps in 9 (52.9%) cases. The mean diameters of the anastomosed artery/vein were 0.88/1.29 mm, and the mean operation time was 68.9 min. All transferred flaps survived without total or partial necrosis. The postoperative course was uneventful except for 1 (5.9%) case with minor wound dehiscence. CONCLUSIONS: FFT could safely be performed without hospitalization in selected cases of an upper extremity defect. Supermicrosurgery and careful patient selection play an important role in safe day microsurgery.",
+      "pmid": "40552611",
+      "title": "Free Flap Reconstruction in Burns: A Systematic Review of Current Practices and Evidence.",
+      "authors": "Fan C, Azam F, Hinson C et al.",
+      "journal": "Microsurgery",
+      "year": 2025,
+      "doi": "10.1002/micr.70086",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40552611/",
+      "citation_count": 5,
+      "rcr": 2.6840534459855365,
+      "abstract": "BACKGROUND: The use of microsurgery remains extremely limited in burn management despite offering an alternative in cases where conventional burn reconstruction techniques fall short. This systematic review aims to evaluate the success of microsurgical burn reconstruction in both acute and chronic burn patients and compare it to other surgical modalities as reported in current literature. METHODS: Adhering to PRISMA guidelines, a systematic literature search was conducted across Ovid Medline, Embase, PubMed/Google Scholar databases, spanning publications from 2005 to 2023. Thirteen studies met inclusion criteria. Data were sorted into categories such as study details, patient demographics, burn information, surgical management, and outcomes. RESULTS: The studies encompassed 396 microsurgical reconstructions with a wide age range and varied anatomical regions for both primary and secondary reconstruction. The most common burn etiology was flame, and most acute burn surgeries were performed five to 22 days after injury. The most common acute and nonacute complications were partial necrosis and hematomas, respectively. Findings revealed an average success rate per flap of 92.7% and 95.7% for acute and reconstructive free flaps, respectively. CONCLUSION: Microsurgery offers a promising alternative for complex burn injuries where conventional reconstructive options are exhausted or fall short. However, its success is contingent on patient selection, timing of intervention, and perioperative patient care. The success rate and complication profile of acute microsurgical burn reconstruction are similar to that seen in trauma reconstruction. Secondary microsurgical burn reconstructions have similar success rates to those seen in other elective flaps, such as breast reconstruction. Current usage of microsurgery in burns is low, yet the majority of literature supports expanding its application in the field.",
       "abstract_tr": "",
-      "score": 0.7926
+      "score": 0.787
     }
   ]
 }

@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-05",
+    "category": "aesthetic",
+    "pmid": "36396289",
+    "title": "Open Preservation Rhinoplasty Using the Piezo Electric Instrument.",
+    "authors": "Goksel A, Tran KN",
+    "journal": "Facial Plast Surg Clin North Am",
+    "year": 2023,
+    "doi": "10.1016/j.fsc.2022.08.007",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36396289/",
+    "citation_count": 14,
+    "rcr": 7.06902766244444,
+    "abstract": "Preservation rhinoplasty represents a growing shift in rhinoplasty philosophy toward preserving structurally sound anatomy and reshaping existing nasal structures into esthetic and functional ideals. It is fast gaining popularity owing to the theoretic functional and esthetic benefits of preserving the dorsal keystone area and dorsal esthetic lines. The preservation technique is made more accessible by the open approach, which provides an opportunity for the deformity to be clearly visualized from the tip of the nose to the dorsum, as well as enables greater ease of powered instrument access. The addition of the Piezo-electric device, with its range of rhinoplasty inserts, enables more precise and accurate management of the osseocartilaginous vault, reduces the risk of surface irregularities, and hence optimizes the overall surgical outcome.",
+    "abstract_tr": "",
+    "score": 0.6508
+  },
+  {
+    "date": "2026-07-05",
+    "category": "reconstructive",
+    "pmid": "40552611",
+    "title": "Free Flap Reconstruction in Burns: A Systematic Review of Current Practices and Evidence.",
+    "authors": "Fan C, Azam F, Hinson C et al.",
+    "journal": "Microsurgery",
+    "year": 2025,
+    "doi": "10.1002/micr.70086",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40552611/",
+    "citation_count": 5,
+    "rcr": 2.6840534459855365,
+    "abstract": "BACKGROUND: The use of microsurgery remains extremely limited in burn management despite offering an alternative in cases where conventional burn reconstruction techniques fall short. This systematic review aims to evaluate the success of microsurgical burn reconstruction in both acute and chronic burn patients and compare it to other surgical modalities as reported in current literature. METHODS: Adhering to PRISMA guidelines, a systematic literature search was conducted across Ovid Medline, Embase, PubMed/Google Scholar databases, spanning publications from 2005 to 2023. Thirteen studies met inclusion criteria. Data were sorted into categories such as study details, patient demographics, burn information, surgical management, and outcomes. RESULTS: The studies encompassed 396 microsurgical reconstructions with a wide age range and varied anatomical regions for both primary and secondary reconstruction. The most common burn etiology was flame, and most acute burn surgeries were performed five to 22 days after injury. The most common acute and nonacute complications were partial necrosis and hematomas, respectively. Findings revealed an average success rate per flap of 92.7% and 95.7% for acute and reconstructive free flaps, respectively. CONCLUSION: Microsurgery offers a promising alternative for complex burn injuries where conventional reconstructive options are exhausted or fall short. However, its success is contingent on patient selection, timing of intervention, and perioperative patient care. The success rate and complication profile of acute microsurgical burn reconstruction are similar to that seen in trauma reconstruction. Secondary microsurgical burn reconstructions have similar success rates to those seen in other elective flaps, such as breast reconstruction. Current usage of microsurgery in burns is low, yet the majority of literature supports expanding its application in the field.",
+    "abstract_tr": "",
+    "score": 0.787
+  },
+  {
     "date": "2026-07-04",
     "category": "aesthetic",
     "pmid": "37531619",
