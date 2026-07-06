@@ -1,37 +1,37 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "articles": [
     {
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "category": "aesthetic",
-      "pmid": "36396289",
-      "title": "Open Preservation Rhinoplasty Using the Piezo Electric Instrument.",
-      "authors": "Goksel A, Tran KN",
-      "journal": "Facial Plast Surg Clin North Am",
-      "year": 2023,
-      "doi": "10.1016/j.fsc.2022.08.007",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36396289/",
-      "citation_count": 14,
-      "rcr": 7.06902766244444,
-      "abstract": "Preservation rhinoplasty represents a growing shift in rhinoplasty philosophy toward preserving structurally sound anatomy and reshaping existing nasal structures into esthetic and functional ideals. It is fast gaining popularity owing to the theoretic functional and esthetic benefits of preserving the dorsal keystone area and dorsal esthetic lines. The preservation technique is made more accessible by the open approach, which provides an opportunity for the deformity to be clearly visualized from the tip of the nose to the dorsum, as well as enables greater ease of powered instrument access. The addition of the Piezo-electric device, with its range of rhinoplasty inserts, enables more precise and accurate management of the osseocartilaginous vault, reduces the risk of surface irregularities, and hence optimizes the overall surgical outcome.",
+      "pmid": "38366551",
+      "title": "Comparison of Functional and Cosmetic Outcomes Between Dorsal Preservation and Spreader Flap Rhinoplasty: A Randomized Trial.",
+      "authors": "Zarei R, Most SP, Amali A et al.",
+      "journal": "Aesthet Surg J",
+      "year": 2024,
+      "doi": "10.1093/asj/sjae038",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38366551/",
+      "citation_count": 9,
+      "rcr": 6.520080745454426,
+      "abstract": "BACKGROUND: Preservation rhinoplasty is a novel and increasingly utilized method in nasal plastic surgery. OBJECTIVES: The study aimed to compare the functional and aesthetic outcomes of dorsal preservation rhinoplasty, a new and interesting method, with conventional hump resection. METHODS: A total of 84 rhinoplasty applicants were randomly assigned to 2 groups. The first group underwent convention dorsal hump resection with spreader flap midvault reconstruction and the second group underwent dorsal preservation rhinoplasty with the modified subdorsal strip method. Aesthetic and functional outcomes, including residual hump, nasal width, projection, and rotation, were evaluated after 1 year with the Standardized Cosmesis and Health Nasal Outcomes Survey (SCHNOS), visual analog scale (VAS), and image analysis. RESULTS: Eighty-four patients with a mean age of 30.96 ± 6.75 years were recruited, of whom 15 (17.6%) were male. There were no significant differences in confounding variables between the 2 groups. There were no significant differences in residual hump (P = .11), nasal width (P = .37), projection (P = .70), rotation (P = .79), VAS (P = .81), or SCHNOS (P = .90) between the 2 groups. CONCLUSIONS: Dorsal preservation rhinoplasty with the modified subdorsal strip method may have comparable aesthetic and functional outcomes to spreader flaps midvault reconstruction.",
       "abstract_tr": "",
-      "score": 0.6508
+      "score": 0.6606
     },
     {
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "category": "reconstructive",
-      "pmid": "40552611",
-      "title": "Free Flap Reconstruction in Burns: A Systematic Review of Current Practices and Evidence.",
-      "authors": "Fan C, Azam F, Hinson C et al.",
-      "journal": "Microsurgery",
-      "year": 2025,
-      "doi": "10.1002/micr.70086",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40552611/",
-      "citation_count": 5,
-      "rcr": 2.6840534459855365,
-      "abstract": "BACKGROUND: The use of microsurgery remains extremely limited in burn management despite offering an alternative in cases where conventional burn reconstruction techniques fall short. This systematic review aims to evaluate the success of microsurgical burn reconstruction in both acute and chronic burn patients and compare it to other surgical modalities as reported in current literature. METHODS: Adhering to PRISMA guidelines, a systematic literature search was conducted across Ovid Medline, Embase, PubMed/Google Scholar databases, spanning publications from 2005 to 2023. Thirteen studies met inclusion criteria. Data were sorted into categories such as study details, patient demographics, burn information, surgical management, and outcomes. RESULTS: The studies encompassed 396 microsurgical reconstructions with a wide age range and varied anatomical regions for both primary and secondary reconstruction. The most common burn etiology was flame, and most acute burn surgeries were performed five to 22 days after injury. The most common acute and nonacute complications were partial necrosis and hematomas, respectively. Findings revealed an average success rate per flap of 92.7% and 95.7% for acute and reconstructive free flaps, respectively. CONCLUSION: Microsurgery offers a promising alternative for complex burn injuries where conventional reconstructive options are exhausted or fall short. However, its success is contingent on patient selection, timing of intervention, and perioperative patient care. The success rate and complication profile of acute microsurgical burn reconstruction are similar to that seen in trauma reconstruction. Secondary microsurgical burn reconstructions have similar success rates to those seen in other elective flaps, such as breast reconstruction. Current usage of microsurgery in burns is low, yet the majority of literature supports expanding its application in the field.",
+      "pmid": "38364673",
+      "title": "Abdominal donor-site complications following autologous breast reconstruction: A multi-institutional multisurgeon study.",
+      "authors": "Fisher MH, Ohmes LB, Yang JH et al.",
+      "journal": "J Plast Reconstr Aesthet Surg",
+      "year": 2024,
+      "doi": "10.1016/j.bjps.2024.01.033",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38364673/",
+      "citation_count": 7,
+      "rcr": 3.1240210106887285,
+      "abstract": "BACKGROUND: The deep inferior epigastric perforator (DIEP) free flap is the gold standard procedure for autologous breast reconstruction. Although breast-related complications have been well described, donor-site complications and contributing patient risk factors are poorly understood. METHODS: We examined a multi-institutional, prospectively maintained database of patients undergoing DIEP free flap breast reconstruction between 2015 and 2020. We evaluated patient demographics, operative details, and abdominal donor-site complications. Logistic regression modeling was used to predict donor-site outcomes based on patient characteristics. RESULTS: A total of 661 patients were identified who underwent DIEP free flap breast reconstruction across multiple institutions. Using logistic regression modeling, we found that body mass index (BMI) was an independent risk factor for umbilical complications (odds ratio [OR] 1.11, confidence interval [CI] 1.04-1.18, p = 0.001), seroma (OR 1.07, CI 1.01-1.13, p = 0.003), wound dehiscence (OR 1.10, CI 1.06-1.15, p = 0.001), and surgical site infection (OR 1.10, CI 1.05-1.15, p = 0.001) following DIEP free flap breast reconstruction. Further, immediate reconstruction decreases the risk of abdominal bulge formation (OR 0.22, CI 0.108-0.429, p = 0.001). Perforator selection was not associated with abdominal morbidity in our study population. CONCLUSIONS: Higher BMI is associated with increased abdominal donor-site complications following DIEP free flap breast reconstruction. Efforts to lower preoperative BMI may help decrease donor-site complications.",
       "abstract_tr": "",
-      "score": 0.787
+      "score": 0.7577
     }
   ]
 }
