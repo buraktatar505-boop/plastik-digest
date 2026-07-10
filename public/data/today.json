@@ -1,37 +1,37 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "articles": [
     {
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "category": "aesthetic",
-      "pmid": "40152471",
-      "title": "Functional and Aesthetic Outcomes After Upper Blepharoplasty: A Systematic Review and Meta-analysis of Randomized Control Trials.",
-      "authors": "Todorov D, Mitchell S, Al-Hashimi M et al.",
+      "pmid": "36495200",
+      "title": "The British Association of Aesthetic Plastic Surgeons (BAAPS) Gluteal Fat Grafting Safety Review and Recommendations.",
+      "authors": "Tillo O, Nassab R, Pacifico MD",
       "journal": "Aesthet Surg J",
-      "year": 2025,
-      "doi": "10.1093/asj/sjaf022",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40152471/",
-      "citation_count": 8,
-      "rcr": 4.303758920669018,
-      "abstract": "Upper blepharoplasty addresses aging-related changes by removing excess skin, muscle, and fat from the upper eyelids. This systematic review, which was registered a priori, improves upon previously published reviews regarding functional and aesthetic outcomes following upper blepharoplasty. Custom search strategies were applied across multiple databases, namely MEDLINE (United States National Library of Medicine, Bethesda, MD), Embase (Elsevier, Amsterdam, the Netherlands), Google Scholar (Alphabet, Inc., Mountain View, CA), Cochrane Central Register of Controlled Trials (CENTRAL; Cochrane Library, London, UK), Science Citation Index (Clarivate Analytics, Philadelphia, PA), PubMed (United States National Library of Medicine), and PsychInfo (American Psychological Association, Washington, DC). Bias was assessed with the Cochrane RoB 2 tool, and methodological quality was evaluated with GRADE. Out of 6799 articles, 12 randomized controlled trials with 450 patients (39 men, 411 women) were included. The meta-analysis showed significant reduction in dry eye symptoms post-upper blepharoplasty compared with preoperative status (odds ratio [OR], 0.22; 95% CI, 0.13-0.36; P < .00001). No significant difference in postoperative dry eye incidence was found between orbicularis oculi muscle plus skin excision and skin-only excision (OR, 1.55; 95% CI, 0.86-2.80; P = .25). However, muscle plus skin excision had a higher incidence of lagophthalmos (OR, 7.98; 95% CI, 1.41-45.21; P = .02). No significant differences were observed in eye irritation (OR, 1.21; 95% CI, 0.51-2.84; P = .66) or patient satisfaction (OR, 1.14; 95% CI, 0.42-3.14; P = .80). Continuous suturing techniques increased eye irritation compared with subcuticular suturing (OR, 1.77; 95% CI, 1.07-2.91; P = .03). All studies were high quality with a low risk of bias. The findings support upper blepharoplasty's efficacy in reducing dry eye symptoms, with muscle-sparing techniques minimizing lagophthalmos and maintaining high patient satisfaction.",
+      "year": 2023,
+      "doi": "10.1093/asj/sjac316",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36495200/",
+      "citation_count": 18,
+      "rcr": 5.40210906312642,
+      "abstract": "Superficial gluteal lipofilling is a fat grafting procedure performed to correct a trochanteric depression and buttock deflation. Brazilian butt lift (BBL) is a gluteal lipofilling procedure traditionally associated with exaggerated appearance and intramuscular fat transfer. The risk of mortality from fat embolism in BBL was previously reported as being 1:2500. The actual risk was later estimated to be nearer 1:15,000, which is similar to the mortality risk in abdominoplasty. There is increasing evidence regarding the safety of subcutaneous gluteal lipofilling. This has principally been related to new technologies, surgical techniques, and training being developed to avoid intramuscular injection of fat. The efficacy and benefits of intraoperative ultrasound for guiding the subcutaneous placement of fat and avoiding inadvertent deep lipofilling have been demonstrated. Other serious risks and complications must be considered in addition to mortality. These include hypothermia, sepsis, skin necrosis, and poor aesthetic results, as well as the much-publicized risk of fat embolism. Complications are better controlled and managed in strictly regulated healthcare settings. Patients seeking surgery at unregulated facilities or via medical tourism are deemed to be at higher risk of being exposed to these serious complications and/or inadequate subsequent management.",
       "abstract_tr": "",
-      "score": 0.6631
+      "score": 0.6977
     },
     {
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "category": "reconstructive",
-      "pmid": "37734365",
-      "title": "Depression and anxiety in patients with head and neck cancer undergoing free flap reconstruction.",
-      "authors": "Pichardo PFA, Desiato VM, Hellums RN et al.",
-      "journal": "Am J Otolaryngol",
-      "year": 2024,
-      "doi": "10.1016/j.amjoto.2023.104044",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37734365/",
-      "citation_count": 12,
-      "rcr": 3.487660296773093,
-      "abstract": "PURPOSE: To determine the prevalence and severity of depression and anxiety in patients with head and neck cancer (HNC) undergoing treatment with free-flap (FF) reconstruction. METHODS: Participants with HNC undergoing FF reconstruction were given the validated 9-item Patient Health Questionnaire (PHQ-9) and a 7-item Generalized Anxiety Disorder (GAD-7) questionnaire prior to surgery. Patient factors and responses were analyzed. RESULTS: Seventy-one patients were included. Mean (SD) pre-operative PHQ-9 was 7.6 (7.04) with 34 % (n = 24) having moderate to severe depression. Mean (SD) pre-operative GAD-7 was 6.5 (6.86) with 30 % (n = 21) having moderate to severe anxiety. CONCLUSION: Prevalence of depression and anxiety is high in this cohort and undiagnosed in 22 % and 18 % of patients, respectively. Due to the findings, it is prudent to screen HNC patients at initial diagnosis and offer mental health services.",
+      "pmid": "36151036",
+      "title": "Alternative imaging technologies for perforator mapping in free flap breast reconstructive surgery - A comprehensive overview of the current literature.",
+      "authors": "Steenbeek LM, Peperkamp K, Ulrich DJO et al.",
+      "journal": "J Plast Reconstr Aesthet Surg",
+      "year": 2022,
+      "doi": "10.1016/j.bjps.2022.06.100",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36151036/",
+      "citation_count": 15,
+      "rcr": 2.7053090495044456,
+      "abstract": "BACKGROUND: The use of perforator mapping has become routine for many microsurgeons in the planning and performing of free flaps in breast reconstructions. Within this field, the number of available technologies and their quality has rapidly evolved over time. This study presents an up-to-date review on the spectrum of alternative perforator mapping modalities and the efficiency and utilization in the practice of free flap breast reconstructive surgery. METHODS: Extensive searches of the PubMed and Embase databases were performed. Articles containing free flap tissue transfer in breast reconstruction and a perforator imaging modality were included. Qualitative and descriptive analyses of the outcomes were performed, and the quality of the evidence was appraised. RESULTS: One hundred and sixty-eight articles were included. Besides the routinely used handheld Doppler, CT angiography, and MR angiography, seven alternative technologies (38 studies) have been found; color Doppler fluorescent angiography, dynamic infrared thermography, image-guided stereotaxy, template, 3D printed model, and augmented reality. The modalities were classified based on their concept of imaging as volumetric perforator imaging, real-time perforator imaging, and complementary techniques. A poor level of evidence for each alternative modality was found. CONCLUSION: An overview of alternative imaging techniques available to pre- and intraoperatively map perforator locations have been given. Several novel promising techniques have been identified, all to be used in conjunction with volumetric imaging. This overview provides a perspective on the future field of imaging in reconstructive surgery.",
       "abstract_tr": "",
-      "score": 0.7016
+      "score": 0.7369
     }
   ]
 }
