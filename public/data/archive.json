@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-12",
+    "category": "aesthetic",
+    "pmid": "39285055",
+    "title": "Improving the Retention Rate of Fat Grafting by Botulinum Toxin A: A Randomized, Self-controlled, Clinical Trial.",
+    "authors": "Liu T, Qiang S, Wang N et al.",
+    "journal": "Aesthetic Plast Surg",
+    "year": 2024,
+    "doi": "10.1007/s00266-024-04342-1",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39285055/",
+    "citation_count": 9,
+    "rcr": 5.057176193339454,
+    "abstract": "BACKGROUND: Botulinum toxin A (BTX-A) can enhance the efficacy of fat grafting. However, most studies conducted animal experiments, lacked objective clinical data, or were non-randomized controlled trials. Thus, objective evaluation of the clinical effectiveness of BTX-A is still elusive. METHODS: A randomized, self-controlled trial (2020-2022) on 16 patients who underwent bilateral autogenous fat breast augmentation was performed with each patient receiving autologous fat graft and BTX-A on one side and fat graft and equal volume of saline on the other side. All patients were followed. The effects of BTX-A were evaluated objectively by comparing the remaining bilateral fat graft volumes obtained through digital three-dimensional reconstruction. The improvement of each breast appearance and complication were assessed by the physician and patients who were blinded to the treatment. RESULTS: The outcome of fat breast augmentation was evident for both sides at follow-up with no evidence of fat embolism, vascular/nervous injury, infection, and prolonged bruising. The analysis of the three-dimensional reconstruction data and assessments from both physicians and patients showed significant differences in the fat graft retention volume between the BTX-A side and the control side. No significant difference was found in the incidence of complications between the two sides. CONCLUSIONS: Autogenous fat breast augmentation is safe and effective. This study shows that BTX-A can significantly improve the retention rate of fat transplantation, but cannot reduce complications. Trial registration This study was registered prior to patient enrollment (ClinicalTrials.gov identifier:ChiCTR2100054878). LEVEL OF EVIDENCE IV: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+    "abstract_tr": "",
+    "score": 0.6846
+  },
+  {
+    "date": "2026-07-12",
+    "category": "reconstructive",
+    "pmid": "36728503",
+    "title": "The Fate of Sensation in Noninnervated Perforator Free Flaps in the Lower Extremity.",
+    "authors": "Kim HB, Cho JM, Abdelfattah U et al.",
+    "journal": "Plast Reconstr Surg",
+    "year": 2023,
+    "doi": "10.1097/PRS.0000000000010180",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36728503/",
+    "citation_count": 7,
+    "rcr": 3.1030742671693647,
+    "abstract": "BACKGROUND: The recovery of sensation for noninnervated perforator flaps is not well understood. This prospective study aims to evaluate the quality, tendency, and related factors for recovery of sensation. METHODS: A total of 187 patients over a 6-year period were evaluated at intervals of 3, 6, 12, and +24 months for demographic data and sensory tests [Semmes-Weinstein (SW) monofilament test, static two-point discrimination, temperature, and pain] on peripheral and central regions of the flap. Further detailed assessment using the SW monofilament test was made according to flap thickness, size, type, and recipient sites. Factors correlated to poor recovery were evaluated. RESULTS: Among the flaps tested, the 5.07 SW monofilament test revealed that the peripheral flap sensory recovery was achieved in 72% at +24 months with a significantly increasing linear trend ( P < 0.001). However, the central recovery was noted in only 26% to 28%. The two-point discrimination was achieved in 21% without a significant trend, whereas temperature and pain showed significant improvement, achieving 49% and 64% on the peripheral region and 22% and 31% for the central region, respectively. The flap thickness, size, type, and recipient sites did not exert significance. Only smoking was a significant factor, with 13 times higher odds of hindering sensory recovery. CONCLUSIONS: The SW monofilament test, temperature, and pain sensation on the periphery of the flap showed increasing trend of recovery over the +24 months. Among the various factors, only smoking attenuated recovery. Understanding the fate of sensory recovery in noninnervated perforator flaps will allow the surgeons to further customize the reconstruction based on the defect and maximize efficiency. CLINICAL QUESTION/LEVEL OF EVIDENCE: Risk, III.",
+    "abstract_tr": "",
+    "score": 0.7196
+  },
+  {
     "date": "2026-07-11",
     "category": "aesthetic",
     "pmid": "38057968",
