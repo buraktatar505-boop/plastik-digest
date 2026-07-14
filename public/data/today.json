@@ -1,37 +1,37 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "articles": [
     {
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "category": "aesthetic",
-      "pmid": "36988641",
-      "title": "Dorsal Preservation Rhinoplasty in Asian Hump Noses.",
-      "authors": "Jin HR, Kim Y, Jeon YJ",
-      "journal": "Plast Reconstr Surg",
-      "year": 2024,
-      "doi": "10.1097/PRS.0000000000010472",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36988641/",
-      "citation_count": 5,
-      "rcr": 3.635203748953757,
-      "abstract": "Dorsal preservation rhinoplasty, which preserves the bony-cartilaginous junction and the keystone area, has been gaining popularity in Western countries for hump nose correction. The authors aimed to report the feasibility, surgical outcome, and technical considerations of dorsal preservation rhinoplasty in Asian hump nose correction. A retrospective case series study was performed on nine patients who had undergone primary dorsal preservation rhinoplasty for hump nose correction. Rhinoplasty was performed by the senior author (H.R.J.) from March of 2019 to December of 2021. Clinical charts, graphic operation records, and standardized photographs of the patients were retrospectively reviewed and analyzed. Operations were performed using an open approach in all patients. Either the push-down technique ( n = 3) or the let-down technique ( n = 6) was used for dorsal preservation. All patients underwent tip modification, with or without radix grafting, together with dorsal preservation rhinoplasty. Bony step-off camouflage at the transverse osteotomy site was required in three patients. After surgery, both the nasofacial and rhinion angles exhibited significant changes ( P = 0.008). In all cases, hump reduction was successful, without recurrence or saddle nose, and no major complications occurred. All patients were satisfied with the aesthetic and functional results. Dorsal preservation rhinoplasty seems to be a viable option for correcting Asian hump noses. Technical considerations include a preference for the open approach; camouflage of bony step-off deformity; and strategic management of the septal cartilage, in consideration of tip modification.",
+      "pmid": "35437664",
+      "title": "Simulation and Artificial Intelligence in Rhinoplasty: A Systematic Review.",
+      "authors": "Eldaly AS, Avila FR, Torres-Guzman RA et al.",
+      "journal": "Aesthetic Plast Surg",
+      "year": 2022,
+      "doi": "10.1007/s00266-022-02883-x",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35437664/",
+      "citation_count": 26,
+      "rcr": 4.473697013065799,
+      "abstract": "BACKGROUND: Rhinoplasty is one of the most popular cosmetic procedures. The complexity of the nasal structure and the substantial aesthetic and functional impact of the operation make rhinoplasty very challenging. The past few years have witnessed an increasing implementation of artificial intelligence (AI) and simulation systems into plastic surgery practice. This review explores the potential uses of AI and simulation models in rhinoplasty. METHODS: Five electronic databases were searched: PubMed, CINAHL, EMBASE, Scopus, and Web of Science. We used the Preferred Reporting Items for Systematic Reviews and Meta-Analysis as our basis of organization. RESULTS: Several simulation models were described to predict the nasal shape that aesthetically matches the patient's face, indicate the implant size in augmentation rhinoplasty and construct three-dimensional (3D) facial images from two-dimensional images. Machine learning was used to learn surgeons' rhinoplasty styles and accurately simulate the outcomes. Deep learning was used to predict rhinoplasty status accurately and analyze the factors associated with increased facial attractiveness after rhinoplasty. Finally, a deep learning model was used to predict patients' age before and after rhinoplasty proving that the procedure made the patients look younger. CONCLUSION: 3D simulation models and AI models can revolutionalize the practice of functional and aesthetic rhinoplasty. Simulation systems can be beneficial in preoperative planning, intra-operative decision making, and postoperative evaluation. In addition, AI models can be trained to carry out tasks that are either challenging or time-consuming for surgeons. LEVEL OF EVIDENCE III: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
       "abstract_tr": "",
-      "score": 0.6836
+      "score": 0.6806
     },
     {
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "category": "reconstructive",
-      "pmid": "37473644",
-      "title": "Breast-Q sensory outcomes of non-neurotized, autologous, unilateral breast reconstruction with a minimum of 3-year follow-up.",
-      "authors": "Murphy RNA, Reid AJ, Columb MO et al.",
-      "journal": "J Plast Reconstr Aesthet Surg",
+      "pmid": "36629132",
+      "title": "Anterolateral thigh, radial forearm and superficial circumflex iliac perforator flaps in oral reconstruction: a comparative analysis.",
+      "authors": "Papanikolas MJ, Hurrell MJL, Clark JR et al.",
+      "journal": "ANZ J Surg",
       "year": 2023,
-      "doi": "10.1016/j.bjps.2023.06.054",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37473644/",
-      "citation_count": 8,
-      "rcr": 2.889436292408936,
-      "abstract": "INTRODUCTION: Sensory reinnervation of autologous breast tissue after free flap reconstruction is highly variable. There is no long-term follow-up data exploring spontaneous reinnervation and how this affects patients' quality of life nor the nerve-related symptoms they experience. To address this issue, we invited patients with a minimum of 3 years after non-neurotized, free flap breast reconstruction to complete patient-reported outcome measures exploring sensation, quality of life and breast-related symptoms. METHODS: We performed a retrospective cohort study of patients undergoing unilateral Muscle-Sparing Transverse Rectus Abdominus Muscle (MS-TRAM) or deep inferior epigastric artery perforator (DIEP) flap breast reconstruction between 01-01-2015 and 31-12-2019 in the Department of Plastic and Reconstructive Surgery at Manchester University NHS Foundation Trust. We invited participants to complete the recently developed Breast-Q© Breast Sensation Module. RESULTS: All patients had undergone unilateral immediate (n = 85) or delayed (n = 82) breast reconstruction after mastectomy using either a free DIEP (n = 150) or TRAM (n = 17) flap reconstruction a minimum of 3 years prior. The median age at operation was 48. Sensation after reconstruction was significantly reduced in the reconstructed breast compared with the contralateral breast (P < 0.0001) with a reduction in reported quality of life (immediate (68.0 [54.0, 89.0]) and delayed (68.0 [62.0, 83.8])). The sensation was significantly better in immediate vs delayed procedures (P = 0.024). Sensory scores after reconstruction increased with age (P = 0.036). DISCUSSION: Breast sensation after non-neurotized reconstruction with autologous tissue is significantly reduced at long-term follow-up with a reduction in quality of life. A minimum outcome set for quantification of breast sensation is required and future research into the cost-benefit of neurotized, autologous breast reconstruction is needed.",
+      "doi": "10.1111/ans.18239",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36629132/",
+      "citation_count": 13,
+      "rcr": 3.786856903547153,
+      "abstract": "BACKGROUND: Anterolateral thigh (ALT) and Radial forearm free flaps (RFFF) are historically the most common methods of oral reconstruction. The Superficial circumflex iliac artery perforator flap (SCIP) is an alternative providing a donor site that can be readily closed primarily with improved cosmesis in younger patients, due to its concealability. METHODS: We reviewed 135 patients who received ALT, RFFF or SCIP flaps for oral reconstruction in our institution. Our aim was to compare operative and perioperative outcomes between each cohort. ANOVA and χ RESULTS: There were 37 ALT, 64 RFFF and 35 SCIP reconstructions. Patients reconstructed with SCIP flaps had smaller resection volumes (P < 0.001) and earlier T and N classifications (P = 0.001, P = 0.008), and consequently reduced tracheostomy rates (P < 0.001), reduced need for enteral feeding at discharge (P < 0.001) and shorter length of stay and perioperative times (P < 0.001). SCIP flaps were more common in younger patients (P < 0.01). ALT flaps were used for more advanced disease (P = 0.001) and had larger resection volumes (P < 0.001) and increased need for assisted enteral feeding (P < 0.001). There were no significant differences in flap or donor site outcomes. There were two flap failures, both RFFF. CONCLUSION: Each flap plays an important role in the reconstruction of oral defects, with larger defects preferentially reconstructed with ALT flaps. SCIP appears to be a reliable alternative in small defects with excellent perioperative and postoperative outcomes.",
       "abstract_tr": "",
-      "score": 0.714
+      "score": 0.7015
     }
   ]
 }

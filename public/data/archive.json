@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-14",
+    "category": "aesthetic",
+    "pmid": "35437664",
+    "title": "Simulation and Artificial Intelligence in Rhinoplasty: A Systematic Review.",
+    "authors": "Eldaly AS, Avila FR, Torres-Guzman RA et al.",
+    "journal": "Aesthetic Plast Surg",
+    "year": 2022,
+    "doi": "10.1007/s00266-022-02883-x",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35437664/",
+    "citation_count": 26,
+    "rcr": 4.473697013065799,
+    "abstract": "BACKGROUND: Rhinoplasty is one of the most popular cosmetic procedures. The complexity of the nasal structure and the substantial aesthetic and functional impact of the operation make rhinoplasty very challenging. The past few years have witnessed an increasing implementation of artificial intelligence (AI) and simulation systems into plastic surgery practice. This review explores the potential uses of AI and simulation models in rhinoplasty. METHODS: Five electronic databases were searched: PubMed, CINAHL, EMBASE, Scopus, and Web of Science. We used the Preferred Reporting Items for Systematic Reviews and Meta-Analysis as our basis of organization. RESULTS: Several simulation models were described to predict the nasal shape that aesthetically matches the patient's face, indicate the implant size in augmentation rhinoplasty and construct three-dimensional (3D) facial images from two-dimensional images. Machine learning was used to learn surgeons' rhinoplasty styles and accurately simulate the outcomes. Deep learning was used to predict rhinoplasty status accurately and analyze the factors associated with increased facial attractiveness after rhinoplasty. Finally, a deep learning model was used to predict patients' age before and after rhinoplasty proving that the procedure made the patients look younger. CONCLUSION: 3D simulation models and AI models can revolutionalize the practice of functional and aesthetic rhinoplasty. Simulation systems can be beneficial in preoperative planning, intra-operative decision making, and postoperative evaluation. In addition, AI models can be trained to carry out tasks that are either challenging or time-consuming for surgeons. LEVEL OF EVIDENCE III: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+    "abstract_tr": "",
+    "score": 0.6806
+  },
+  {
+    "date": "2026-07-14",
+    "category": "reconstructive",
+    "pmid": "36629132",
+    "title": "Anterolateral thigh, radial forearm and superficial circumflex iliac perforator flaps in oral reconstruction: a comparative analysis.",
+    "authors": "Papanikolas MJ, Hurrell MJL, Clark JR et al.",
+    "journal": "ANZ J Surg",
+    "year": 2023,
+    "doi": "10.1111/ans.18239",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36629132/",
+    "citation_count": 13,
+    "rcr": 3.786856903547153,
+    "abstract": "BACKGROUND: Anterolateral thigh (ALT) and Radial forearm free flaps (RFFF) are historically the most common methods of oral reconstruction. The Superficial circumflex iliac artery perforator flap (SCIP) is an alternative providing a donor site that can be readily closed primarily with improved cosmesis in younger patients, due to its concealability. METHODS: We reviewed 135 patients who received ALT, RFFF or SCIP flaps for oral reconstruction in our institution. Our aim was to compare operative and perioperative outcomes between each cohort. ANOVA and χ RESULTS: There were 37 ALT, 64 RFFF and 35 SCIP reconstructions. Patients reconstructed with SCIP flaps had smaller resection volumes (P < 0.001) and earlier T and N classifications (P = 0.001, P = 0.008), and consequently reduced tracheostomy rates (P < 0.001), reduced need for enteral feeding at discharge (P < 0.001) and shorter length of stay and perioperative times (P < 0.001). SCIP flaps were more common in younger patients (P < 0.01). ALT flaps were used for more advanced disease (P = 0.001) and had larger resection volumes (P < 0.001) and increased need for assisted enteral feeding (P < 0.001). There were no significant differences in flap or donor site outcomes. There were two flap failures, both RFFF. CONCLUSION: Each flap plays an important role in the reconstruction of oral defects, with larger defects preferentially reconstructed with ALT flaps. SCIP appears to be a reliable alternative in small defects with excellent perioperative and postoperative outcomes.",
+    "abstract_tr": "",
+    "score": 0.7015
+  },
+  {
     "date": "2026-07-13",
     "category": "aesthetic",
     "pmid": "36988641",
