@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-16",
+    "category": "aesthetic",
+    "pmid": "37442708",
+    "title": "Mental health screening in facial cosmetic surgery: a narrative review of the literature.",
+    "authors": "Rehman U, Perwaiz I, Sohaib Sarwar M et al.",
+    "journal": "Br J Oral Maxillofac Surg",
+    "year": 2023,
+    "doi": "10.1016/j.bjoms.2023.05.003",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37442708/",
+    "citation_count": 12,
+    "rcr": 5.153875164964981,
+    "abstract": "The popularity of cosmetic surgery is on the increase with the face being one of the most common anatomical areas operated on. Pre-existing mental health conditions can be associated with adverse patient outcomes after cosmetic surgery and can result in deterioration of postoperative mental health and lack of patient satisfaction. Therefore, identifying the presence of psychiatric disorders through preoperative screening should be considered during consultation for facial cosmetic surgery. In this study, we reviewed the types of preoperative mental health screening tools used in cosmetic facial surgery and the prevalence of mental health conditions among patients undergoing cosmetic facial surgery. A literature search was conducted on Pubmed, Prospero, Dynamed, DARE, EMBASE, and COCHRANE databases. A total of 12 articles fulfilled the inclusion criteria. A total of 2194 participants were included in this review. Rhinoplasty (n=1154), blepharoplasty (n=138) and rhytidectomy (n=83) were the most performed facial cosmetic procedures, respectively. A total of 758 (34.1%) had a diagnosis of a potential mental health problem following the preoperative screening. With body dysmorphic disorder (BDD) being the most common (20.0%). The BDD questionnaire was the most used screening tool (n=4). Mental health diagnoses were more common in patients in low-income countries (48.4%) compared to patients from non-low-income countries (25.7%). Given our findings, we propose the routine use of mental health screening tools in all patients undergoing facial cosmetic surgery. This will improve satisfaction rates post-facial cosmetic surgery and may reduce the number of unnecessary procedures.",
+    "abstract_tr": "",
+    "score": 0.6717
+  },
+  {
+    "date": "2026-07-16",
+    "category": "reconstructive",
+    "pmid": "36336798",
+    "title": "Advantages of the scapular system in mandibular reconstruction.",
+    "authors": "Wolter GL, Swendseid BP, Sethuraman S et al.",
+    "journal": "Head Neck",
+    "year": 2023,
+    "doi": "10.1002/hed.27235",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36336798/",
+    "citation_count": 9,
+    "rcr": 4.1122843137266205,
+    "abstract": "BACKGROUND: Fibula free flaps (FFF) are often considered the first choice for mandibular reconstruction, but scapular system free flaps (SFF) have increased in popularity due to versatility, donor site advantages, and patient factors. METHODS: Retrospective chart review of patients undergoing mandibulectomy with FFF or SFF reconstruction from 2016 to 2021. RESULTS: Hundred and seventy-six patients (FFF n = 145, SFF n = 31) underwent the aforementioned procedures. Mean FFF operative time was 9.47 h versus 9.88 for SFF (p = 0.40). Two-flap reconstructions required 12.65 h versus 10.09 for SFF with soft tissue (p = 0.002). Donor site complications were identified in 65.6% of FFF with skin grafting. CONCLUSIONS: These findings suggest that SFF requires similar operative time and results in reduced donor site morbidity as compared to FFF. Supine, concurrent harvesting of SFF allows for single-flap harvest with significantly shorter operative time. SFF could be considered a primary option for mandible reconstruction for complex defects and in select patients.",
+    "abstract_tr": "",
+    "score": 0.6657
+  },
+  {
     "date": "2026-07-15",
     "category": "aesthetic",
     "pmid": "37193887",

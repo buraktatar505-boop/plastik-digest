@@ -1,37 +1,37 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "articles": [
     {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "category": "aesthetic",
-      "pmid": "37193887",
-      "title": "Changing Aesthetic Surgery Interest in Men: An 18-Year Analysis.",
-      "authors": "Lem M, Pham JT, Kim JK et al.",
-      "journal": "Aesthetic Plast Surg",
+      "pmid": "37442708",
+      "title": "Mental health screening in facial cosmetic surgery: a narrative review of the literature.",
+      "authors": "Rehman U, Perwaiz I, Sohaib Sarwar M et al.",
+      "journal": "Br J Oral Maxillofac Surg",
       "year": 2023,
-      "doi": "10.1007/s00266-023-03344-9",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37193887/",
-      "citation_count": 14,
-      "rcr": 5.018414429219258,
-      "abstract": "BACKGROUND: Historically, men have been shamed if they cared seemingly too much about their appearance and especially, if they pursued aesthetic surgery. However, due to the changing landscape of the culture, this stigma has seemed to decrease. Men have diverse and quickly changing interests in particular procedures that have not been readily explored in the currently available reports. To examine this, we analyzed interest in specific plastic surgery procedures in men over the last two decades using the Google Trends tool. METHODS: The most common cosmetic procedures were chosen from the American Society of Plastic Surgeons website and served as the search terms for the Google Trends tool from 2004 to 2021. All 19 procedures were examined for overall trends and for changes in the last decade through comparing the data in bisected time periods. RESULTS: Interest in all plastic surgery procedures in men increased since 2004 except for breast reduction. Most notably, jawline filler, Botox, microneedling, lip filler, chemical peel, CoolSculpting, and butt lift had the largest trend increases. In the last decade, all procedures showed a significant increase in interest. CONCLUSIONS: While surgical volume data are valuable, our study shows that Google Trends is a beneficial tool to predict quickly changing and specific trends, especially as the patient population of plastic surgery grows with increased diversity and generational changes. Our study shows that there is an increase in male-centered plastic surgery procedures, especially nonsurgical facial procedures. Male interest in plastic surgery will continue to increase with time. LEVEL OF EVIDENCE IV: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors   www.springer.com/00266 .",
+      "doi": "10.1016/j.bjoms.2023.05.003",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37442708/",
+      "citation_count": 12,
+      "rcr": 5.153875164964981,
+      "abstract": "The popularity of cosmetic surgery is on the increase with the face being one of the most common anatomical areas operated on. Pre-existing mental health conditions can be associated with adverse patient outcomes after cosmetic surgery and can result in deterioration of postoperative mental health and lack of patient satisfaction. Therefore, identifying the presence of psychiatric disorders through preoperative screening should be considered during consultation for facial cosmetic surgery. In this study, we reviewed the types of preoperative mental health screening tools used in cosmetic facial surgery and the prevalence of mental health conditions among patients undergoing cosmetic facial surgery. A literature search was conducted on Pubmed, Prospero, Dynamed, DARE, EMBASE, and COCHRANE databases. A total of 12 articles fulfilled the inclusion criteria. A total of 2194 participants were included in this review. Rhinoplasty (n=1154), blepharoplasty (n=138) and rhytidectomy (n=83) were the most performed facial cosmetic procedures, respectively. A total of 758 (34.1%) had a diagnosis of a potential mental health problem following the preoperative screening. With body dysmorphic disorder (BDD) being the most common (20.0%). The BDD questionnaire was the most used screening tool (n=4). Mental health diagnoses were more common in patients in low-income countries (48.4%) compared to patients from non-low-income countries (25.7%). Given our findings, we propose the routine use of mental health screening tools in all patients undergoing facial cosmetic surgery. This will improve satisfaction rates post-facial cosmetic surgery and may reduce the number of unnecessary procedures.",
       "abstract_tr": "",
-      "score": 0.6876
+      "score": 0.6717
     },
     {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "category": "reconstructive",
-      "pmid": "36813410",
-      "title": "Modern Approaches to Alternative Flap-Based Breast Reconstruction: Stacked Flaps.",
-      "authors": "Haddock NT, Teotia SS",
-      "journal": "Clin Plast Surg",
+      "pmid": "36336798",
+      "title": "Advantages of the scapular system in mandibular reconstruction.",
+      "authors": "Wolter GL, Swendseid BP, Sethuraman S et al.",
+      "journal": "Head Neck",
       "year": 2023,
-      "doi": "10.1016/j.cps.2022.10.008",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36813410/",
-      "citation_count": 10,
-      "rcr": 4.039616614435287,
-      "abstract": "Total breast reconstruction following mastectomy requires multiple components to achieve an aesthetic result. In some situations, significant skin is required to provide the needed surface area to allow breast projection and breast ptosis. Additionally, ample volume is required to reconstruct all breast quadrants and provide sufficient projection. All aspects of the breast base must be filled to achieve total breast reconstruction. In very specific circumstances, multiple flaps are employed to accomplish this level of uncompromised aesthetic breast reconstruction. The abdomen, thigh, lumbar region, and buttock can all be used in some combination, as needed, to perform both unilateral and bilateral breast reconstruction. The ultimate goal is to provide superior aesthetic results in both the recipient breast and the donor site while maintaining a very low level of long-term morbidity.",
+      "doi": "10.1002/hed.27235",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36336798/",
+      "citation_count": 9,
+      "rcr": 4.1122843137266205,
+      "abstract": "BACKGROUND: Fibula free flaps (FFF) are often considered the first choice for mandibular reconstruction, but scapular system free flaps (SFF) have increased in popularity due to versatility, donor site advantages, and patient factors. METHODS: Retrospective chart review of patients undergoing mandibulectomy with FFF or SFF reconstruction from 2016 to 2021. RESULTS: Hundred and seventy-six patients (FFF n = 145, SFF n = 31) underwent the aforementioned procedures. Mean FFF operative time was 9.47 h versus 9.88 for SFF (p = 0.40). Two-flap reconstructions required 12.65 h versus 10.09 for SFF with soft tissue (p = 0.002). Donor site complications were identified in 65.6% of FFF with skin grafting. CONCLUSIONS: These findings suggest that SFF requires similar operative time and results in reduced donor site morbidity as compared to FFF. Supine, concurrent harvesting of SFF allows for single-flap harvest with significantly shorter operative time. SFF could be considered a primary option for mandible reconstruction for complex defects and in select patients.",
       "abstract_tr": "",
-      "score": 0.6756
+      "score": 0.6657
     }
   ]
 }
