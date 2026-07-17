@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-17",
+    "category": "aesthetic",
+    "pmid": "34247959",
+    "title": "A multivariate analysis after preservation rhinoplasty (PR) - a prospective study.",
+    "authors": "Stergiou G, Fortuny CG, Schweigler A et al.",
+    "journal": "J Plast Reconstr Aesthet Surg",
+    "year": 2022,
+    "doi": "10.1016/j.bjps.2021.05.073",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34247959/",
+    "citation_count": 18,
+    "rcr": 3.9878250451897004,
+    "abstract": "BACKGROUND: Preservation rhinoplasty (PR) is considered to be an innovative approach with high patient satisfaction. However, little is known about its functional outcomes and radiological analyses. PATIENTS AND METHODS: In this prospective clinical study, 30 patients (20 female and 10 male patients, mean age 30.7 ±9.8 years) were operated on between 2017 and 2021. Radiological assessment was evaluated by cone beam computed tomography before surgery and at final follow-up. Patient assessment regarding their outcome was assessed at final follow-up using a validated questionnaire (rhinoplasty outcomes evaluation questionnaire = ROE). RESULTS: After a mean follow-up of 8.4 ± 5 months (range = 1 - 18 months), radiological analyses denoted an overall improved internal nasal valve (INV) angle after surgery (preoperative = 20.77° ± 3.2° vs. postoperative = 21.82° ± 5.7°, p = 0.18). Those results are in accordance with an overall high patient satisfaction for both function and aesthetics (ROE score 18.4 ± 4.3). CONCLUSION: Our study showed a preserved and widened INV angle after PR, along with high patient satisfaction. LEVEL OF EVIDENCE: III.",
+    "abstract_tr": "",
+    "score": 0.7818
+  },
+  {
+    "date": "2026-07-17",
+    "category": "reconstructive",
+    "pmid": "35135030",
+    "title": "Advantages of the Delayed-Immediate Microsurgical Breast Reconstruction: Extending the Choice.",
+    "authors": "Pittelkow E, DeBrock W, Christopher L et al.",
+    "journal": "J Reconstr Microsurg",
+    "year": 2022,
+    "doi": "10.1055/s-0041-1742240",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35135030/",
+    "citation_count": 15,
+    "rcr": 1.975769456097275,
+    "abstract": "BACKGROUND: Deep inferior epigastric perforator (DIEP) reconstruction can be performed in an immediate (at time of mastectomy), delayed-immediate (immediate tissue expander followed by staged DIEP), or delayed timing following mastectomy. Avoiding flap radiation is a known benefit of the delayed-immediate approach. The purpose of this study is to evaluate patients who chose DIEP flap as the reconstructive method during initial consultation and compared characteristics of surgery in relation to their final reconstructive choice. METHODS: Consecutive patients having breast reconstruction from 2017 to 2019 were divided into three groups: immediate DIEP after mastectomy (Group I); delayed-immediate DIEP with tissue expander first followed by DIEP (Group II); and patients who initially chose delayed-immediate DIEP but later decided on implants for the second stage of reconstruction (Group III). Exclusion criteria were patients that had delayed DIEP (no immediate reconstruction) or had initially chose implant-based reconstruction. RESULTS: The study included 59 patients. Unilateral free flaps in Group II had shorter operative times (318 minutes) compared with Group I unilateral free flaps (488 minutes) ( CONCLUSION: Delayed-immediate DIEP reconstruction has several advantages over immediate DIEP flap including shorter free flap operative times. Patients commonly alter their preference for second stage reconstruction. A patient-centered advantage of delayed-immediate reconstruction is prolonging the time for patients to make their choice for the final reconstruction.",
+    "abstract_tr": "",
+    "score": 0.6713
+  },
+  {
     "date": "2026-07-16",
     "category": "aesthetic",
     "pmid": "37442708",
