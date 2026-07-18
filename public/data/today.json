@@ -1,37 +1,37 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "articles": [
     {
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "category": "aesthetic",
-      "pmid": "34247959",
-      "title": "A multivariate analysis after preservation rhinoplasty (PR) - a prospective study.",
-      "authors": "Stergiou G, Fortuny CG, Schweigler A et al.",
-      "journal": "J Plast Reconstr Aesthet Surg",
-      "year": 2022,
-      "doi": "10.1016/j.bjps.2021.05.073",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34247959/",
-      "citation_count": 18,
-      "rcr": 3.9878250451897004,
-      "abstract": "BACKGROUND: Preservation rhinoplasty (PR) is considered to be an innovative approach with high patient satisfaction. However, little is known about its functional outcomes and radiological analyses. PATIENTS AND METHODS: In this prospective clinical study, 30 patients (20 female and 10 male patients, mean age 30.7 ±9.8 years) were operated on between 2017 and 2021. Radiological assessment was evaluated by cone beam computed tomography before surgery and at final follow-up. Patient assessment regarding their outcome was assessed at final follow-up using a validated questionnaire (rhinoplasty outcomes evaluation questionnaire = ROE). RESULTS: After a mean follow-up of 8.4 ± 5 months (range = 1 - 18 months), radiological analyses denoted an overall improved internal nasal valve (INV) angle after surgery (preoperative = 20.77° ± 3.2° vs. postoperative = 21.82° ± 5.7°, p = 0.18). Those results are in accordance with an overall high patient satisfaction for both function and aesthetics (ROE score 18.4 ± 4.3). CONCLUSION: Our study showed a preserved and widened INV angle after PR, along with high patient satisfaction. LEVEL OF EVIDENCE: III.",
+      "pmid": "36478029",
+      "title": "Difference in Perception of Nasal Aesthetic Appearance Between Surgeons and Rhinoplasty Patients: A Single-Center Perspective.",
+      "authors": "Kim CH, Kandathil CK, Saltychev M et al.",
+      "journal": "Aesthet Surg J",
+      "year": 2023,
+      "doi": "10.1093/asj/sjac317",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36478029/",
+      "citation_count": 11,
+      "rcr": 5.065042199012761,
+      "abstract": "BACKGROUND: Patient satisfaction is an essential outcome measure after a rhinoplasty. Yet it is not known whether the opinions of rhinoplasty patients and surgeons on nasal aesthetic appearance differ. OBJECTIVES: The aim of this study was to determine the differences between patients and surgeons in their perception of nasal aesthetic appearance. METHODS: A retrospective cohort of 300 patients seen in consultation for cosmetic, functional, or combined cosmetic and functional rhinoplasty at a single tertiary care center from June 2017 to June 2020 was studied. Based on preoperative patient images, 6 surgeons with varying levels of expertise assessed nasal aesthetics utilizing a modified Standardized Cosmesis and Health Nasal Outcomes Survey for nasal cosmesis (SCHNOS-C). These scores were then compared to the patient-reported SCHNOS-C scores. RESULTS: The cosmetic, functional, and combined subgroups consisted of 100 patients each. The mean [standard deviation] age was 35.4 [13.7] years and 64% were women. The modified SCHNOS-C scores were well-correlated among the 6 surgeons but showed only weak correlations of 0.07 to 0.20 between patient-reported scores and scores assessed by the surgeons. Compared with the surgeon's scores, patients in the cosmetic subgroup perceived their nasal aesthetic problems to be more severe whereas the those in the functional subgroup perceived their nasal aesthetic problems to be milder compared with the surgeons' assessment. CONCLUSIONS: Our findings suggest that patients and surgeons perceive nasal cosmesis differently. This difference should be considered carefully when planning rhinoplasty or assessing its outcome.",
       "abstract_tr": "",
-      "score": 0.7818
+      "score": 0.6578
     },
     {
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "category": "reconstructive",
-      "pmid": "35135030",
-      "title": "Advantages of the Delayed-Immediate Microsurgical Breast Reconstruction: Extending the Choice.",
-      "authors": "Pittelkow E, DeBrock W, Christopher L et al.",
-      "journal": "J Reconstr Microsurg",
-      "year": 2022,
-      "doi": "10.1055/s-0041-1742240",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35135030/",
-      "citation_count": 15,
-      "rcr": 1.975769456097275,
-      "abstract": "BACKGROUND: Deep inferior epigastric perforator (DIEP) reconstruction can be performed in an immediate (at time of mastectomy), delayed-immediate (immediate tissue expander followed by staged DIEP), or delayed timing following mastectomy. Avoiding flap radiation is a known benefit of the delayed-immediate approach. The purpose of this study is to evaluate patients who chose DIEP flap as the reconstructive method during initial consultation and compared characteristics of surgery in relation to their final reconstructive choice. METHODS: Consecutive patients having breast reconstruction from 2017 to 2019 were divided into three groups: immediate DIEP after mastectomy (Group I); delayed-immediate DIEP with tissue expander first followed by DIEP (Group II); and patients who initially chose delayed-immediate DIEP but later decided on implants for the second stage of reconstruction (Group III). Exclusion criteria were patients that had delayed DIEP (no immediate reconstruction) or had initially chose implant-based reconstruction. RESULTS: The study included 59 patients. Unilateral free flaps in Group II had shorter operative times (318 minutes) compared with Group I unilateral free flaps (488 minutes) ( CONCLUSION: Delayed-immediate DIEP reconstruction has several advantages over immediate DIEP flap including shorter free flap operative times. Patients commonly alter their preference for second stage reconstruction. A patient-centered advantage of delayed-immediate reconstruction is prolonging the time for patients to make their choice for the final reconstruction.",
+      "pmid": "36813407",
+      "title": "Modern Approaches to Alternative Flap-Based Breast Reconstruction: Profunda Artery Perforator Flap.",
+      "authors": "Cohen Z, Azoury SC, Matros E et al.",
+      "journal": "Clin Plast Surg",
+      "year": 2023,
+      "doi": "10.1016/j.cps.2022.10.001",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36813407/",
+      "citation_count": 10,
+      "rcr": 3.688808861822803,
+      "abstract": "Autologous free flap breast reconstruction allows for natural-appearing breasts, while avoiding the risks associated with implants, including exposure, rupture, and capsular contracture. However, this is offset by a much higher technical challenge. The abdomen remains the most common tissue source for autologous breast reconstruction. However, in patients with scant abdominal tissue, prior abdominal surgery, or a desire to avoid scarring in this region, thigh-based flaps remain a viable alternative. The profunda artery perforator (PAP) flap has emerged as a preferred alternative tissue source, due to excellent esthetic outcomes and low donor-site morbidity.",
       "abstract_tr": "",
-      "score": 0.6713
+      "score": 0.6637
     }
   ]
 }

@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-18",
+    "category": "aesthetic",
+    "pmid": "36478029",
+    "title": "Difference in Perception of Nasal Aesthetic Appearance Between Surgeons and Rhinoplasty Patients: A Single-Center Perspective.",
+    "authors": "Kim CH, Kandathil CK, Saltychev M et al.",
+    "journal": "Aesthet Surg J",
+    "year": 2023,
+    "doi": "10.1093/asj/sjac317",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36478029/",
+    "citation_count": 11,
+    "rcr": 5.065042199012761,
+    "abstract": "BACKGROUND: Patient satisfaction is an essential outcome measure after a rhinoplasty. Yet it is not known whether the opinions of rhinoplasty patients and surgeons on nasal aesthetic appearance differ. OBJECTIVES: The aim of this study was to determine the differences between patients and surgeons in their perception of nasal aesthetic appearance. METHODS: A retrospective cohort of 300 patients seen in consultation for cosmetic, functional, or combined cosmetic and functional rhinoplasty at a single tertiary care center from June 2017 to June 2020 was studied. Based on preoperative patient images, 6 surgeons with varying levels of expertise assessed nasal aesthetics utilizing a modified Standardized Cosmesis and Health Nasal Outcomes Survey for nasal cosmesis (SCHNOS-C). These scores were then compared to the patient-reported SCHNOS-C scores. RESULTS: The cosmetic, functional, and combined subgroups consisted of 100 patients each. The mean [standard deviation] age was 35.4 [13.7] years and 64% were women. The modified SCHNOS-C scores were well-correlated among the 6 surgeons but showed only weak correlations of 0.07 to 0.20 between patient-reported scores and scores assessed by the surgeons. Compared with the surgeon's scores, patients in the cosmetic subgroup perceived their nasal aesthetic problems to be more severe whereas the those in the functional subgroup perceived their nasal aesthetic problems to be milder compared with the surgeons' assessment. CONCLUSIONS: Our findings suggest that patients and surgeons perceive nasal cosmesis differently. This difference should be considered carefully when planning rhinoplasty or assessing its outcome.",
+    "abstract_tr": "",
+    "score": 0.6578
+  },
+  {
+    "date": "2026-07-18",
+    "category": "reconstructive",
+    "pmid": "36813407",
+    "title": "Modern Approaches to Alternative Flap-Based Breast Reconstruction: Profunda Artery Perforator Flap.",
+    "authors": "Cohen Z, Azoury SC, Matros E et al.",
+    "journal": "Clin Plast Surg",
+    "year": 2023,
+    "doi": "10.1016/j.cps.2022.10.001",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36813407/",
+    "citation_count": 10,
+    "rcr": 3.688808861822803,
+    "abstract": "Autologous free flap breast reconstruction allows for natural-appearing breasts, while avoiding the risks associated with implants, including exposure, rupture, and capsular contracture. However, this is offset by a much higher technical challenge. The abdomen remains the most common tissue source for autologous breast reconstruction. However, in patients with scant abdominal tissue, prior abdominal surgery, or a desire to avoid scarring in this region, thigh-based flaps remain a viable alternative. The profunda artery perforator (PAP) flap has emerged as a preferred alternative tissue source, due to excellent esthetic outcomes and low donor-site morbidity.",
+    "abstract_tr": "",
+    "score": 0.6637
+  },
+  {
     "date": "2026-07-17",
     "category": "aesthetic",
     "pmid": "34247959",
