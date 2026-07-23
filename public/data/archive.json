@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-23",
+    "category": "aesthetic",
+    "pmid": "36282789",
+    "title": "Functional and Aesthetic Outcomes of Let Down Dorsal Preservation Rhinoplasty.",
+    "authors": "Sozansky Lujan J, Goldfarb JM, Barrera JE",
+    "journal": "Facial Plast Surg Aesthet Med",
+    "year": 2023,
+    "doi": "10.1089/fpsam.2022.0019",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36282789/",
+    "citation_count": 12,
+    "rcr": 4.555496357981955,
+    "abstract": "",
+    "abstract_tr": "",
+    "score": 0.6717
+  },
+  {
+    "date": "2026-07-23",
+    "category": "reconstructive",
+    "pmid": "38272058",
+    "title": "Postoperative Magnesium Sulfate Repletion Decreases Narcotic Use in Abdominal-Based Free Flap Breast Reconstruction.",
+    "authors": "Lu YH, Jeon J, Mahajan L et al.",
+    "journal": "J Reconstr Microsurg",
+    "year": 2024,
+    "doi": "10.1055/a-2253-9008",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38272058/",
+    "citation_count": 5,
+    "rcr": 1.960109861884282,
+    "abstract": "BACKGROUND: Microsurgical breast reconstruction after mastectomy is now the standard of care for breast cancer patients. However, the costs and resources involved in free flap reconstruction can vary across different medical settings. To enhance patient outcomes in a cost-effective manner, we investigated the effect of intravenous magnesium sulfate (IV Mg) on postoperative opioid usage in this context. METHODS: A retrospective chart review was performed on all consecutive patients who underwent abdominal-based free flap breast reconstruction in a single institute following an enhanced recovery after surgery (ERAS) protocol. Patients who received IV Mg were compared with those who did not receive supplementation. Serum magnesium levels at different time points, narcotic consumption in units of oral morphine milligram equivalents (MMEs), and other postoperative recovery parameters were compared. RESULTS: Eighty-two patients were included. Those who received IV Mg on postoperative day 0 ( CONCLUSION: This is the first study to describe the potential analgesic benefits of routine postoperative magnesium repletion in abdominal-based free flap reconstruction. Further research is necessary to fully understand the role of perioperative magnesium supplementation as part of an ERAS protocol.",
+    "abstract_tr": "",
+    "score": 0.6325
+  },
+  {
     "date": "2026-07-22",
     "category": "aesthetic",
     "pmid": "36396283",
