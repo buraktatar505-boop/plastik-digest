@@ -1,37 +1,37 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "articles": [
     {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "category": "aesthetic",
-      "pmid": "37705471",
-      "title": "Complications of toxins and fillers in facial aesthetics.",
-      "authors": "Samizadeh S, De Boulle K",
-      "journal": "Prim Dent J",
-      "year": 2023,
-      "doi": "10.1177/20501684231197717",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37705471/",
-      "citation_count": 11,
-      "rcr": 4.318892665624707,
-      "abstract": "Dermal filler and botulinum toxin injections are among the most performed non-invasive procedures for rejuvenation and contouring, internationally. Although most dermal fillers and approved botulinum toxins are well tolerated with a high safety profile, adverse events and/or complications can happen. Injection-related sequelae and side effects are usually rare, mild, transient, and self-limiting in nature. However, devastating and life-changing complications, such as intravascular occlusion, skin necrosis, permanent visual impairment, and stroke, have been reported. Risk reduction measures include an in-depth knowledge of anatomy, physiology, and pharmacology, correct patient selection, correct identification of clinical indications, and, fundamentally, the importance of appropriate skill and training. In this paper, some of the complications are discussed and advice on how to minimise adverse events and complications from these injectables is provided.",
+      "pmid": "38438755",
+      "title": "Liposuction-Only Breast Reduction: A Systematic Review of Outcomes.",
+      "authors": "Kadhum M, Symonette C, Khan W et al.",
+      "journal": "Aesthetic Plast Surg",
+      "year": 2024,
+      "doi": "10.1007/s00266-024-03874-w",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38438755/",
+      "citation_count": 6,
+      "rcr": 4.499999588178547,
+      "abstract": "INTRODUCTION: Over the past few decades, there have been multiple reports of liposuction assisted breast reduction. This technique appeals to patients due to the limited scars and complication profile, compared to traditional reduction mammaplasty techniques. We aimed to systematically review the literature, to elucidate the outcomes and safety of liposuction-only breast reduction. METHODS: A systematic review was performed using the Ovid (Medline/PubMed) database, in accordance with the PRISMA checklist. RESULTS: In total 7 articles were included within this systematic review. A total of 652 patients were included. Liposuction-only breast reduction appears to lead to improvements in subjective outcome measures, patient satisfaction, and objective outcomes such as moderate breast volume reduction and reduction in breast ptosis. Overall, the procedure had a low complication profile. Liposuction did not preclude further surgery. No evidence of malignancy or difficulty in future breast cancer screening was noted. CONCLUSION: Macromastia leads to a considerable health burden, especially in health-related costs. From the current evidence base, liposuction-only breast reduction appears to be a safe and effective procedure, especially in patients requiring a mild-moderate breast volume reduction and mild ptosis correction. More research is required, with standardised subjective and objective outcome measures, and longer follow-up periods to confirm the effectiveness and safety of this technique. Level of Evidence III This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine Ratings, please refer to Table of Contents or online Instructions to Authors www.springer.com/00266 .",
       "abstract_tr": "",
-      "score": 0.6702
+      "score": 0.67
     },
     {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "category": "reconstructive",
-      "pmid": "36239629",
-      "title": "The Role of Fluorescent Angiography in Free Flap Reconstruction of the Head and Neck.",
-      "authors": "Taghizadeh F, Troob SH, Wax MK",
-      "journal": "Laryngoscope",
+      "pmid": "36917749",
+      "title": "Updates in Traumatic Lower Extremity Free Flap Reconstruction.",
+      "authors": "Lee ZH, Daar DA, Yu JW et al.",
+      "journal": "Plast Reconstr Surg",
       "year": 2023,
-      "doi": "10.1002/lary.30450",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36239629/",
-      "citation_count": 9,
-      "rcr": 3.3058300820961932,
-      "abstract": "OBJECTIVES: Highlight the use of fluorescent angiography in free flap reconstruction of the head and neck. Qualify how fluorescent angiography can be selectively added to management paradigms for head and neck free flap reconstruction. METHODS: Retrospective chart review of 993 free flaps completed from the time the SPY Elite® system first became available at our institution between September 2013, until August 2020. Cases that used the SPY Elite® system were grouped into three broad categories: evaluation during initial flap harvest while still attached to the donor site, evaluation after anastomosis in the head and neck area, and evaluation post-operatively for questionable flap viability. RESULTS: The SPY Elite® system was used in 64 cases. Forty flaps were evaluated intraoperatively during initial harvest and before anastomosis to the head and neck area. Of these, 20 had signs of poor perfusion of the entire skin paddle, 12 had large myogenous or skin flaps with questionable perfusion of the distal aspect, and 8 were evaluated for other reasons. In this group the use of SPY Elite® changed the management of the patient in 20 cases (50%). Ten flaps were evaluated intraoperatively after anastomosis to the head and neck to ascertain adequate flow to the entire flap. In this group management was changed in two (20%). Fourteen flaps were evaluated 3-5 days post operatively due to suspected failure of a component. In five cases (36%), the use of SPY Elite® determined management with either trimming or discarding the flap. CONCLUSION: Assessment of flap perfusion via fluorescent angiography during initial flap harvest or when flap compromise is suspected post-operatively can guide decision making in free flap reconstruction of the head and neck and can be added to existing planning and management paradigms. LEVEL OF EVIDENCE: 4 Laryngoscope, 133:1388-1393, 2023.",
+      "doi": "10.1097/PRS.0000000000010404",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36917749/",
+      "citation_count": 7,
+      "rcr": 2.0503756991630815,
+      "abstract": "Lower extremity reconstruction, particularly in the setting of trauma, remains one of the most challenging tasks for the plastic surgeon. Advances in wound management and microsurgical techniques in conjunction with long-term outcomes studies have expanded possibilities for limb salvage, but many aspects of management have continued to rely on principles set forth by Gustilo and Godina in the 1980s. The purpose of this article is to provide a comprehensive update on the various management aspects of traumatic lower extremity microvascular reconstruction based on the latest evidence, with an examination of recent publications.",
       "abstract_tr": "",
-      "score": 0.6657
+      "score": 0.6654
     }
   ]
 }
