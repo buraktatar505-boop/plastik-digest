@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-01",
+    "category": "aesthetic",
+    "pmid": "37130993",
+    "title": "Exploring the Resurgence of the Preservation Rhinoplasty: A Systematic Literature Review.",
+    "authors": "Wells MW, DeLeonibus A, Barzallo D et al.",
+    "journal": "Aesthetic Plast Surg",
+    "year": 2023,
+    "doi": "10.1007/s00266-023-03345-8",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37130993/",
+    "citation_count": 12,
+    "rcr": 5.869175392099772,
+    "abstract": "INTRODUCTION: The underlying principles of preservation rhinoplasty (PR) center around maintaining the soft tissue envelope, dorsum, and alar cartilage through surgical manipulations and tip suture techniques. In particular, the let-down (LD) and push-down (PD) techniques have been described, although reports of indications and outcomes in the literature are sparse. METHODS: A systematic review of the literature was performed using search terms \"preservation\" OR \"let down\" OR \"push down\" AND \"rhinoplasty\" on PubMed, Cochrane, SCOPUS, and EMBASE databases. Patient demographic information, operative details, and surgical outcomes were recorded. Sub-cohorts for patients who underwent LD and PD techniques were analyzed utilizing Fischer's exact test for categorical variables and Student's t test for continuous variables. RESULTS: Overall, there were 5967 PR patients in 30 studies in the final analysis, with 307 patients in the PD cohort and 529 patients in the LD cohort. The Rhinoplasty Outcome Evaluation Questionnaire showed a significant increase of patient satisfaction after PR compared to before PR (62.13 vs 91.14; p < 0.001). There was a significantly lower rate of residual dorsal hump or recurrence of 1.3% (n = 4) in the PD when compared to 4.6% (n = 23) in LD cohorts (p = 0.02). The revision rate of PD (0%, n = 0) was also significantly lower than that of LD (5.0%, n = 25) (p < 0.001). CONCLUSION: Based on these published articles, it seems that preservation rhinoplasty is safe and efficacious procedure with improved dorsal aesthetic lines, reduced dorsal contour irregularities, and claimed excellent patient satisfaction. In particular, the PD technique has fewer reported complications and revisions than LD approach, although PD is often indicated in patients with smaller dorsal humps. LEVEL OF EVIDENCE III: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+    "abstract_tr": "",
+    "score": 0.705
+  },
+  {
+    "date": "2026-08-01",
+    "category": "reconstructive",
+    "pmid": "35988578",
+    "title": "Outcomes of Autologous Free Flap Reconstruction Following Infected Device Explantation.",
+    "authors": "Mitchell D, Asaad M, Slovacek C et al.",
+    "journal": "J Reconstr Microsurg",
+    "year": 2023,
+    "doi": "10.1055/s-0042-1755263",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35988578/",
+    "citation_count": 6,
+    "rcr": 1.9595484946023762,
+    "abstract": "BACKGROUND: Following implant-based breast reconstruction (IBR) infection and explantation, autologous reconstruction is a common option for patients who desire further reconstruction. However, few data exist about the outcomes of secondary autologous reconstruction (i.e., free flap breast reconstruction) in this population. We hypothesized that autologous reconstruction following infected device explantation is safe and has comparable surgical outcomes to delayed-immediate reconstruction. METHODS: We conducted a retrospective analysis of patients who underwent IBR explantation due to infection from 2006 through 2019, followed by secondary autologous reconstruction. The control cohort comprised patients who underwent planned primary delayed-immediate reconstruction (tissue expander followed by autologous flap) in 2018. RESULTS: We identified 38 secondary autologous reconstructions after failed primary IBR and 52 primary delayed-immediate reconstructions. Between secondary autologous and delayed-immediate reconstructions, there were no significant differences in overall complications (29 and 37%, respectively, CONCLUSION: Autologous reconstruction is a reasonable and safe option for patients who require explantation of an infected prosthetic device. Failure of primary IBR did not confer significantly higher risk of complications after secondary autologous flap reconstruction compared with primary delayed-immediate reconstruction. This information can help plastic surgeons with shared decision-making and counseling for patients who desire reconstruction after infected device removal.",
+    "abstract_tr": "",
+    "score": 0.6349
+  },
+  {
     "date": "2026-07-31",
     "category": "aesthetic",
     "pmid": "37285776",
