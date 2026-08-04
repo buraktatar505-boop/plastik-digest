@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-04",
+    "category": "aesthetic",
+    "pmid": "38375714",
+    "title": "Investigation of social appearance anxiety and self-esteem in individuals planned for aesthetic rhinoplasty.",
+    "authors": "Yildirim YSS, Yildiz S",
+    "journal": "Eur Rev Med Pharmacol Sci",
+    "year": 2024,
+    "doi": "10.26355/eurrev_202402_35345",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38375714/",
+    "citation_count": 7,
+    "rcr": 3.9919644796366076,
+    "abstract": "OBJECTIVE: Recently, aesthetic rhinoplasty surgeries performed to change the external appearance have become increasingly common, especially among young people. This study examined the frequency of social appearance anxiety, self-esteem, and social media use in people with rhinoplasty surgeries for aesthetic concerns. SUBJECTS AND METHODS: A total of 76 people, including 27 healthy controls and 49 aesthetic rhinoplasty planned cases, were included in the study. All participants were administered the sociodemographic data form, Social Appearance Anxiety Scale (SAAS), Rosenberg Self-Esteem Scale (RSE), and Bergen Social Media Addiction Scale (BMSAS). RESULTS: The RSE score of the case group was significantly lower than the control group (p<0.001), and the SAAS (p=0.004) and BSMAS (p=0.005) scores were significantly higher. A significant negative correlation was observed between the RSE scale score, SAAS, and BMSAS. There was a significant positive relationship between SAAS and BSMAS. Cut-off values were determined using the ROC analysis. When the value of 1.41 was taken as the cut-off for RSE, 81.6% sensitivity and 74.1% specificity were found and were good predictors. When the value of 21 was taken as the cut-off for SAAS, 83.7% sensitivity and 51.9% specificity were found, and it was found to be a good predictor. When the value of 19 was taken as the cut-off for BSMAS, 42.9% sensitivity, and 88.9% specificity were found, and it was found to be a good predictor. CONCLUSIONS: People who undergo aesthetic rhinoplasty have high social appearance anxiety and self-esteem and frequent use of social media. More extensive sample studies are needed to examine the effects of this situation on rhinoplasty.",
+    "abstract_tr": "",
+    "score": 0.666
+  },
+  {
+    "date": "2026-08-04",
+    "category": "reconstructive",
+    "pmid": "40908206",
+    "title": "Head and neck free flap reconstruction: A prospective case series with the Symani® surgical system.",
+    "authors": "Spille J, Wiltfang J, Wieker H",
+    "journal": "J Craniomaxillofac Surg",
+    "year": 2025,
+    "doi": "10.1016/j.jcms.2025.08.009",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40908206/",
+    "citation_count": 5,
+    "rcr": 2.5398101082847853,
+    "abstract": "Robotic surgery has undergone steady evolution in recent years. Until now, there has been no suitable robotic system for plastic reconstruction. With the Symani Surgical System, anastomoses of free flaps in the head and neck region can be performed efficiently and accurately. This prospective single-centre study aims to describe and investigate the use of robotic reconstructions in the head and neck region by oral and maxillofacial surgeons for the first time. 93 patients after ablative tumor surgery who required a free flap for reconstruction in the head and neck region were included in the study; 73 had oral squamous cell carcinoma (78.5 %). Radial forearm flap 28 (30.1 %), ulnar forearm flap 28 (30.1 %), and fibula flap 22 (23.7 %) were used most frequently. Three revision surgeries were performed, and one free flap was lost. Robotic microsurgery has a steep learning curve and can be used effectively to perform anastomoses in free flap reconstructions. The surgical spectrum of microsurgical techniques has not yet been fully explored and should be further investigated. Supermicrosurgery could benefit from the Symani robotic system in the long term.",
+    "abstract_tr": "",
+    "score": 0.7071
+  },
+  {
     "date": "2026-08-03",
     "category": "aesthetic",
     "pmid": "34838496",
