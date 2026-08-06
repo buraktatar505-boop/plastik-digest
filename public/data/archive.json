@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-06",
+    "category": "aesthetic",
+    "pmid": "34782143",
+    "title": "Combining Open Structural and Dorsal Preservation Rhinoplasty.",
+    "authors": "Patel PN, Most SP",
+    "journal": "Clin Plast Surg",
+    "year": 2022,
+    "doi": "10.1016/j.cps.2021.07.006",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34782143/",
+    "citation_count": 17,
+    "rcr": 3.7392491866515862,
+    "abstract": "There has been a resurgence in dorsal preservation rhinoplasty (DPR) caused by theoretic aesthetic and functional advantages compared with conventional hump takedown rhinoplasty. Classically, the push-down and let-down maneuvers have been described for management of the bony nasal vault. There have been a variety of modifications in the septal resection that is a requisite for dorsal lowering in DPR. Partial dorsal preservation techniques, including cartilage-only preservation, have also been described. Although several studies have reported aesthetic and functional success with a variety of techniques, few have used objective or patient-centered subjective measures.",
+    "abstract_tr": "",
+    "score": 0.6446
+  },
+  {
+    "date": "2026-08-06",
+    "category": "reconstructive",
+    "pmid": "37453149",
+    "title": "Creating a context for recipient vessel selection in deep inferior epigastric perforator flap breast reconstruction.",
+    "authors": "Changchien CH, Fang CL, Hsu CH et al.",
+    "journal": "J Plast Reconstr Aesthet Surg",
+    "year": 2023,
+    "doi": "10.1016/j.bjps.2023.06.049",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37453149/",
+    "citation_count": 6,
+    "rcr": 2.3350420570507078,
+    "abstract": "BACKGROUND: In autologous tissue breast reconstruction, recipient vessels are important for artery perfusion and venous drainage to ensure free flap survival. There are insufficient clinical outcomes to select efficient recipient vessels in bi-pedicled deep inferior epigastric perforator (DIEP) flap reconstruction. METHODS: We presented a retrospective observational series of 108 patients regarding the diameter, anastomosis time, and re-anastomosis rate in internal mammary (IM), circumflex scapular (CS), thoracodorsal (TD), thoracoacromial (TA), lateral thoracic (LT), and internal mammary perforator (IMP) vessels of bi-pedicled DIEP flaps for breast reconstruction after mastectomy. The outcomes were the vessel re-anastomosis rate, flap failure rate, vessel anastomosis time, and complications. Data were gleaned from the chi-square test, Fisher's test, and analysis of variance using Scheffe's test as a post hoc analysis. The level of significance was p < 0.05. RESULTS: There were no significant differences in the diameters of the artery, first vein, and second vein across the recipient vessels (p > 0.05). However, the anastomosis time was longer in IM and TA than in CS, TD, and LT (p < 0.001). Also, there were no significant differences for re-anastomosis, flap necrosis, and fat necrosis among different recipient vessels (p > 0.05). CONCLUSIONS: Because of the altered mastectomy incisions, this study provides complete anatomical vascular properties and suggests that altering recipient vessel selection for bi-pedicled DIEP flaps can shorten anastomosis time and better conceal scars.",
+    "abstract_tr": "",
+    "score": 0.7023
+  },
+  {
     "date": "2026-08-04",
     "category": "aesthetic",
     "pmid": "38375714",
