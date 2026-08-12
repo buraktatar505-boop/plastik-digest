@@ -1,37 +1,37 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "articles": [
     {
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "category": "aesthetic",
-      "pmid": "38519570",
-      "title": "Advanced Facial Rejuvenation: Synergistic Effects of Lower Blepharoplasty and Ultrasound Guided Mid-Face Lift Using Polydioxanone (PDO) Threads.",
-      "authors": "Park JH, Jeong JW, Park JU",
-      "journal": "Aesthetic Plast Surg",
-      "year": 2024,
-      "doi": "10.1007/s00266-024-03975-6",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38519570/",
-      "citation_count": 5,
-      "rcr": 3.892599882796889,
-      "abstract": "BACKGROUND: Traditional facial aging surgeries have risks and extended recovery times, leading to a demand for minimally invasive alternatives. PDO (polydioxanone) threads, which are absorbable sutures that stimulate collagen production and tissue contraction, offer improved aesthetic outcomes. This paper evaluates the combined use of PDO thread mid-cheek lift and lower blepharoplasty for facial rejuvenation. METHODS: This retrospective study compared outcomes in patients undergoing lower blepharoplasty combined with a mid-face lift using PDO threads versus those undergoing only lower blepharoplasty. Focused on individuals with baggy lower eyelids and pronounced nasolabial folds, outcome measures included the Modified Fitzpatrick wrinkle scale, Allergan® midface volume deficit scale, Width of inter zygomatic distance, Patient and Observer Scar Assessment Scale, and patient satisfaction questionnaires, assessed at baseline, 3 months, and 1 year postoperatively. RESULTS: The combined procedure demonstrated superior aesthetic outcomes and higher patient satisfaction compared to lower blepharoplasty alone. Improvements were more significant in wrinkle reduction, midface volume, and inter-zygomatic distance in the combined procedure group. Although the combined procedure had a longer mean operation time, scar assessment scores were similar between both groups, with no complications reported. CONCLUSION: The combination of lower blepharoplasty and mid-face lift using PDO threads is a comprehensive and effective approach for facial rejuvenation. It significantly enhances wrinkle reduction, mid-face lifting, and patient satisfaction. Ultrasound-guided thread lifting, a method of assessing and performing mid-face lifting, proves to be safe and efficient. This approach holds promise as a future option in cosmetic anti-aging surgery, presenting a minimally invasive alternative with natural-looking results and reduced downtime. LEVEL OF EVIDENCE II: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors https://link.springer.com/journal/00266 .",
+      "pmid": "34782130",
+      "title": "Cleft Rhinoplasty.",
+      "authors": "Olds CE, Sykes JM",
+      "journal": "Clin Plast Surg",
+      "year": 2022,
+      "doi": "10.1016/j.cps.2021.08.002",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34782130/",
+      "citation_count": 15,
+      "rcr": 3.4646213400366066,
+      "abstract": "An understanding of anatomy and pathophysiology of the cleft nasal deformity is crucial to its management, including selection of correct surgical techniques for repair. Timing of intermediate and definitive rhinoplasty should be considered carefully, with definitive rhinoplasty occurring after management of facial skeletal deformities. At the time of definitive rhinoplasty, the septum, external and internal nasal valves, alar base malposition (and corresponding bony deficiency), and position and shape of the lower lateral cartilage and the columella all must be individually considered. Thorough knowledge of rhinoplasty techniques is crucial to address the cleft nasal deformity with optimal functional and aesthetic outcomes.",
       "abstract_tr": "",
-      "score": 0.639
+      "score": 0.6456
     },
     {
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "category": "reconstructive",
-      "pmid": "38643408",
-      "title": "Application of Time-Driven Activity-Based Costing for Head and Neck Microvascular Free Flap Reconstruction.",
-      "authors": "Yalamanchi P, Marentette LJ, Fendrick AM et al.",
-      "journal": "Otolaryngol Head Neck Surg",
-      "year": 2024,
-      "doi": "10.1002/ohn.739",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38643408/",
-      "citation_count": 6,
-      "rcr": 2.778070258351761,
-      "abstract": "OBJECTIVE: Traditional hospital accounting fails to provide an accurate cost of complex surgical care. Here we describe the application of time-driven activity-based costing (TDABC) to characterize costs of head and neck oncologic procedures involving free tissue transfer. STUDY DESIGN: Retrospective cohort study. SETTING: Single tertiary academic medical center. METHODS: An analysis of head and neck oncologic procedures involving microvascular free flap reconstruction from 2018 to 2020 (n = 485) was performed using TDABC methodology to measure cost across operative case and postoperative admission, using quantity of time and cost per unit of each resource to characterize resource utilization. Univariate and generalized linear mixed models were used to examine associations between patient and hospital characteristics and cost of care delivery. RESULTS: The total cost of care delivery was $41,905.77 ± 21,870.27 with operating room (OR) supplies accounting for only 10% of the total cost. Multivariable analyses identified significant cost drivers including operative time, postoperative length of stay, number of return trips to the OR, postoperative complication, number of free flaps performed, and patient transfer from another hospital or via emergency department admission (P < .05). CONCLUSION: Operative time and postoperative length of stay, but not operative supplies, were primary drivers of cost of care for head and neck oncology cases involving free tissue transfer. TDABC offers granular cost characterization to inform cost optimization through unused capacity identification and postoperative admission efficiencies.",
+      "pmid": "34918862",
+      "title": "Impact of preoperative and intraoperative management on outcomes in osteoradionecrosis requiring free flap reconstruction.",
+      "authors": "Mayland E, Curry JM, Wax MK et al.",
+      "journal": "Head Neck",
+      "year": 2022,
+      "doi": "10.1002/hed.26957",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34918862/",
+      "citation_count": 19,
+      "rcr": 2.341643975083044,
+      "abstract": "BACKGROUND: Perioperative management of advanced osteoradionecrosis of the head and neck requiring free flap (FF) reconstruction varies. Our objectives included assessment of practice patterns and outcomes. METHODS: Multi-institutional, retrospective review of FF reconstruction for head and neck osteoradionecrosis (n = 260). RESULTS: Administration of preoperative antibiotics did not correlate with reduction in postoperative complications. Preoperative alcohol use correlated with higher rates of hardware exposure (p = 0.03) and 30-day readmission (p = 0.04). Patients with FF compromise had higher TSH (p = 0.04) and lower albumin levels (p = 0.005). Prealbumin levels were lower in patients who required neck washouts (p = 0.02) or a second FF (p = 0.03). TSH levels were higher in patients undergoing postoperative debridement (p = 0.03) or local flap procedures (p = 0.04). CONCLUSION: Malnutrition, hypothyroidism, and substance abuse correlated with a higher incidence of postoperative wound complications in patients undergoing FF reconstruction for advanced osteoradionecrosis. Preoperative antibiotics use did not correlate with a reduction in postoperative wound complications.",
       "abstract_tr": "",
-      "score": 0.6349
+      "score": 0.633
     }
   ]
 }

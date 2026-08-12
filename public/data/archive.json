@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-12",
+    "category": "aesthetic",
+    "pmid": "34782130",
+    "title": "Cleft Rhinoplasty.",
+    "authors": "Olds CE, Sykes JM",
+    "journal": "Clin Plast Surg",
+    "year": 2022,
+    "doi": "10.1016/j.cps.2021.08.002",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34782130/",
+    "citation_count": 15,
+    "rcr": 3.4646213400366066,
+    "abstract": "An understanding of anatomy and pathophysiology of the cleft nasal deformity is crucial to its management, including selection of correct surgical techniques for repair. Timing of intermediate and definitive rhinoplasty should be considered carefully, with definitive rhinoplasty occurring after management of facial skeletal deformities. At the time of definitive rhinoplasty, the septum, external and internal nasal valves, alar base malposition (and corresponding bony deficiency), and position and shape of the lower lateral cartilage and the columella all must be individually considered. Thorough knowledge of rhinoplasty techniques is crucial to address the cleft nasal deformity with optimal functional and aesthetic outcomes.",
+    "abstract_tr": "",
+    "score": 0.6456
+  },
+  {
+    "date": "2026-08-12",
+    "category": "reconstructive",
+    "pmid": "34918862",
+    "title": "Impact of preoperative and intraoperative management on outcomes in osteoradionecrosis requiring free flap reconstruction.",
+    "authors": "Mayland E, Curry JM, Wax MK et al.",
+    "journal": "Head Neck",
+    "year": 2022,
+    "doi": "10.1002/hed.26957",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34918862/",
+    "citation_count": 19,
+    "rcr": 2.341643975083044,
+    "abstract": "BACKGROUND: Perioperative management of advanced osteoradionecrosis of the head and neck requiring free flap (FF) reconstruction varies. Our objectives included assessment of practice patterns and outcomes. METHODS: Multi-institutional, retrospective review of FF reconstruction for head and neck osteoradionecrosis (n = 260). RESULTS: Administration of preoperative antibiotics did not correlate with reduction in postoperative complications. Preoperative alcohol use correlated with higher rates of hardware exposure (p = 0.03) and 30-day readmission (p = 0.04). Patients with FF compromise had higher TSH (p = 0.04) and lower albumin levels (p = 0.005). Prealbumin levels were lower in patients who required neck washouts (p = 0.02) or a second FF (p = 0.03). TSH levels were higher in patients undergoing postoperative debridement (p = 0.03) or local flap procedures (p = 0.04). CONCLUSION: Malnutrition, hypothyroidism, and substance abuse correlated with a higher incidence of postoperative wound complications in patients undergoing FF reconstruction for advanced osteoradionecrosis. Preoperative antibiotics use did not correlate with a reduction in postoperative wound complications.",
+    "abstract_tr": "",
+    "score": 0.633
+  },
+  {
     "date": "2026-08-11",
     "category": "aesthetic",
     "pmid": "38519570",
