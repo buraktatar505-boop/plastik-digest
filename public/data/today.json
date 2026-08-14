@@ -1,37 +1,37 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "articles": [
     {
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "category": "aesthetic",
-      "pmid": "38684537",
-      "title": "Exploring Complication Rates: A Comparative Study of Breast Reduction and Combined Breast Reduction with Abdominoplasty.",
-      "authors": "Pouramin P, Dow T, Williams J",
+      "pmid": "38575764",
+      "title": "Comparison of Aesthetic and Functional Rhinoplasty Outcomes Between Patients with Body Dysmorphic Disorder and Normal Individuals.",
+      "authors": "Moosaie F, Javankiani S, Mansournia MA et al.",
       "journal": "Aesthetic Plast Surg",
       "year": 2024,
-      "doi": "10.1007/s00266-024-04040-y",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38684537/",
-      "citation_count": 5,
-      "rcr": 3.651149512504741,
-      "abstract": "BACKGROUND: Despite a trend towards combining abdominoplasty with breast reduction surgery, so called \"mommy makeovers\", the safety of this combined approach has been the subject of debate, with previous research yielding conflicting results. We evaluated the risk for complications and revision associated with adding abdominoplasty to bilateral breast reduction surgery. METHODS: We conducted a 10-year single-center retrospective chart review of bilateral breast reduction patients in Nova Scotia. Univariate and multivariate analyses were performed to compare the risk for complication and revision in patients with bilateral breast reduction to those with a concomitant abdominoplasty. RESULTS: Of the 1871 patients initially screened, 738 were included. 44 underwent a concomitant abdominoplasty procedure. Compared to the breast reduction alone group, patients with concomitant abdominoplasty were significantly older (47.5±9.9 vs. 42.8±13.2, p=0.004), had a higher BMI (28.1±4.4 vs. 25.8±3.1, p<0.001), and experienced longer operating room times (226±6 vs. 115±3 mins, p<0.001). In multivariate analysis, concomitant abdominoplasty did not increase the risk for breast-related (OR: 0.86 95%CI 0.43-1.7, p=0.668) or total complications (OR: 1.63, 95%CI 0.83-3.19, p=0.154). However, there was a trend towards an increased risk of breast revision (OR: 2.684, 95%CI 0.95-7.6, p=0.062) and a significantly increased risk of total revision (OR: 6.624, 95%CI 2.7-16.1, p<0.001). Moreover, patients with concomitant abdominoplasty experienced more follow-up visits (median: 4 vs. 3 visits, p=0.042). CONCLUSION: In our single-center retrospective analysis, combining abdominoplasty with bilateral breast reduction did not increase the risk for breast, or total complications; however, it did increase the risk for total revisions. LEVEL OF EVIDENCE III: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266.",
+      "doi": "10.1007/s00266-024-03961-y",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38575764/",
+      "citation_count": 7,
+      "rcr": 3.6675401217714034,
+      "abstract": "BACKGROUND: Rhinoplasty is among the top five most popular cosmetic surgical procedures worldwide. Among rhinoplasty candidates, the most common mental health disorder is body dysmorphic disorder. (BDD). The present study aimed to assess the prevalence of BDD among rhinoplasty candidates, its association with the patient's self-assessment of aesthetic outcome and nasal functional, post-rhinoplasty compared to applicants with negative screening for BDD. METHODS: The following study is a cross-sectional, comparative study. Out of the 209 rhinoplasty candidates screened by the BDDQ questionnaire, 39 were positive for BDD. From the remaining 170 patients who screened negative for BDD, 39 participants were randomly selected as the control group for the comparative analysis. Rhinoplasty outcome evaluation (ROE) and standardized cosmesis and health nasal outcomes survey-cosmetic (SCHNOS-C) questionnaires were used for assessment of patient satisfaction with the cosmetic outcome of rhinoplasty. Nasal obstruction symptom evaluation (NOSE) and standardized cosmesis and health nasal outcomes survey-obstruction (SCHNOS-O) were used for the assessment of satisfaction with functional outcomes between groups of patients screened positive and negative for BDD. RESULTS: The prevalence of BDD was 18.66% among rhinoplasty candidates. The average age of patients screened positive for BDD was 31.41. The mean ROE score was significantly lower (i.e. lower satisfaction) in patients screened positive for BDD (15.69 versus 19.08, P = 0.001), regardless of confounding variables, such as age, sex, and marital status. SCHNOS-C score was higher (i.e. less satisfaction) among patients with BDD (47.01 versus 34.96, P = 0.021) and was significantly associated with higher odds of severe aesthetic concern post-rhinoplasty (OR (95%CI) = 5.000 (1.135-22.022), P = 0.033). Patients screened positive for BDD had significantly higher NOSE scores (i.e. less satisfaction with functional outcome) compared to participants negative for BDD (49.74 versus 37.82, P = 0.012). SCHNOS-O score had no significant association with BDD (P = 0.053). Furthermore, there was no significant association between BDD and NOSE or SCHNOS-O score after adjustment for the confounders. CONCLUSION: Patients screened positive for BDD were significantly less satisfied with the cosmetic outcome of the rhinoplasty compared to those screened negative for BDD. Assessment of BDD among rhinoplasty candidates before surgery, could potentially be beneficial for both patients and surgeons. LEVEL OF EVIDENCE III: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
       "abstract_tr": "",
-      "score": 0.639
+      "score": 0.6867
     },
     {
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "category": "reconstructive",
-      "pmid": "39301713",
-      "title": "Preoperative Vascular Imaging in Lower Extremity Free Flap Reconstruction: Comparison Between Imaging Modalities.",
-      "authors": "Ahn L, Christensen JM, Fruge S et al.",
-      "journal": "Microsurgery",
+      "pmid": "37855885",
+      "title": "SCIP flap in head and neck reconstruction after oncologic ablative surgery: a systematic review.",
+      "authors": "Rosti A, Ammar A, Pignatti M et al.",
+      "journal": "Eur Arch Otorhinolaryngol",
       "year": 2024,
-      "doi": "10.1002/micr.31241",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39301713/",
-      "citation_count": 3,
-      "rcr": 2.1253473143434194,
-      "abstract": "BACKGROUND: Adequate vascular anatomy and perfusion status are essential for successful lower extremity free tissue transfer. Computed tomography angiography (CTA) is widely available, minimally invasive, and enables visualization of soft tissues and bones. Angiography permits temporal evaluation of flow, identifies potential needs for concurrent endovascular interventions, and enhances visibility in the setting of hardware. Despite widespread availability of these imaging modalities, no standardized algorithm for preoperative imaging prior to lower extremity free flap reconstruction exists. METHODS: Current Procedural Terminology (CPT) codes identified patients undergoing free flap reconstruction of the lower extremity over an 18-year period (2002-2020). Electronic medical records were reviewed for patient, treatment, and imaging characteristics, and pre- and post-imaging laboratory values. Outcomes included imaging findings and related complications and surgical outcomes. RESULTS: In total, 405 patients were identified, with 59% (n = 238) undergoing preoperative imaging with angiography, 10% (n = 42) with CTA, 7.2% (n = 29) with both imaging modalities, and 24% (n = 96) with neither performed. Forty percent (122 of 309) of patients who underwent preoperative imaging had less than 3-vessel runoff. Four patients developed contrast-induced nephropathy (CIN) after angiography only and one after having both CTA and angiography. Vessel runoff on CTA and angiography demonstrated moderate correlation. CONCLUSION: Most patients undergoing lower extremity free tissue transfer underwent preoperative imaging with angiography and/or CTA, 40% of which had less than 3-vessel runoff. Both angiography and CTA had low complication rates, with no statistically significant risk factors identified. Specifically, the incidence of CIN was not found to be significant using either modality. We discuss our institutional algorithm to aid in decision-making for preoperative imaging prior to lower extremity free flap reconstruction. Specifically, we recommend angiography for patients with peripheral vascular disease, internal hardware, or distal defects secondary to trauma.",
+      "doi": "10.1007/s00405-023-08287-0",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37855885/",
+      "citation_count": 4,
+      "rcr": 3.071687440128777,
+      "abstract": "BACKGROUND: In the surgical treatment of head and neck locally advanced malignancies, microvascular free flaps represent the most valuable solution to reconstruct the tissue defect after resection of the primary neoplasm. In particular, microvascular free flaps allow to restore the functional and aesthetical features of the head and neck compartments. The superficial circumflex iliac perforator (SCIP) flap represents, as an evolution of the groin flap, a valid alternative to the radial fasciocutaneous free (RFFF) flap or the anterolateral thigh (ALT) flap. METHODS: This systematic review adhered to the recommendations of the Preferred Reporting Items of Systematic Reviews and Meta-analysis (PRISMA) 2009 guidelines. A computerized MEDLINE search was performed using the PubMed service of the U.S. National Library of Medicine ( www.pubmed.org ) and Scopus database ( www.scopus.com ). Two authors screened the articles, then selected and extracted data on malignancies characteristics, reconstructive techniques, outcomes, and complications. RESULTS: A total of 25 articles were selected and reviewed among the 39 identified through the search string. Six out of the selected 25 articles were case reports, while the remaining 19 articles were retrospective case series. The whole study population was represented by 174 oncologic patients undergoing ablation of a head and neck tumor and reconstruction with a SCIP flap. The site of reconstruction was the oral cavity in 125 (71.0%) patients, being the tongue the most common subsite in 73 (41.5%) patients, the pharynx in 10 (5.7%) cases, the larynx in 3 (1.7%) and head and neck skin in 36 (20.4%) patients. Only two cases of total flap loss were reported. Partial flap loss or shrinkage requiring minor surgical revisions was observed in 11 patients (6.32%). Primary closure of the donor site was achieved in the whole study population, according to the available data. CONCLUSIONS: In head and neck postoncological reconstruction, despite the caliber and the length of the pedicle, SCIP flap offers a pliable and thin skin paddle, allowing single-stage resurfacing, medium to large skin paddle, possibility of composite-fashion harvest and a well-concealed donor site.",
       "abstract_tr": "",
-      "score": 0.6617
+      "score": 0.6271
     }
   ]
 }
