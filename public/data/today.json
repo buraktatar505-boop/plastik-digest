@@ -1,37 +1,37 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "articles": [
     {
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "category": "aesthetic",
-      "pmid": "39090310",
-      "title": "Assessing Patient Satisfaction Following Facelifts with Social Media Reviews.",
-      "authors": "Revercomb L, Patel AM, Choudhry HS et al.",
+      "pmid": "39043947",
+      "title": "Breast Implant Removal-Only: The Role of Targeted Compression.",
+      "authors": "Benito-Ruiz J",
       "journal": "Aesthetic Plast Surg",
-      "year": 2024,
-      "doi": "10.1007/s00266-024-04273-x",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39090310/",
+      "year": 2025,
+      "doi": "10.1007/s00266-024-04256-y",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39043947/",
       "citation_count": 5,
-      "rcr": 3.5274784763855087,
-      "abstract": "BACKGROUND: Facelifts are one of the most common facial aesthetic surgery procedures. Patient satisfaction determines success of most aesthetic surgery but has been historically difficult to assess. OBJECTIVE: This study evaluated reviews by facelift patients on the aesthetic surgery social media website RealSelf.com to determine positive and negative factors underlying patient satisfaction following facelifts. METHODS: Facelift reviews were gathered from RealSelf.com with an automated web crawler. Reviews were categorized as positive or negative and by the primary and secondary reasons for the positive or negative review. Patient \"worth it\" and star ratings, physician specialty, and cost of procedure were also collected. RESULTS: A total of 2153 facelift reviews were collected. Overall, 1986 (92.24%) were positive and 167 (7.76%) were negative. The most common overall reasons for a positive review were aesthetic results (n=1571, 79.10%) and bedside manner (n=1488, 74.92%). The most common overall reasons for a negative review were outcome (n=137, 82.04%) and bedside manner (n=82, 49.10%). Most facelifts were performed by plastic surgeons (n=1796, 83.42%). The greatest 5-star rating percentages were seen for oral and maxillofacial surgeons (n=29, 93.55%), otolaryngologists (n=96, 92.31%), and plastic surgeons (n=1642, 91.43%). Of patients who provided a \"worth it\" rating, 1216 (91.91%) stated that their facelift was \"worth it.\" CONCLUSION: Overall patient sentiment toward facelifts was positive. The factors most commonly affecting a positive patient experience were bedside manner and aesthetic results. Negative patient reviews were primarily attributed to dissatisfaction with aesthetic outcomes. Social media serves as a valuable tool for evaluating patient satisfaction with aesthetic surgery. LEVEL OF EVIDENCE IV: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+      "rcr": 2.5333052833761793,
+      "abstract": "BACKGROUND: The number of women seeking explantation of their breast implants has increased in recent years. Anxiety due to potential health problems has been one of the major catalysts. Mastopexy with or without autoaugmentation and fat grafting are the main techniques used in breast implant removal surgery. OBJECTIVES: To analyse the aesthetic and satisfactory outcomes after simple breast implant removal assisted by targeted compression. METHODS: Twenty-eight patients were included in the series. Targeted compression of the breast after implant removal was performed during the 1st month. A satisfaction survey using a Likert scale was used before and after the final visit. The patients were followed up for 1 year. RESULTS: The mean age of the patients was 41 years old, and the mean time between implantation and removal was 10 years. Subjective reasons for removal (46.4% of the patients) were more frequent in women with less time since implantation (5 years) versus 15 years for implant-related problems. A total of 57.14% of the women were satisfied with the aesthetic result, and 42.86% were very satisfied. Only 17.8% of the total would consider an aesthetic refinement. CONCLUSIONS: Simple breast implant removal yields good aesthetic outcomes, and patients are satisfied with the results. Good management of compression of the breast and close follow-up to treat any collection in the pocket provides good adhesion and allows for effective management of the process of deflation and setting of the breast mound. LEVEL OF EVIDENCE IV: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266.",
       "abstract_tr": "",
-      "score": 0.639
+      "score": 0.6713
     },
     {
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "category": "reconstructive",
-      "pmid": "36814153",
-      "title": "Preoperative anemia: Predictor of free flap reconstruction complications in head and neck cancer.",
-      "authors": "Tu CH, Hong SF",
-      "journal": "Chin J Physiol",
-      "year": 2023,
-      "doi": "10.4103/cjop.CJOP-D-22-00115",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36814153/",
-      "citation_count": 10,
-      "rcr": 2.679857978246104,
-      "abstract": "Free flap reconstruction has been the mainstay among reconstruction surgeries for head and neck cancer. Intraoperative and postoperative hemoglobin (Hb) levels were both possible risk factors of flap failure and had been discussed widely. However, few investigations of preoperative Hb were seen in the previous study with its effect to flap condition remain uncertain and no conclusions in the literature. Patients who underwent free flap reconstruction after head and neck surgery in our institution between May 2014 and May 2019 were enrolled. The postoperative flap condition was observed carefully, and re-exploration was performed if necessary. We then retrospectively collected patient data with several intraoperative and postoperative indices. A total of 598 patients were enrolled in our study. The total major flap complication rate was 10.6%, with an overall success rate of 89.4%. They were predominantly male (95%), and most of them underwent free flap reconstruction for the first time (91%). A total of 81 (13%) patients received radiotherapy before reconstruction. Among all factors, the preoperative Hb level and free flap type showed significance in univariate and multivariate analyses. A previous history of radiotherapy, body mass index, nutrition status, or poorly controlled diabetes mellitus showed no significant results in either univariate or multivariate analysis. Our study showed that a lower preoperative Hb level affects free flap survival. Meanwhile, preoperative radiotherapy history has no significant influence in either univariate or multivariate analysis.",
+      "pmid": "39706139",
+      "title": "Advanced reconstructive techniques following orbital exenteration: The role of LCFA free flaps.",
+      "authors": "Cherubino M, Turri-Zanoni M, Maruccia M et al.",
+      "journal": "J Plast Reconstr Aesthet Surg",
+      "year": 2025,
+      "doi": "10.1016/j.bjps.2024.11.030",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39706139/",
+      "citation_count": 6,
+      "rcr": 3.048711519351792,
+      "abstract": "BACKGROUND: Orbital exenteration is a severe and disabling surgical procedure that involves the removal of all orbital contents. Effective reconstruction is crucial to managing the resulting defects. This study aims to propose a reconstructive algorithm utilizing free flaps derived from the lateral circumflex femoral artery (LCFA) system for orbital exenteration defects, based on our clinical experience. PATIENTS AND METHODS: Patients who underwent orbital exenteration and subsequent reconstruction using LCFA-based free flaps between January 2013 and January 2022 were included in this study. RESULTS: A total of 44 patients underwent orbital exenteration, followed by LCFA free flap reconstruction. The choice of reconstructive technique depended on defect type and dura mater exposure, adhering to the proposed algorithm. The procedures included 20 standard ALT (Anterolateral thigh) flaps, 13 chimeric ALT flaps, 1 SALT chimeric flap with skin grafting, 7 SALT flaps with skin grafting, and 3 buried SALT flaps. Complications were recorded in 10 cases at the recipient site and 2 cases at the donor site. CONCLUSION: Orbital exenteration presents significant challenges both surgically and reconstructively, with a high risk of local recurrence and postoperative mortality. The reconstruction algorithm using LCFA-based free flaps, as proposed in this study, may guide surgeons in selecting the most appropriate technique, tailored to the specific defect and considering postoperative treatments such as adjuvant radiotherapy.",
       "abstract_tr": "",
-      "score": 0.657
+      "score": 0.9649
     }
   ]
 }
