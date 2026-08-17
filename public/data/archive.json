@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-17",
+    "category": "aesthetic",
+    "pmid": "34581438",
+    "title": "Subdorsal Osteotomy and Complete Dorsal Preservation - A New Paradigm in Preservation Rhinoplasty?",
+    "authors": "Ferreira MG, Santos M, Dias D",
+    "journal": "Laryngoscope",
+    "year": 2022,
+    "doi": "10.1002/lary.29832",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34581438/",
+    "citation_count": 15,
+    "rcr": 3.27360477082424,
+    "abstract": "",
+    "abstract_tr": "",
+    "score": 0.6686
+  },
+  {
+    "date": "2026-08-17",
+    "category": "reconstructive",
+    "pmid": "38142170",
+    "title": "Safety and reliability of the internal jugular vein for venous anastomoses in head and neck oncological reconstruction: A retrospective study.",
+    "authors": "Tawa P, Lesnik M, Hoffmann C et al.",
+    "journal": "J Craniomaxillofac Surg",
+    "year": 2024,
+    "doi": "10.1016/j.jcms.2023.10.002",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38142170/",
+    "citation_count": 4,
+    "rcr": 3.1911520076293654,
+    "abstract": "This study aimed to assess the efficacy of utilizing the internal jugular vein (IJV) as the primary recipient site for venous anastomoses in head and neck oncological reconstruction. Patients who underwent a free flap reconstruction of the head and neck were retrospectively included. Venous anastomoses were preferentially performed less than 1 cm from the IJV, either end-to-side (EtS) on the IJV, or end-to-end (EtE) on the origin of the thyrolingofacial venous (TLF) trunk. When the pedicle length was insufficient to reach the IJV, anastomoses were performed EtE to a size-matched cervical vein. Of the 246 venous anastomoses, 216 (87.8%) were performed less than 1 cm from the IJV, including 150 EtS on the IJV (61.0%), and 66 EtE on the TLF trunk (26.8%). Thirty veins (12.1%) were anastomosed EtE on other cervical veins more than 1 cm from the IJV. Two venous thromboses occurred (0.9%) and were successfully managed after revision surgery. There was no evidence of an increased thrombosis rate in high-risk or pre-irradiated patients. These findings suggest that the internal jugular vein is safe and reliable as a first-choice recipient vessel for free flap transfers in head and neck oncological reconstruction.",
+    "abstract_tr": "",
+    "score": 0.6271
+  },
+  {
     "date": "2026-08-16",
     "category": "aesthetic",
     "pmid": "39043947",
