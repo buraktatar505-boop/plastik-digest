@@ -1,37 +1,37 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "articles": [
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "category": "aesthetic",
-      "pmid": "34581438",
-      "title": "Subdorsal Osteotomy and Complete Dorsal Preservation - A New Paradigm in Preservation Rhinoplasty?",
-      "authors": "Ferreira MG, Santos M, Dias D",
-      "journal": "Laryngoscope",
-      "year": 2022,
-      "doi": "10.1002/lary.29832",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34581438/",
-      "citation_count": 15,
-      "rcr": 3.27360477082424,
-      "abstract": "",
+      "pmid": "39163263",
+      "title": "AI Prediction for Post-Lower Blepharoplasty Age Reduction.",
+      "authors": "Chiou TW, Yen CI, Hsiao YC et al.",
+      "journal": "Aesthet Surg J",
+      "year": 2024,
+      "doi": "10.1093/asj/sjae182",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39163263/",
+      "citation_count": 9,
+      "rcr": 2.7228192520962735,
+      "abstract": "BACKGROUND: Aesthetic standards vary and are subjective; artificial intelligence (AI), which is currently seeing a boom in interest, has the potential to provide objective assessment. OBJECTIVES: The aim of this study was to provide a relatively objective assessment of the aesthetic outcomes of lower blepharoplasty-related surgeries, thereby enhancing the decision-making process and understanding of the surgical results. METHODS: This study included 150 patients who had undergone lower blepharoplasty-related surgeries. Analysis was performed with FaceAge software, created by the authors' research team, which included 4 publicly available age estimation convolution neural network (CNN) models: Amazon Rekognition (Seattle, WA), Microsoft Azure Face (Redmond, WA), Face++ Detect (Beijing, China), and Inferdo face detection (New York, NY). This application was used to compare the subjects' real age and their age as estimated by the 4 CNNs. In addition, this application was used to estimate patient age based on preoperative and postoperative images of all 150 patients and to evaluate the effect of lower blepharoplasty. RESULTS: In terms of accuracy in age prediction, all CNN models exhibited a certain degree of accuracy. For all 150 patients undergoing lower blepharoplasty-related surgeries, these surgeries resulted in about 2 years of rejuvenation with a statistically significant difference; for the sex difference, men had more age reduction than women also with a statistically significant difference; quadrilateral blepharoplasty showed the most significant antiaging effect. CONCLUSIONS: By using deep-learning models, lower blepharoplasty-related surgeries actually had an effect on perceived age reduction. Deep learning models have the potential to provide quantitative evidence for the rejuvenating effects of blepharoplasty and other cosmetic surgeries.",
       "abstract_tr": "",
-      "score": 0.6686
+      "score": 0.6633
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "category": "reconstructive",
-      "pmid": "38142170",
-      "title": "Safety and reliability of the internal jugular vein for venous anastomoses in head and neck oncological reconstruction: A retrospective study.",
-      "authors": "Tawa P, Lesnik M, Hoffmann C et al.",
-      "journal": "J Craniomaxillofac Surg",
-      "year": 2024,
-      "doi": "10.1016/j.jcms.2023.10.002",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38142170/",
-      "citation_count": 4,
-      "rcr": 3.1911520076293654,
-      "abstract": "This study aimed to assess the efficacy of utilizing the internal jugular vein (IJV) as the primary recipient site for venous anastomoses in head and neck oncological reconstruction. Patients who underwent a free flap reconstruction of the head and neck were retrospectively included. Venous anastomoses were preferentially performed less than 1 cm from the IJV, either end-to-side (EtS) on the IJV, or end-to-end (EtE) on the origin of the thyrolingofacial venous (TLF) trunk. When the pedicle length was insufficient to reach the IJV, anastomoses were performed EtE to a size-matched cervical vein. Of the 246 venous anastomoses, 216 (87.8%) were performed less than 1 cm from the IJV, including 150 EtS on the IJV (61.0%), and 66 EtE on the TLF trunk (26.8%). Thirty veins (12.1%) were anastomosed EtE on other cervical veins more than 1 cm from the IJV. Two venous thromboses occurred (0.9%) and were successfully managed after revision surgery. There was no evidence of an increased thrombosis rate in high-risk or pre-irradiated patients. These findings suggest that the internal jugular vein is safe and reliable as a first-choice recipient vessel for free flap transfers in head and neck oncological reconstruction.",
+      "pmid": "37290368",
+      "title": "Secondary amputation after lower extremity free-flap reconstruction.",
+      "authors": "Wong FK, Fruge S, Meulendijks MZ et al.",
+      "journal": "J Plast Reconstr Aesthet Surg",
+      "year": 2023,
+      "doi": "10.1016/j.bjps.2023.04.011",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37290368/",
+      "citation_count": 6,
+      "rcr": 1.804244833456521,
+      "abstract": "BACKGROUND: Microsurgical free-tissue transfer is often the definitive reconstructive option for lower extremity limb salvage. Despite an initial successful free-flap reconstruction, some patients ultimately undergo lower extremity amputation. The indications for secondary amputation include non- or malunion, infection, hardware failure, or chronic pain. This study aimed to identify the etiology and outcome of secondary amputation after lower extremity free-flap reconstruction. METHODS: A retrospective cohort study was performed including patients who underwent lower extremity free-flap reconstruction from January 2002 to December 2020. Patients who underwent secondary amputation were identified. A survey based on the PROMIS® Pain Interference Scale and activities of daily living (ADLs) was then conducted to assess patient-reported outcomes. Fifteen (52%) patients who underwent amputation responded to the survey, with a median follow-up time of 4.4 years. RESULTS: Of 410 patients who underwent lower extremity free-flap reconstruction, 40 (9.8%) patients underwent subsequent amputation. Of these, 10 patients had failed free-flap reconstruction and 30 patients had secondary amputation after an initially successful soft tissue coverage. The most common etiology for secondary amputation was infection (68%, n = 27). Eighty percent (n = 12) of survey respondents were able to use a prosthetic limb and ambulate. CONCLUSIONS: The most common etiology of secondary amputation was infection. Most patients who ultimately underwent amputation were able to ambulate with a prosthetic, but the majority of patients reported chronic pain. This study could be used to guide potential free-flap candidates regarding the risks and outcomes of lower extremity free-flap reconstruction.",
       "abstract_tr": "",
-      "score": 0.6271
+      "score": 0.6472
     }
   ]
 }
