@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-20",
+    "category": "aesthetic",
+    "pmid": "34792262",
+    "title": "Emerging off-label esthetic uses of botulinum toxin in dermatology.",
+    "authors": "Phan K, Younessi S, Dubin D et al.",
+    "journal": "Dermatol Ther",
+    "year": 2022,
+    "doi": "10.1111/dth.15205",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34792262/",
+    "citation_count": 19,
+    "rcr": 2.8236746123300147,
+    "abstract": "Botulinum toxin is a neurotoxic protein produced by Clostridium botulinum, the bacterium responsible for botulism. Botulinum toxin was first used for therapeutic indications in the 1970s for the treatment of strabismus. With greater understanding of its underlying physiology and safety profile, the use of botulinum toxin has now expanded to a range of cosmetic and medical indications. We performed a systematic review of current literature on the applications of botulinum toxin on off-label esthetic uses. Electronic databases were searched for original published studies including randomized trials, observational or cohort studies, as well as relevant case reports. To add to the body of evidence, our review summarizes and synthesizes key study characteristics, results, and level of evidence for each use case. Although the body of evidence remains weak, there is increasing support for the use of botulinum toxin in emerging off-label esthetic uses of botulinum toxin in dermatology.",
+    "abstract_tr": "",
+    "score": 0.6593
+  },
+  {
+    "date": "2026-08-20",
+    "category": "reconstructive",
+    "pmid": "35502957",
+    "title": "Lumbar Artery Perforator Flaps: A Systematic Review of Free Tissue Transfers and Anatomical Characteristics.",
+    "authors": "Vonu PM, Chopan M, Sayadi L et al.",
+    "journal": "Ann Plast Surg",
+    "year": 2022,
+    "doi": "10.1097/SAP.0000000000003216",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35502957/",
+    "citation_count": 9,
+    "rcr": 1.7907800105940908,
+    "abstract": "BACKGROUND: The lumbar artery perforator (LAP) flap has gained popularity as a versatile flap in reconstructive surgery; however, few studies have analyzed salient characteristics of this flap. We set out to provide a comprehensive appraisal of free tissue transfers of LAP flaps with specific attention to anatomic features and clinical outcomes. METHODS: Using preferred reporting items for systematic reviews and meta-analyses guidelines, we identified clinical, radiographic, and cadaveric studies of LAP flaps and assessed outcomes, complications, and anatomic parameters, such as pedicle length, diameter, location, and course. RESULTS: A total of 254 articles were initially reviewed, of which 18 met the final inclusion criteria. Ten studies were primarily concerned with anatomic characteristics, and most clinical studies related to breast reconstruction. The operative durations varied between 4.8 and 9.2 hours. Partial and total flap losses were estimated at 2.6% and 7.6%, respectively. Acute revision rates ranged from 16% to 24% related to hematoma, arterial thrombus, and venous thrombus. Donor-site seromas were frequently encountered in breast reconstruction with an incidence of 17% to 78%. CONCLUSIONS: The LAP flap has demonstrated favorable outcomes in various reconstructive scenarios. The caudal perforators generally offer more pedicle length, greater pedicle diameter, and septocutaneous course and may be better suited for flap design. For breast reconstruction, the LAP flap is a useful alternative to abdominal-based flaps, and special attention should be given to optimizing pedicle length using interposition grafts and methods that minimize seroma formation at the donor site.",
+    "abstract_tr": "",
+    "score": 0.6435
+  },
+  {
     "date": "2026-08-19",
     "category": "aesthetic",
     "pmid": "39616095",
