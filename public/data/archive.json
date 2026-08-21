@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-21",
+    "category": "aesthetic",
+    "pmid": "38452148",
+    "title": "Rhinoplasty Outcomes in Patients With Symptoms of Body Dysmorphia.",
+    "authors": "Losorelli S, Kimura KS, Wei EX et al.",
+    "journal": "Aesthet Surg J",
+    "year": 2024,
+    "doi": "10.1093/asj/sjae045",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38452148/",
+    "citation_count": 5,
+    "rcr": 3.232679654338009,
+    "abstract": "BACKGROUND: Patients with symptoms of body dysmorphia often seek consultation for aesthetic rhinoplasty. While body dysmorphic disorder is a formal psychiatric diagnosis, recent evidence indicates that patients with symptoms of this condition who seek rhinoplasty may experience increased satisfaction with their appearance following surgery. OBJECTIVES: To determine the psychological impact of rhinoplasty in patients screened preoperatively and postoperatively with a body dysmorphia screening questionnaire. METHODS: Retrospective chart review was performed of patients who underwent aesthetic and/or functional rhinoplasty by a single surgeon from June 2021 to April 2023. Adult patients with a complete preoperative and postoperative Body Dysmorphic Disorder-Aesthetic Surgery questionnaire (BDDQ-AS), Standardized Cosmesis and Health Nasal Outcomes Survey-Obstruction and Cosmesis (SCHNOS), and visual analog scale (VAS) were included. Patient characteristics and outcomes were analyzed, stratifying by BDDQ-AS screen. RESULTS: One-hundred fifteen patients (88% female) met criteria for inclusion. There was an 83% resolution rate of BDDQ-AS positive screening following rhinoplasty. Positive BDDQ-AS screening status preoperatively and postoperatively correlated with worse aesthetic satisfaction (all P < .002). No patient-reported outcome measures were indicative of which patients with a BDDQ-AS positive screen preoperatively would experience \"resolution\" postoperatively. CONCLUSIONS: Body dysmorphia screening resolution following surgical intervention correlated with improved patient aesthetic satisfaction, pointing to a potential positive psychological impact of undergoing rhinoplasty.",
+    "abstract_tr": "",
+    "score": 0.639
+  },
+  {
+    "date": "2026-08-21",
+    "category": "reconstructive",
+    "pmid": "36163147",
+    "title": "Thin and superthin free flaps: An innovative approach to pediatric extremity reconstruction.",
+    "authors": "Glass GE, Staruch RM, Sivakumar B et al.",
+    "journal": "J Plast Reconstr Aesthet Surg",
+    "year": 2022,
+    "doi": "10.1016/j.bjps.2022.06.090",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36163147/",
+    "citation_count": 8,
+    "rcr": 1.8435999978875015,
+    "abstract": "INTRODUCTION: Published standards for the management of open extremity fractures have improved limb salvage, fracture union, and deep infection rates, but the aesthetic and functional importance of our flap choices has been overlooked. Thin and superthin free flaps exhibit advantages over traditional free flaps in some situations but have seldom been reported in children. The aim of this paper is to present our experience of thin and superthin free flaps in pediatric extremity reconstruction. METHODS: Children (≤13 years) who underwent soft tissue reconstruction using a thin and superthin free flap following major extremity trauma are presented. RESULTS: Five patients (5 flaps) met the inclusion criteria. The median age was 9 (range 6-13). There were 3 Gustilo IIIB open fractures and 2 multiplanar degloving injuries. The median mangled extremity severity score (MESS) was 4 (range 2-6). The median time from injury to definitive soft tissue closure was 72 h (range 28-120 h). Four anterolateral thigh (ALT) flaps were raised as thin flaps, and 1 superficial circumflex iliac artery perforator (SCIP) was raised as a superthin flap. There was one re-exploration owing to venous congestion, and a second venous anastomosis was performed to enhance flap drainage. The same ALT flap exhibited necrosis at one margin, which was debrided and grafted before discharge. There were no other flap complications. No flap-related secondary surgeries were required. CONCLUSION: Thin and superthin free flaps are viable options in pediatric extremity reconstruction. They exhibit excellent aesthetic and functional contouring when a slender fasciocutaneous flap is needed, especially when body habitus renders traditional options unfavorable.",
+    "abstract_tr": "",
+    "score": 0.6384
+  },
+  {
     "date": "2026-08-20",
     "category": "aesthetic",
     "pmid": "34792262",
