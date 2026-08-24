@@ -1,37 +1,37 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "articles": [
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "category": "aesthetic",
-      "pmid": "38955835",
-      "title": "Factors Affecting Patient Satisfaction with Double-Eyelid Blepharoplasty.",
-      "authors": "Liu X, Han Y, Shen Q et al.",
-      "journal": "Aesthetic Plast Surg",
-      "year": 2024,
-      "doi": "10.1007/s00266-024-04127-6",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38955835/",
-      "citation_count": 5,
-      "rcr": 2.9952350425592,
-      "abstract": "BACKGROUND: Blepharoplasty is a common surgical technique performed in individuals seeking aesthetic enhancement. Thus, it is essential to investigate the factors influencing postoperative satisfaction from the patient's perspective. In this study, patient-rated outcome measure questionnaires were used to identify the factors affecting patient satisfaction after full-incision upper blepharoplasty. METHODS: This retrospective study analyzed patients who underwent full-incision upper blepharoplasty at an outpatient clinic in China. The questionnaire responses were collected by telephone, text messaging, or email at 6 and 12 months postoperatively. RESULTS: In total, 149 questionnaires were collected. After a mean follow-up of 23.23 months, the patients' overall satisfaction rate was 89.43%. The factors that significantly affected postoperative satisfaction were the patient's education level, the source of referral to the surgeon, the patient's understanding of the surgical risks, application of a cold compress after surgery as recommended, unsatisfactory postoperative double-eyelid width, postoperative bilateral asymmetry, apparent postoperative cicatrices, and postoperative caterpillar-like appearance of the double eyelids. Education level, apparent postoperative cicatrices, and postoperative bilateral asymmetry influenced the patient's satisfaction with the surgical outcome. The patient's understanding of the surgical risks, unsatisfactory postoperative double-eyelid width, postoperative bilateral asymmetry, apparent postoperative cicatrices, and postoperative caterpillar-like appearance influenced the satisfaction of the patient's family and friends. CONCLUSIONS: Postoperative bilateral asymmetry, apparent postoperative cicatrices, and a low education level of the patient are independent factors that negatively affect patient satisfaction with the outcome of double-eyelid blepharoplasty. LEVEL OF EVIDENCE IV: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+      "pmid": "36811485",
+      "title": "Assessing the Impact of COVID-19 on Facial Aesthetic Surgery Search Interest.",
+      "authors": "Herzog I, Park J, Didzbalis CJ et al.",
+      "journal": "Ann Plast Surg",
+      "year": 2023,
+      "doi": "10.1097/SAP.0000000000003499",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36811485/",
+      "citation_count": 7,
+      "rcr": 1.7329656862394476,
+      "abstract": "The global COVID-19 pandemic reshaped many components of modern health care practice. Before the pandemic, research was beginning to demonstrate the impact of self-facing cameras, selfie images, and webcams on patient interest in head and neck (H&N) aesthetic surgery. We sought to determine temporal changes in patient interest in aesthetic surgery of the H&N as compared with the rest of the body because of COVID-19, and the subsequent surge in Web-conferencing and telecommunication. The 2020 Plastic Surgery Trends Report produced by the American Society of Plastic Surgeons was used to identify the 5 most common aesthetic surgical procedures performed on the H&N and the rest of the body for 2019: blepharoplasty, face lift, rhinoplasty, neck lift, cheek implant, and breast lift, liposuction, tummy tuck, breast augmentation, and breast reduction, respectively. Google Trends filters, which provide relative search interest for greater than 85% of Internet searches, were applied to gauge interest from January 2019 to April 2022. Relative search interest and mean interest were plotted as a function of time for each term. Our findings demonstrate a sharp decline in online aesthetic surgery interest in March 2020, coinciding with the beginning of the COVID-19 pandemic for both the H&N and the rest of the body. Search interest increased shortly after March 2020 and reached values greater than those of the prepandemic year (2019) in 2021 for rest of the body procedures. After March 2020, there was a brief, sharp increase in search interest for rhinoplasty, neck lift, and facelift, whereas patient interest in blepharoplasty increased more gradually. There was no increase in search interest for H&N procedures as a result of COVID-19 when using the mean values of the included procedures, although current interest has returned to prepandemic levels. The COVID-19 pandemic caused a disruption of normal trends in aesthetic surgery interest, with a sharp decline in search interest in March 2020. Afterward, there was a sharp increase in rhinoplasty, face lift, neck lift, and blepharoplasty interest. Patient interest in blepharoplasty and neck lift has remained elevated compared with 2019. Interest in rest of the body procedures has returned to and even surpassed prepandemic levels.",
       "abstract_tr": "",
-      "score": 0.6539
+      "score": 0.655
     },
     {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "category": "reconstructive",
-      "pmid": "37148806",
-      "title": "Swallowing outcomes over time after total pharyngolaryngectomy and free flap reconstruction.",
-      "authors": "Elaldi R, Gorphe P, Kolb F et al.",
-      "journal": "J Plast Reconstr Aesthet Surg",
+      "pmid": "36752540",
+      "title": "Impact of Intraoperative Hypothermia on Autologous Breast Reconstruction.",
+      "authors": "Chishom TA, Andersen ES, Juan HY et al.",
+      "journal": "Ann Plast Surg",
       "year": 2023,
-      "doi": "10.1016/j.bjps.2023.04.006",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37148806/",
-      "citation_count": 5,
-      "rcr": 1.7351207598511196,
-      "abstract": "BACKGROUND: One of the challenges after total pharyngolaryngectomy (TPL) is to restore the swallowing function. The aim of this study was to compare swallowing outcomes between patients who underwent reconstruction with jejunum free flap (JFF) and other free flaps (OFFs). METHODS: This retrospective study included patients who underwent TPL and free flap reconstruction. The endpoints were the evolution of swallowing outcomes during the first five years after treatment assessed by the Functional Oral Intake Scale (FOIS), and outcomes associated with complications. RESULTS: One hundred and eleven patients were included, 84 patients in the JFF group and 27 in the OFF group. The patients in the OFF group experienced more chronic pharyngostoma (p = 0.001) and pharyngoesophageal stricture (p = 0.008). During the first year, a lower FOIS score tended to be associated with OFF (p = 0.137), and this result remained stable over time. CONCLUSIONS: This study suggests that JFF reconstruction provides better swallowing outcomes than OFF reconstruction, stable over time.",
+      "doi": "10.1097/SAP.0000000000003458",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36752540/",
+      "citation_count": 6,
+      "rcr": 1.6210506334763137,
+      "abstract": "OBJECTIVE: Studies have identified perioperative hypothermia as a risk factor for impaired wound healing, increased hospital length of stay, and surgical site infection. This study examines the effect of intraoperative hypothermia on postoperative outcomes in autologous microvascular free flap breast reconstruction. METHODS: This was a retrospective review of 55 patients who experienced intraoperative hypothermia, defined as less than 35.0°C core body temperature and 99 normothermic patients who underwent autologous-based microvascular free flap breast reconstruction from 2013 to 2021. Demographics, comorbidities, smoking status, intraoperative warming devices, type of autologous reconstruction, hypothermia (and its duration), and length of surgery were collected. The outcomes assessed were infection rate, reoperation within 90 days, skin necrosis, wound healing complications, hematoma, seroma, and readmission within 90 days. RESULTS: In the study population of 154 consecutive patients, 8.4% had type 1 or type 2 diabetes and 3.2% were current smokers. A total of 90.3% of patients (139) underwent deep inferior epigastric perforator flap reconstruction, 7.1% (11) superficial inferior epigastric artery flap reconstruction, and 4 (2.6%) another free flap type. A total of 35.7% of the patients (55) experienced intraoperative hypothermia defined as less than 35.0°C. In the hypothermic group, a higher proportion of patients had wound healing complications (52.7% vs 29.3%, P < 0.05), hematoma (16.4% vs 5.1%, P < 0.05), and readmission for postoperative complications (34.5% vs 14.1%, P < 0.05). There was also a trend toward higher incidence of seroma (7.3% vs 5.1%), surgical site infection (12.7% vs 9.1%), skin necrosis (12.7% vs 9.1%), and unplanned reoperation within 90 days (10.9% vs 7.1%). Further analysis via Firth logistic regression demonstrated intraoperative hypothermia predicted postoperative hematoma (odds ratio [OR], 3.68; 95% confidence interval [CI], 1.17-11.60; P < 0.05), readmission within 90 days (OR, 3.20; 95% CI, 1.45-7.08; P < 0.05), and wound healing complications (OR, 2.69; 95% CI, 1.36-5.33; P < 0.05). CONCLUSIONS: This study demonstrates that intraoperative hypothermia is a significant risk factor for postoperative wound healing complications, hematoma, and readmission within 90 days in autologous breast reconstruction. Because of a finite amount of donor sites, it is important to find ways to minimize the risk of postoperative complications. Our results support that maintaining strict normothermia during autologous breast reconstruction can significantly improve patient outcomes and reduce morbidity.",
       "abstract_tr": "",
-      "score": 0.6184
+      "score": 0.6183
     }
   ]
 }
