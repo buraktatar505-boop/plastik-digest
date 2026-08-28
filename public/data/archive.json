@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-28",
+    "category": "aesthetic",
+    "pmid": "34905495",
+    "title": "Exploring the Potential of Stem Cell-Based Therapy for Aesthetic and Plastic Surgery.",
+    "authors": "Tran DK, Phuong TNT, Bui NL et al.",
+    "journal": "IEEE Rev Biomed Eng",
+    "year": 2023,
+    "doi": "10.1109/RBME.2021.3134994",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34905495/",
+    "citation_count": 14,
+    "rcr": 1.9167796859364776,
+    "abstract": "Over the last decade, stem cell-associated therapies are widely used because of their potential in self-renewable and multipotent differentiation ability. Stem cells have become more attractive for aesthetic uses and plastic surgery, including scar reduction, breast augmentation, facial contouring, hand rejuvenation, and anti-aging. The current preclinical and clinical studies of stem cells on aesthetic uses also showed promising outcomes. Adipose-derived stem cells are commonly used for fat grafting that demonstrated scar improvement, anti-aging, skin rejuvenation properties, etc. While stem cell-based products have yet to receive approval from the FDA for aesthetic medicine and plastic surgery. Moving forward, the review on the efficacy and potential of stem cell-based therapy for aesthetic and plastic surgery is limited. In the present review, we discuss the current status and recent advances of using stem cells for aesthetic and plastic surgery. The potential of cell-free therapy and tissue engineering in this field is also highlighted. The clinical applications, advantages, and limitations are also discussed. This review also provides further works that need to be investigated to widely apply stem cells in the clinic, especially in aesthetic and plastic contexts.",
+    "abstract_tr": "",
+    "score": 0.6261
+  },
+  {
+    "date": "2026-08-28",
+    "category": "reconstructive",
+    "pmid": "38553100",
+    "title": "Alternative Flap Options for Upper Extremity Reconstruction.",
+    "authors": "Berkane Y, Giorgino R, Ng ZY et al.",
+    "journal": "Hand Clin",
+    "year": 2024,
+    "doi": "10.1016/j.hcl.2023.08.010",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38553100/",
+    "citation_count": 3,
+    "rcr": 2.848203869362044,
+    "abstract": "For major upper limb defects, a wide range of established pedicled and free flap options can be used. These include the latissimus dorsi/thoracodorsal artery perforator, lateral arm, posterior interosseous artery, rectus abdominis, gracilis, and anterolateral thigh flaps. Technical proficiency is essential, and favorable success rates in terms of functional and esthetic outcomes can be achieved. Herein, alternative flap options (both pedicled and free) are introduced and discussed through a few illustrative case examples.",
+    "abstract_tr": "",
+    "score": 0.6004
+  },
+  {
     "date": "2026-08-27",
     "category": "aesthetic",
     "pmid": "34297053",

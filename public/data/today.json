@@ -1,37 +1,37 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "articles": [
     {
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "category": "aesthetic",
-      "pmid": "34297053",
-      "title": "Analyzing the Quality of Aesthetic Surgery Procedure Videos on TikTok.",
-      "authors": "Om A, Ijeoma B, Kebede S et al.",
-      "journal": "Aesthet Surg J",
-      "year": 2021,
-      "doi": "10.1093/asj/sjab291",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34297053/",
-      "citation_count": 48,
-      "rcr": 5.695669558170968,
-      "abstract": "BACKGROUND: TikTok is one of the most popular and fastest-growing social media apps in the world. Previous studies have analyzed the quality of patient education information on older video platforms, but the quality of plastic and cosmetic surgery videos on TikTok has not yet been determined. OBJECTIVES: The aim of this study was to analyze the source and quality of certain cosmetic procedure videos on TikTok. METHODS: The TikTok mobile application was queried for content related to 2 popular face procedures (rhinoplasty and blepharoplasty) and 2 body procedures (breast augmentation and abdominoplasty). Two independent reviewers analyzed video content according to the DISCERN scale, a validated, objective instrument that assesses the quality of information on a scale of 1 to 5. Quality scores were compared between videos produced by medical and nonmedical creators and between different content categories. RESULTS: The included videos attracted 4.8 billion views and 76.2 million likes. Videos were created by medical doctors (56%) and laypersons (44%). The overall average DISCERN score out of 5 corresponded to very poor video quality for rhinoplasty (1.55), blepharoplasty (1.44), breast augmentation (1.25), and abdominoplasty (1.29). DISCERN scores were significantly higher among videos produced by doctors than by laypersons for all surgeries. Comedy videos consistently had the lowest average DISCERN scores, whereas educational videos had the highest. CONCLUSIONS: It is increasingly important that medical professionals understand the possibility of patient misinformation in the age of social media. We encourage medical providers to be involved in creating quality information on TikTok and educate patients about misinformation to best support health literacy.",
+      "pmid": "34905495",
+      "title": "Exploring the Potential of Stem Cell-Based Therapy for Aesthetic and Plastic Surgery.",
+      "authors": "Tran DK, Phuong TNT, Bui NL et al.",
+      "journal": "IEEE Rev Biomed Eng",
+      "year": 2023,
+      "doi": "10.1109/RBME.2021.3134994",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34905495/",
+      "citation_count": 14,
+      "rcr": 1.9167796859364776,
+      "abstract": "Over the last decade, stem cell-associated therapies are widely used because of their potential in self-renewable and multipotent differentiation ability. Stem cells have become more attractive for aesthetic uses and plastic surgery, including scar reduction, breast augmentation, facial contouring, hand rejuvenation, and anti-aging. The current preclinical and clinical studies of stem cells on aesthetic uses also showed promising outcomes. Adipose-derived stem cells are commonly used for fat grafting that demonstrated scar improvement, anti-aging, skin rejuvenation properties, etc. While stem cell-based products have yet to receive approval from the FDA for aesthetic medicine and plastic surgery. Moving forward, the review on the efficacy and potential of stem cell-based therapy for aesthetic and plastic surgery is limited. In the present review, we discuss the current status and recent advances of using stem cells for aesthetic and plastic surgery. The potential of cell-free therapy and tissue engineering in this field is also highlighted. The clinical applications, advantages, and limitations are also discussed. This review also provides further works that need to be investigated to widely apply stem cells in the clinic, especially in aesthetic and plastic contexts.",
       "abstract_tr": "",
-      "score": 0.725
+      "score": 0.6261
     },
     {
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "category": "reconstructive",
-      "pmid": "39305535",
-      "title": "Clinical effect of free chimeric anterolateral thigh flap and chimeric thoracodorsal artery perforator flap in chronic osteomyelitis.",
-      "authors": "Xie Z, Cao ZM, Yang Y et al.",
-      "journal": "J Plast Reconstr Aesthet Surg",
+      "pmid": "38553100",
+      "title": "Alternative Flap Options for Upper Extremity Reconstruction.",
+      "authors": "Berkane Y, Giorgino R, Ng ZY et al.",
+      "journal": "Hand Clin",
       "year": 2024,
-      "doi": "10.1016/j.bjps.2024.09.007",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39305535/",
+      "doi": "10.1016/j.hcl.2023.08.010",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38553100/",
       "citation_count": 3,
-      "rcr": 1.6416890532377826,
-      "abstract": "BACKGROUND: Chronic osteomyelitis poses a formidable challenge for orthopedic practitioners in clinical practice. Chimeric perforator flap is a commonly used repair method for chronic osteomyelitis. The purpose of this study was to compare the clinical efficacy of chimeric anterolateral thigh flap (C-ALTP) and chimeric thoracodorsal artery perforator flap (C-TDAP) for the treatment of chronic osteomyelitis. METHODS: A retrospective analysis was performed on patients with chronic osteomyelitis of the lower extremity who underwent two kinds of treatment with chimeric perforator flaps from January 2014 to March 2022. The preoperative basic data and the operative and postoperative basic information of the two groups were collected and statistically analyzed. RESULTS: Sixty-six patients were included in this study, and both groups achieved satisfactory aesthetic and functional results. Intraoperative results showed that the intraoperative blood loss and flap acquisition time in the C-TDAP group were less than those in the C-ALTP group. The incidence of postoperative complications in the donor and recipient sites in the C-TDAP group was significantly lower than that in the C-ALTP group, which led to a high reoperation rate in the C-ALTP group. Long-term follow-up showed that the wound healing time and weight-bearing walking time in the C-TDAP group were less than those in the C-ALTP group. CONCLUSIONS: Chimeric perforator flaps can effectively be used to treat osteomyelitis with composite tissue defects, eliminate inflammation of the affected limbs, and promote wound healing. However, C-TDAP flaps have more reliable healing effects on wounds and donor sites, and have fewer complications. LEVEL OF EVIDENCE: III, Case-control study.",
+      "rcr": 2.848203869362044,
+      "abstract": "For major upper limb defects, a wide range of established pedicled and free flap options can be used. These include the latissimus dorsi/thoracodorsal artery perforator, lateral arm, posterior interosseous artery, rectus abdominis, gracilis, and anterolateral thigh flaps. Technical proficiency is essential, and favorable success rates in terms of functional and esthetic outcomes can be achieved. Herein, alternative flap options (both pedicled and free) are introduced and discussed through a few illustrative case examples.",
       "abstract_tr": "",
-      "score": 0.6097
+      "score": 0.6004
     }
   ]
 }
