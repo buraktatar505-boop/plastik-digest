@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-02",
+    "category": "aesthetic",
+    "pmid": "38408032",
+    "title": "Racial Perspectives on Facelifts: Evaluating Techniques and Outcomes Across Diverse Populations.",
+    "authors": "McCleary SP, Nirbhay J, Moghadam S et al.",
+    "journal": "Aesthet Surg J",
+    "year": 2024,
+    "doi": "10.1093/asj/sjae046",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38408032/",
+    "citation_count": 4,
+    "rcr": 3.1019468738548395,
+    "abstract": "BACKGROUND: Facial aesthetic surgery is one of plastic and reconstructive surgery's most sought-after and evolving areas. The growing diversity in both local and worldwide populations compels us to reevaluate our previous approaches and underscores the significance of departing from a singular aesthetic standard. Thankfully, the historical practice of stereotypical racial profiling has become less prevalent in the literature. Regrettably, however, the comparative terminology persists, characterizing non-Caucasian races as deviating from the \"norm,\" which typically refers to the White or Caucasian race. Additionally, there is a lack of contemporary literature comparing the distinctive considerations relevant to rhytidectomy across multiple racial populations. OBJECTIVES: The aim of this study was to succinctly outline the current body of literature examining the impact of race on facial aging and rhytidectomy, laying the groundwork for subsequent discussion on the relationship between race and facial aesthetic surgery. METHODS: A comprehensive literature review was conducted using PubMed (National Institutes of Health, Bethesda, MD), identifying all studies published before 2023 discussing facial aging and rhytidectomy, specifically in non-Caucasian patients. RESULTS: A total of 22 publications was identified. Asians were the most described group, with 12 publications, followed by Black/African with 5 and Hispanic/Latinx with 4. CONCLUSIONS: In today's context, the aesthetic surgeon must possess the knowledge and readiness to provide culturally sensitive, patient-centered care guided by subtle anatomical nuances, informed by anecdotal recommendations, and ultimately, aimed at effectively addressing aging concerns within diverse populations.",
+    "abstract_tr": "",
+    "score": 0.645
+  },
+  {
+    "date": "2026-09-02",
+    "category": "reconstructive",
+    "pmid": "38198626",
+    "title": "Surgical Delay of Thoracodorsal Artery Perforator Flaps for Total Autologous Breast Reconstruction.",
+    "authors": "Maier MA, Hoffman RD, Kordahi AM et al.",
+    "journal": "Ann Plast Surg",
+    "year": 2024,
+    "doi": "10.1097/SAP.0000000000003734",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38198626/",
+    "citation_count": 5,
+    "rcr": 1.127870889200118,
+    "abstract": "BACKGROUND: When abdomen-based free flap reconstruction is contraindicated, the muscle-sparing thoracodorsal artery perforator (TDAP) flap may be considered for total autologous breast reconstruction. The TDAP flap is often limited by volume and is prone to distal flap necrosis. We aim to demonstrate our experience combining the delay phenomenon with TDAP flaps for total autologous breast reconstruction. METHODS: Patients presenting for autologous breast reconstruction between April 2021 and August 2023 were recruited for surgically delayed TDAP flap reconstruction when abdominally based free flap reconstruction was contraindicated because of previous abdominal surgery or poor perforator anatomy. We dissected the TDAP flap except for a distal skin bridge and then reconstructed the breast 1 to 7 days later. Data included flap dimensions (in centimeters × centimeters), delay time (in days), predelay and postdelay perforator caliber (in millimeters) and flow (in centimeters per second), operative time (in minutes), hospital length of stay (in days), complications/revisions, and follow-up time (in days). RESULTS: Fourteen patients and 16 flaps were included in this study. Mean age and body mass index of patients were 55.9 ± 9.6 years and 30.1 ± 4.3 kg/m2, respectively. Average flap skin island length and width were 32.1 ± 3.3 cm (n = 8 flaps) and 8.8 ± 0.7 cm (n = 5 flaps), respectively. Beveled flap width reached 16.0 ± 2.2 cm (n = 3 flaps). Average time between surgical delay and reconstruction was 2.9 days, ranging from 1 to 7 days (n = 18 flaps). Mean predelay and postdelay TDAP vessel caliber and flow measured by Doppler ultrasound increased from 1.4 ± 0.3 to 1.8 ± 0.3 mm (P = 0.03) and 13.3 ± 5.2 to 43.4 ± 18.8 cm/s (P = 0.03), respectively (n = 4 flaps). Complications included 1 donor site seroma and 1 mastectomy skin flap necrosis. Follow-up ranged from 4 to 476 days (n = 17 operations). CONCLUSIONS: We demonstrate surgically delayed TDAP flaps as a viable option for total autologous breast reconstruction. Our series of flaps demonstrated increased perforator caliber and flow and enlarged volume capabilities and had no incidences of flap necrosis.",
+    "abstract_tr": "",
+    "score": 0.6202
+  },
+  {
     "date": "2026-09-01",
     "category": "aesthetic",
     "pmid": "38314894",
