@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "articles": [
     {
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "category": "aesthetic",
-      "pmid": "38262616",
-      "title": "Low Strip Unifying Hybrid Rhinoseptoplasty: A Novel Classification in Dorsal Preservation Surgery.",
-      "authors": "Taglialatela Scafati S, Rasulo M, Göksel A",
+      "pmid": "37337323",
+      "title": "The Blocking Points: The Keys to Consistent Success in Preservation Rhinoplasty.",
+      "authors": "Goksel A, Cason RW, Tran KN et al.",
       "journal": "Plast Reconstr Surg",
       "year": 2024,
-      "doi": "10.1097/PRS.0000000000011307",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38262616/",
-      "citation_count": 2,
-      "rcr": 1.7220517486624785,
-      "abstract": "BACKGROUND: Preservation rhinoplasty techniques continue to evolve. Suture tip-plasty with minimal resection and grafting, lateral crural tensioning, minimal excision from the lateral crura, dorsal preservation, subperichondrial dissection, and preservation of the ligaments have become the milestones of modern rhinosurgery. However, every time the dorsal frame is modified by means of rasping, shaving, or osteotomy, or the nasal tip is structured using grafts, surgeons are essentially applying structural concepts to their technique. The term \"hybrid rhinoplasty\" seems to include a more appropriate definition of this approach. METHODS: The authors performed a retrospective analysis of the medical records of patients who underwent primary septorhinoplasty using the low strip unifying hybrid rhinoseptoplasty concept from December of 2019 to June of 2022. Patient functional satisfaction and cosmetic satisfaction were evaluated using the Rhinoplasty Health Inventory and Nose Outcome scale. RESULTS: All reported procedures had low revision rates with good cosmetic and functional outcomes. CONCLUSIONS: Tailoring the surgical technique is essential in rhinoplasty. The authors present a new technical paradigm to help surgeons choose the best approach for dorsal preservation surgery. CLINICAL QUESTION/LEVEL OF EVIDENCE: Therapeutic, IV.",
+      "doi": "10.1097/PRS.0000000000010851",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37337323/",
+      "citation_count": 26,
+      "rcr": 18.798348595216254,
+      "abstract": "Preservation rhinoplasty is a growing area of interest among rhinoplasty surgeons. Dorsal preservation-a tenet of preservation rhinoplasty-is predicated on maintaining the integrity of the nasal midvault and effecting aesthetic change through alterations to the bony nasal pyramid and underlying septum. A challenge that is unique to dorsal preservation is the phenomenon of hump recurrence, because of the existence of anatomical blocking points. Blocking points are resistant tensile forces that either impede dorsal lowering intraoperatively or push the dorsum back to its native convexity over time. Five anatomical blocking points have previously been described, which the authors expand on and include an additional two. The seven anatomical blocking points are as follows: the cartilaginous septum, the perpendicular plate of the ethmoid, the lateral osteotomy site, the Webster triangle, the internal mucoperiosteum of the maxillary bone, the medial canthal ligament, and the lateral keystone area. It is critical that the surgeon be aware of the particular blocking points relevant to his or her chosen technique, and to appropriately and methodically address them to ensure consistent long-term results.",
       "abstract_tr": "",
-      "score": 0.6232
+      "score": 0.97
     },
     {
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "category": "reconstructive",
-      "pmid": "37130446",
-      "title": "Effects of DIEP flap-based breast reconstruction on respiratory function.",
-      "authors": "Sorotos M, Firmani G, Schiavone L et al.",
-      "journal": "J Plast Reconstr Aesthet Surg",
-      "year": 2023,
-      "doi": "10.1016/j.bjps.2023.02.025",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37130446/",
-      "citation_count": 4,
-      "rcr": 1.4928226971303136,
-      "abstract": "BACKGROUND: Breast reconstruction (BR) is an essential part of breast cancer treatment, and the DIEP flap is considered the gold standard reconstruction technique, which uses a free abdominal flap. Concerns have been raised regarding the effects of abdominoplasty on respiratory functions. This topic has not been addressed regarding donor-site closure of DIEP flaps. Our aim is to prospectively compare preoperative and postoperative spirometry in patients undergoing DIEP flap-based BR, investigating its impact on respiratory function. MATERIALS AND METHODS: We enrolled 21 patients who received BR with DIEP flap in our institution, who underwent pulmonary function assessment by spirometry 1 month preoperatively and 1 year postoperatively. We assessed Forced Expiratory Volume in the first second (FEV1), Forced Vital Capacity (FVC), FEV1/FVC ratio, and Peak Expiratory Flow (PEF). Statistical analysis was performed using the paired samples test. RESULTS: An improvement in the mean values of all 4 variables was found at 1 year from surgery. Namely, FEV1 improved by 0.1 L with a standard deviation (SD) of 0.39 L, FVC by 0.04 L with SD of 0.627, FEV1/FVC by 2.11 L with SD of 7.85 L, and PEF by 1.2 L with SD of 1.45 L. Only PEF was statistically significant [P = 0.001]. CONCLUSION: Our results suggest that DIEP flap BR does not negatively impact respiratory function. Although further knowledge is required, we confirm the possibility of considering the indication for abdominoplasty and DIEP flap reconstruction in patients with altered and reduced pulmonary function.",
+      "pmid": "39191380",
+      "title": "Transabdominal Robotic Harvest of Bilateral DIEP Pedicles in Breast Reconstruction: Technique and Interdisciplinary Approach.",
+      "authors": "Murariu D, Chen B, Bailey E et al.",
+      "journal": "J Reconstr Microsurg",
+      "year": 2025,
+      "doi": "10.1055/s-0044-1788930",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39191380/",
+      "citation_count": 12,
+      "rcr": 5.371360043432043,
+      "abstract": "BACKGROUND: The deep inferior epigastric artery perforator (DIEP) flap is the gold standard for autologous breast reconstruction. However, the conventional procedure's anterior sheath division, from perforating vessels to the pedicle origin, risks weakening the abdominal wall's primary strength layer. Employing the da Vinci Xi Surgical System with indocyanine green dye and near-infrared fluorescence imaging, we refined a robotic technique for bilateral DIEP flap harvest. This approach enhances safety during vessel dissection, utilizing smaller fascial incisions. This study will present this technique in detail to microsurgeons interested in robotic DIEP flaps. METHODS: In a retrospective cohort study spanning July 2021 to September 2022, female patients undergoing robotic bilateral DIEP flap reconstruction were analyzed. Following suprafascial flap dissection, the surgical robot was docked to target the pelvis, identifying and exposing deep inferior epigastric vessels intracorporeally. Mobilization and division occurred at their bases, with retrieval through a minimal anterior fascial incision, minimizing disruption to the abdominal wall and its motor innervation. RESULTS: The study comprised 23 patients (46 flaps), with a mean fascial length of 4.1 cm and mean pedicle length of 12.82 cm. Mesh usage was absent. Robotic time averaged 139 minutes, overall case length was 739 minutes, and the average length of stay was 3.9 days. Notably, no pedicle or intra-abdominal injuries were reported. CONCLUSION: This technique ensures safe and efficient pedicle dissection in robotic DIEP flap harvests. Given the limited number of plastic surgeons adept in minimally invasive abdominal surgeries, we recommend collaborative efforts, with general surgeons initially assisting microsurgeons in adopting the robotic approach. This strategy facilitates a smooth transition until plastic surgeons attain confidence and competence in independent robotic dissection.",
       "abstract_tr": "",
-      "score": 0.6126
+      "score": 0.8579
     }
   ]
 }
