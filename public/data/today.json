@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "articles": [
     {
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "category": "aesthetic",
-      "pmid": "37337323",
-      "title": "The Blocking Points: The Keys to Consistent Success in Preservation Rhinoplasty.",
-      "authors": "Goksel A, Cason RW, Tran KN et al.",
-      "journal": "Plast Reconstr Surg",
-      "year": 2024,
-      "doi": "10.1097/PRS.0000000000010851",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37337323/",
-      "citation_count": 26,
-      "rcr": 18.798348595216254,
-      "abstract": "Preservation rhinoplasty is a growing area of interest among rhinoplasty surgeons. Dorsal preservation-a tenet of preservation rhinoplasty-is predicated on maintaining the integrity of the nasal midvault and effecting aesthetic change through alterations to the bony nasal pyramid and underlying septum. A challenge that is unique to dorsal preservation is the phenomenon of hump recurrence, because of the existence of anatomical blocking points. Blocking points are resistant tensile forces that either impede dorsal lowering intraoperatively or push the dorsum back to its native convexity over time. Five anatomical blocking points have previously been described, which the authors expand on and include an additional two. The seven anatomical blocking points are as follows: the cartilaginous septum, the perpendicular plate of the ethmoid, the lateral osteotomy site, the Webster triangle, the internal mucoperiosteum of the maxillary bone, the medial canthal ligament, and the lateral keystone area. It is critical that the surgeon be aware of the particular blocking points relevant to his or her chosen technique, and to appropriately and methodically address them to ensure consistent long-term results.",
+      "pmid": "39402196",
+      "title": "Ultrasound and Helium Plasma-Assisted Liposuction for Body Contouring: A Single-Retrospective Cohort Study of 639 Patients.",
+      "authors": "Tambasco D, Albanese R, Scarabosio A et al.",
+      "journal": "Aesthetic Plast Surg",
+      "year": 2025,
+      "doi": "10.1007/s00266-024-04367-6",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39402196/",
+      "citation_count": 11,
+      "rcr": 5.324615238620752,
+      "abstract": "BACKGROUND: Over the past two decades, liposuction techniques have significantly evolved, moving from basic fat removal to sophisticated methods aimed at improving safety, efficiency, and cosmetic outcomes. This study evaluates the efficacy and safety of a combined approach using ultrasound-assisted liposuction (UAL) and helium plasma radiofrequency (HPRF) technology to enhance skin tightening without the need for extensive surgical interventions. METHODS: We conducted a retrospective analysis of 639 patients who underwent the combined UAL and HPRF liposuction technique. The patient cohort had an average age of 31.5 years and a mean BMI of 27.9 kg/m RESULTS: Minimal residual skin laxity was observed in 87% of patients, and 91% achieved excellent improvement in body contouring. The complication rates were low, with minor occurrences of seroma (5.6%) and a very low incidence of infection (0.3%). This combined technique demonstrated safety and efficacy, providing significant skin tightening and reducing recovery time compared to more invasive procedures. CONCLUSIONS: The combined use of UAL and HPRF technology offers a safe and effective method for enhancing skin tightening and improving body contouring outcomes. Despite the promising results, this study acknowledges the limitations of its retrospective design. Future prospective, multicenter studies are recommended to further validate these findings. This technique represents a significant advancement in the field of cosmetic surgery, emphasizing minimally invasive solutions with substantial esthetic benefits. LEVEL OF EVIDENCE IV: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
       "abstract_tr": "",
-      "score": 0.97
+      "score": 0.7195
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "category": "reconstructive",
-      "pmid": "39191380",
-      "title": "Transabdominal Robotic Harvest of Bilateral DIEP Pedicles in Breast Reconstruction: Technique and Interdisciplinary Approach.",
-      "authors": "Murariu D, Chen B, Bailey E et al.",
-      "journal": "J Reconstr Microsurg",
-      "year": 2025,
-      "doi": "10.1055/s-0044-1788930",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39191380/",
-      "citation_count": 12,
-      "rcr": 5.371360043432043,
-      "abstract": "BACKGROUND: The deep inferior epigastric artery perforator (DIEP) flap is the gold standard for autologous breast reconstruction. However, the conventional procedure's anterior sheath division, from perforating vessels to the pedicle origin, risks weakening the abdominal wall's primary strength layer. Employing the da Vinci Xi Surgical System with indocyanine green dye and near-infrared fluorescence imaging, we refined a robotic technique for bilateral DIEP flap harvest. This approach enhances safety during vessel dissection, utilizing smaller fascial incisions. This study will present this technique in detail to microsurgeons interested in robotic DIEP flaps. METHODS: In a retrospective cohort study spanning July 2021 to September 2022, female patients undergoing robotic bilateral DIEP flap reconstruction were analyzed. Following suprafascial flap dissection, the surgical robot was docked to target the pelvis, identifying and exposing deep inferior epigastric vessels intracorporeally. Mobilization and division occurred at their bases, with retrieval through a minimal anterior fascial incision, minimizing disruption to the abdominal wall and its motor innervation. RESULTS: The study comprised 23 patients (46 flaps), with a mean fascial length of 4.1 cm and mean pedicle length of 12.82 cm. Mesh usage was absent. Robotic time averaged 139 minutes, overall case length was 739 minutes, and the average length of stay was 3.9 days. Notably, no pedicle or intra-abdominal injuries were reported. CONCLUSION: This technique ensures safe and efficient pedicle dissection in robotic DIEP flap harvests. Given the limited number of plastic surgeons adept in minimally invasive abdominal surgeries, we recommend collaborative efforts, with general surgeons initially assisting microsurgeons in adopting the robotic approach. This strategy facilitates a smooth transition until plastic surgeons attain confidence and competence in independent robotic dissection.",
+      "pmid": "35397804",
+      "title": "Primary radiotherapy and deep inferior epigastric perforator flap reconstruction for patients with breast cancer (PRADA): a multicentre, prospective, non-randomised, feasibility study.",
+      "authors": "Thiruchelvam PTR, Leff DR, Godden AR et al.",
+      "journal": "Lancet Oncol",
+      "year": 2022,
+      "doi": "10.1016/S1470-2045(22)00145-0",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35397804/",
+      "citation_count": 61,
+      "rcr": 5.793335750183284,
+      "abstract": "BACKGROUND: Radiotherapy before mastectomy and autologous free-flap breast reconstruction can avoid adverse radiation effects on healthy donor tissues and delays to adjuvant radiotherapy. However, evidence for this treatment sequence is sparse. We aimed to explore the feasibility of preoperative radiotherapy followed by skin-sparing mastectomy and deep inferior epigastric perforator (DIEP) flap reconstruction in patients with breast cancer requiring mastectomy. METHODS: We conducted a prospective, non-randomised, feasibility study at two National Health Service trusts in the UK. Eligible patients were women aged older than 18 years with a laboratory diagnosis of primary breast cancer requiring mastectomy and post-mastectomy radiotherapy, who were suitable for DIEP flap reconstruction. Preoperative radiotherapy started 3-4 weeks after neoadjuvant chemotherapy and was delivered to the breast, plus regional nodes as required, at 40 Gy in 15 fractions (over 3 weeks) or 42·72 Gy in 16 fractions (over 3·2 weeks). Adverse skin radiation toxicity was assessed preoperatively using the Radiation Therapy Oncology Group toxicity grading system. Skin-sparing mastectomy and DIEP flap reconstruction were planned for 2-6 weeks after completion of preoperative radiotherapy. The primary endpoint was the proportion of open breast wounds greater than 1 cm width requiring a dressing at 4 weeks after surgery, assessed in all participants. This study is registered with ClinicalTrials.gov, NCT02771938, and is closed to recruitment. FINDINGS: Between Jan 25, 2016, and Dec 11, 2017, 33 patients were enrolled. At 4 weeks after surgery, four (12·1%, 95% CI 3·4-28·2) of 33 patients had an open breast wound greater than 1 cm. One (3%) patient had confluent moist desquamation (grade 3). There were no serious treatment-related adverse events and no treatment-related deaths. INTERPRETATION: Preoperative radiotherapy followed by skin-sparing mastectomy and immediate DIEP flap reconstruction is feasible and technically safe, with rates of breast open wounds similar to those reported with post-mastectomy radiotherapy. A randomised trial comparing preoperative radiotherapy with post-mastectomy radiotherapy is required to precisely determine and compare surgical, oncological, and breast reconstruction outcomes, including quality of life. FUNDING: Cancer Research UK, National Institute for Health Research.",
       "abstract_tr": "",
-      "score": 0.8579
+      "score": 0.6957
     }
   ]
 }
