@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "articles": [
     {
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "category": "aesthetic",
-      "pmid": "40208323",
-      "title": "Safety of Combined Versus Isolated Cosmetic Breast Surgery and Abdominoplasty: Insights from a Multi-institutional Database.",
-      "authors": "Knoedler S, Alfertshofer M, Matar DY et al.",
-      "journal": "Aesthetic Plast Surg",
+      "pmid": "39965470",
+      "title": "Role of tranexamic acid (TXA) in plastic and reconstructive surgery: A national perspective.",
+      "authors": "Rohrich RJ, Brown S, Brown T et al.",
+      "journal": "J Plast Reconstr Aesthet Surg",
       "year": 2025,
-      "doi": "10.1007/s00266-025-04800-4",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40208323/",
-      "citation_count": 11,
-      "rcr": 4.591557064664213,
-      "abstract": "INTRODUCTION: Abdominoplasty and breast surgery are popular cosmetic procedures, often performed as stand-alone or combined procedures. However, the safety of combining these surgeries remains poorly understood. METHODS: We analyzed data from the ACS-NSQIP database spanning 2008-2021, focusing on patients who underwent isolated cosmetic breast surgery, isolated cosmetic abdominoplasty, or the combination of both. We evaluated four primary outcomes: general complications (reoperation, readmission, mortality), surgical complications, medical complications, and overall complications (general + surgical + medical). Further analysis considered the specific type of cosmetic breast surgery. RESULTS: A total of 7865 female patients were identified, of whom 20.5% underwent isolated abdominoplasty, 65.3% cosmetic breast surgery, and 14.2% combined abdominoplasty with concurrent cosmetic breast surgery. Combined surgery was associated with a significantly higher risk of reoperations (OR 2.07; p = 0.04) compared to abdominoplasty alone. However, there was no significant difference in overall complications (OR 1.17; p = 0.40), surgical complications (OR 0.72; p = 0.26), or medical complications (OR 0.97; p = 0.91) between these two groups. Comparing combined to isolated cosmetic breast surgery, there was a higher risk of overall complications (OR 1.70; p = 0.04) and medical complications (OR 5.30; p < 0.0001) but no significant difference in general complications (OR 1.40; p = 0.33) or surgical complications (OR 0.85; p = 0.73). CONCLUSION: Combining breast surgery with abdominoplasty increases the risk of reoperations but does not elevate the risk of surgical or medical complications. However, patients seeking combined surgeries are more likely to experience adverse events than those seeking isolated cosmetic breast surgery. LEVEL OF EVIDENCE III: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+      "doi": "10.1016/j.bjps.2024.09.085",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39965470/",
+      "citation_count": 10,
+      "rcr": 4.283807082935051,
+      "abstract": "PURPOSE: Despite the widespread use of tranexamic acid (TXA) in plastic surgery, guidelines for the safe and effective administration have yet to be established. The present study reports the current practices of TXA usage in plastic and reconstructive surgery procedures among members of the American Society of Plastic Surgeons (ASPS). METHODS: An online survey was distributed to all active members of the ASPS. The survey was organized into three general parts: (1) demographic data and practice profiles; (2) familiarity, perceptions, and experience with TXA in various plastic surgery fields including craniofacial surgery, aesthetic surgery, burn care, microsurgery, and Mohs surgery; and (3) TXA dosage, mode, and time of administration. RESULTS: Five hundred two ASPS members completed the survey (21% response rate). Among the respondents, TXA use was most common in aesthetic surgery (90.3%), craniofacial surgery (78.2%), and breast reconstruction (61.8%). The most common procedures performed under TXA were facial procedures, including facelift (83.6%), neck lift (77.1%), forehead and browlift (54.8%), and rhinoplasty (55.0%). TXA administration protocols in aesthetic procedures included IV bolus (52.3%) and topical administration (50.5%). The most common IV bolus dose was 1 g (43.2%) and the most common TXA solution concentration was 3% (36.0). A total of 92.4% of respondents reported that they had never observed any TXA-related complications. CONCLUSIONS: The results reflect the widespread use of TXA among ASPS members, the preferred administration protocols in plastic surgery, and TXA's efficacy and favorable safety profile across a wide range of procedures.",
       "abstract_tr": "",
-      "score": 0.6666
+      "score": 0.8443
     },
     {
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "category": "reconstructive",
-      "pmid": "33867280",
-      "title": "Lymph-interpositional-flap transfer (LIFT) based on lymph-axiality concept: Simultaneous soft tissue and lymphatic reconstruction without lymph node transfer or lymphatic anastomosis.",
-      "authors": "Yamamoto T, Yamamoto N, Kageyama T et al.",
-      "journal": "J Plast Reconstr Aesthet Surg",
-      "year": 2021,
-      "doi": "10.1016/j.bjps.2021.03.014",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33867280/",
-      "citation_count": 46,
-      "rcr": 4.377569076485093,
-      "abstract": "BACKGROUND: Lymphatic system is important to maintain homeostasis. Lymph-axiality concept has been reported, which suggests possibility of lymphatic reconstruction using flap transfer without lymph node or supermicrosurgical lymphatic anastomosis. METHODS: Medical charts of 122 free flap reconstruction cases, either with conventional flap transfer (control) or lymph-interpositional-flap transfer (LIFT), for extremity soft tissue defects including lymphatic pathways were reviewed. Lymph vessels' stumps in a flap were placed as close to those in a recipient site as possible under indocyanine green (ICG) lymphography navigation in LIFT group. LIFT group was subdivided into LIFT(+) and LIFT(-) groups; lymph vessels' stumps could be approximated within 2 cm in LIFT(+) group, whereas those could not be in LIFT(-) group. Lymph flow restoration (LFR) and lymphedema development (LED) rates were compared between the groups on postoperative 6 months. RESULTS: No flap included lymph node. LFR was observed in 50 cases and LED in 72 cases. LFR rate in LIFT group (n = 75) was significantly higher than that in control group (n = 47) (57.3% vs. 14.9%; P < 0.001). LED rate in LIFT group was significantly lower than that in control group (20.0% vs. 48.9%; P < 0.001). Sub-group analysis showed significantly higher LFR and lower LED rates in LIFT(+) group (n = 44) than those in LIFT(-) group (n = 31; 88.6% vs. 12.9%; P < 0.001, 4.5% vs. 41.9%; P < 0.001). CONCLUSIONS: LIFT allows simultaneous soft tissue and lymphatic reconstruction without lymph node transfer or lymphatic anastomosis, which prevents development of secondary lymphedema.",
+      "pmid": "36321439",
+      "title": "Effect of operative time on complications associated with free flap reconstruction of the head and neck.",
+      "authors": "Irawati N, Every J, Dawson R et al.",
+      "journal": "Clin Otolaryngol",
+      "year": 2023,
+      "doi": "10.1111/coa.14000",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36321439/",
+      "citation_count": 31,
+      "rcr": 6.426188389507574,
+      "abstract": "OBJECTIVE: To evaluate whether prolonged operative time is negatively associated with post-operative complications and length of stay in patients undergoing microvascular free flap reconstruction for complex head and neck defects. METHODS: 342 consecutive patients undergoing microvascular reconstruction for head and neck defects between 2017-2019 at a single institution were evaluated. Operative outcomes and operative time were compared whilst controlling for patient and treatment related factors. RESULTS: Mean operative time was 551 min and length of stay was 16.2 days. An 11% increase in the risk of a post-operative complication was observed for every additional hour of operative time (OR 1.11, 95% CI 1.03-1.21, p = 0.011) after adjusting for patient and treatment factors. A cut-off of 9 h yielded a 92% increase in complications on either side of this (OR 1.92, 95% CI 1.18-3.13, p = 0.009). Increased operative time was also associated with increased length of stay and return to theatres, but not medical complications. CONCLUSION: Prolonged operative time is significantly associated with increased surgical complications, length of stay and return to theatres when performing microvascular reconstructive surgery for head and neck defects.",
       "abstract_tr": "",
-      "score": 0.7406
+      "score": 0.7398
     }
   ]
 }
