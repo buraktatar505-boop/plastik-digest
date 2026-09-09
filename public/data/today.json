@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "articles": [
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "category": "aesthetic",
-      "pmid": "36396286",
-      "title": "Precision Segmental Preservation Rhinoplasty: Avoiding Widening, Defining New Dorsal Esthetic Lines in Dorsal Preservation Rhinoplasty.",
-      "authors": "Neves JC, Erol O, Arancibia-Tagle D et al.",
-      "journal": "Facial Plast Surg Clin North Am",
+      "pmid": "36706713",
+      "title": "Artificial intelligence for objectively measuring years regained after facial rejuvenation surgery.",
+      "authors": "Elliott ZT, Bheemreddy A, Fiorella M et al.",
+      "journal": "Am J Otolaryngol",
       "year": 2023,
-      "doi": "10.1016/j.fsc.2022.08.011",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36396286/",
-      "citation_count": 14,
-      "rcr": 6.2315893131720985,
-      "abstract": "Experiencing great worldwide scientific excitement, the number of nose preservation surgeries has increased rapidly, promoting a considerable percentage of drawbacks and complications, causing many surgeons to recoil and return to classic resective techniques. In this study, we develop concepts that allow us to operate noses with preservation rhinoplasty that were previously considered to be among the absolute contraindications. Redefining new dorsal aesthetic lines, controlling the nasal lateral wall and the naso-facial groove surfaces, avoiding mid-vault widening and being precise in the design of bony and cartilaginous nasal profile, avoiding any type of irregularity, are strategies that will be presented.",
+      "doi": "10.1016/j.amjoto.2022.103775",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36706713/",
+      "citation_count": 22,
+      "rcr": 6.09754431289216,
+      "abstract": "BACKGROUND: Few objective measures are available for assessing the success of facial rejuvenation after face lift surgery. Convolutional neural networks (CNNs) may be used for this type of measurement. The purpose of this investigation is to use artificial intelligence (AI) via CNNs to objectively classify patient photos by age before and after aesthetic surgery. Uniquely, men and patients undergoing deep plane face lifts were included. METHODS: A CNN (FaceX) was used for facial age recognition and age estimation. Patient photos were analyzed preoperatively, and at three (PO1) and 12 months (PO2) postoperatively. The study population included male and female patients who underwent facial rejuvenation at our institution from 2017 to 2021. Patient photos were collected with the same camera, distance, and lighting. RESULTS: 226 patients were analyzed with a mean true age of 62.2 (SD 6.7) years. The AI estimated the mean preoperative age to be 64.7 (SD 10.4) years. The AI was 96.0 % accurate. Across all subjects, a 3.5-year, 5 % reduction in age (p ≤ 0.001) was attributed at PO1, and a 1.7 year, 3 % age reduction (p = 0.034) at PO2. No single ancillary procedure or technique conferred more benefit than others. The 15 males had a 2.0 year, 4 % age reduction (p = 0.06) at PO1. CONCLUSION: AI can be used to objectively measure the success of facelift surgery and compare outcomes among rhytidectomy techniques. Additionally, multiple, different approaches were effective with no single approach being superior. As AI continues to rapidly advance, more accurate models may be developed for multiple applications in facial plastic surgery.",
       "abstract_tr": "",
-      "score": 0.6717
+      "score": 0.755
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "category": "reconstructive",
-      "pmid": "38489983",
-      "title": "Secondary solution for breast reconstruction following total DIEP flap loss: A single-center experience after 3270 DIEP flaps.",
-      "authors": "Musmann RJ, Andree C, Munder B et al.",
-      "journal": "J Plast Reconstr Aesthet Surg",
-      "year": 2024,
-      "doi": "10.1016/j.bjps.2024.02.059",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38489983/",
+      "pmid": "39189141",
+      "title": "Social Determinants of Health Impact Complications Following Free-Flap Reconstruction for Head and Neck Cancer.",
+      "authors": "Goldberg ZN, Jain A, Wu R et al.",
+      "journal": "Otolaryngol Head Neck Surg",
+      "year": 2025,
+      "doi": "10.1002/ohn.953",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39189141/",
       "citation_count": 11,
-      "rcr": 3.4611452838794254,
-      "abstract": "BACKGROUND: Total deep inferior epigastric perforator (DIEP) flap failure is a significant concern in autologous breast reconstruction. Literature on secondary reconstruction options following total flap failure is limited. This study outlines the outcomes of patients who underwent reconstruction post-DIEP flap failure at our institution. METHODS: We conducted a retrospective analysis of patients receiving autologous breast reconstruction between 2004 and 2021. We aimed to identify causes of total DIEP flap failure, outcomes of revision surgery, and outcomes of secondary breast reconstruction procedures. RESULTS: From 2004 to 2021, 3456 free flaps for breast reconstruction were performed, with 3270 being DIEP flaps for 2756 patients. DIEP flap failure was observed in 40 cases (1.22%). Bilateral reconstructions had a higher failure rate (2.31%) than unilateral (0.72%). The primary cause was intraoperative complications during flap harvest (18 cases), followed by insufficient arterial perfusion (seven cases). Other causes included postoperative hematoma (seven cases), venous congestion (six cases), and late-onset fat necrosis (two cases). Post-failure, five patients received a second free flap with three cases of repeated flap failure. Twenty patients received implant-based reconstruction with two cases of reconstruction failure, while seven patients received a pedicled latissimus dorsi (LD) flap reconstructions with no cases of reconstruction failure. Eight patients declined further reconstruction. CONCLUSION: A second free flap post-DIEP failure was associated with a high risk of reconstruction failure, suggesting the need for careful patient selection. Implant-based and pedicled LD flap seem to be reliable secondary reconstruction options.",
+      "rcr": 3.9059910632612587,
+      "abstract": "OBJECTIVE: Head and neck cancers (HNCs) have increased in prevalence and often require free-flap reconstruction (FFR) after tumor ablation. Postoperative complications following FFR can be high, occurring in as many as 48% and 71% of cases. HNC patients also have many disparities in Social Determinants of Health (SDOH), but the potential impact of SDOH disparities on postoperative complications following FFR has not been formally assessed. STUDY DESIGN: Retrospective cohort review. SETTING: Academic Tertiary Care Institution in Northeast United States. METHODS: Patients that underwent head and neck FFR between January 2018 and December 2021 were analyzed to determine associations between quartiles of the national Area Deprivation Index (ADI), a proxy for SDOH disparity, and various medical and surgical postoperative complications. Associations were assessed using χ RESULTS: Two hundred four patients were included in the study, and 61 patients had 97 complications. Significant associations between higher national ADI quartile and incidence of several postoperative complications were identified, including any surgical complication (P = .0419), wound dehiscence (P = .0494), myocardial infarction (MI) (P = .0215), and sepsis (P = .0464). CONCLUSION: There are significant associations between SDOH disparities and postoperative surgical complications, wound dehiscence, MI, and sepsis following head and neck FFR. Addressing SDOH disparities in HNC is pivotal to enhance postoperative outcomes and promote holistic patient care.",
       "abstract_tr": "",
-      "score": 0.7145
+      "score": 0.6956
     }
   ]
 }
