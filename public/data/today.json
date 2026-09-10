@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "articles": [
     {
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "category": "aesthetic",
-      "pmid": "36706713",
-      "title": "Artificial intelligence for objectively measuring years regained after facial rejuvenation surgery.",
-      "authors": "Elliott ZT, Bheemreddy A, Fiorella M et al.",
-      "journal": "Am J Otolaryngol",
-      "year": 2023,
-      "doi": "10.1016/j.amjoto.2022.103775",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36706713/",
-      "citation_count": 22,
-      "rcr": 6.09754431289216,
-      "abstract": "BACKGROUND: Few objective measures are available for assessing the success of facial rejuvenation after face lift surgery. Convolutional neural networks (CNNs) may be used for this type of measurement. The purpose of this investigation is to use artificial intelligence (AI) via CNNs to objectively classify patient photos by age before and after aesthetic surgery. Uniquely, men and patients undergoing deep plane face lifts were included. METHODS: A CNN (FaceX) was used for facial age recognition and age estimation. Patient photos were analyzed preoperatively, and at three (PO1) and 12 months (PO2) postoperatively. The study population included male and female patients who underwent facial rejuvenation at our institution from 2017 to 2021. Patient photos were collected with the same camera, distance, and lighting. RESULTS: 226 patients were analyzed with a mean true age of 62.2 (SD 6.7) years. The AI estimated the mean preoperative age to be 64.7 (SD 10.4) years. The AI was 96.0 % accurate. Across all subjects, a 3.5-year, 5 % reduction in age (p ≤ 0.001) was attributed at PO1, and a 1.7 year, 3 % age reduction (p = 0.034) at PO2. No single ancillary procedure or technique conferred more benefit than others. The 15 males had a 2.0 year, 4 % age reduction (p = 0.06) at PO1. CONCLUSION: AI can be used to objectively measure the success of facelift surgery and compare outcomes among rhytidectomy techniques. Additionally, multiple, different approaches were effective with no single approach being superior. As AI continues to rapidly advance, more accurate models may be developed for multiple applications in facial plastic surgery.",
+      "pmid": "39423609",
+      "title": "Modified blepharoplasty combined with autologous fat transplantation into the orbital septum for the correction of dermatochalasis and sunken eyelids.",
+      "authors": "Liang Z, Liu J, Guo L et al.",
+      "journal": "J Plast Reconstr Aesthet Surg",
+      "year": 2024,
+      "doi": "10.1016/j.bjps.2024.09.073",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39423609/",
+      "citation_count": 5,
+      "rcr": 3.730947835539485,
+      "abstract": "BACKGROUND: Periorbital aging typically manifests with dermatochalasis and depression of the upper eyelid. While blepharoplasty is a popular choice for addressing upper eyelid skin laxity, it is not effective for treating sunken eyelids. This study introduces an innovative approach for periorbital rejuvenation by simultaneously addressing dermatochalasis and sunken upper eyelids in aging Asian women. METHOD: This study involved 45 patients with upper eyelid dermatochalasis accompanied by moderate to severe depression. Sub-brow blepharoplasty was performed in conjunction with upper eyelid granular fat grafting in the orbital septum for these patients. Preoperative measurements of the depth and volume of the upper eyelid depressions were taken, and surgical outcomes were assessed at 3 and 6 months postoperatively using the Global Aesthetic Improvement Scale (GAIS) score and the Antera 3D camera. RESULT: The average depth of the upper eyelid depression before surgery was 6.501 ± 1.473 mm, and the average volume was 0.579 ± 0.144 cm CONCLUSION: For patients with dermatochalasis accompanied by moderate to severe upper eyelid depression, standard blepharoplasty alone is insufficient to correct the sunken eyelid. This novel technique, which combines autologous granular fat injection into the orbital septum with blepharoplasty, effectively addresses periorbital aging, enhancing facial rejuvenation.",
       "abstract_tr": "",
-      "score": 0.755
+      "score": 0.6847
     },
     {
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "category": "reconstructive",
-      "pmid": "39189141",
-      "title": "Social Determinants of Health Impact Complications Following Free-Flap Reconstruction for Head and Neck Cancer.",
-      "authors": "Goldberg ZN, Jain A, Wu R et al.",
-      "journal": "Otolaryngol Head Neck Surg",
-      "year": 2025,
-      "doi": "10.1002/ohn.953",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39189141/",
-      "citation_count": 11,
-      "rcr": 3.9059910632612587,
-      "abstract": "OBJECTIVE: Head and neck cancers (HNCs) have increased in prevalence and often require free-flap reconstruction (FFR) after tumor ablation. Postoperative complications following FFR can be high, occurring in as many as 48% and 71% of cases. HNC patients also have many disparities in Social Determinants of Health (SDOH), but the potential impact of SDOH disparities on postoperative complications following FFR has not been formally assessed. STUDY DESIGN: Retrospective cohort review. SETTING: Academic Tertiary Care Institution in Northeast United States. METHODS: Patients that underwent head and neck FFR between January 2018 and December 2021 were analyzed to determine associations between quartiles of the national Area Deprivation Index (ADI), a proxy for SDOH disparity, and various medical and surgical postoperative complications. Associations were assessed using χ RESULTS: Two hundred four patients were included in the study, and 61 patients had 97 complications. Significant associations between higher national ADI quartile and incidence of several postoperative complications were identified, including any surgical complication (P = .0419), wound dehiscence (P = .0494), myocardial infarction (MI) (P = .0215), and sepsis (P = .0464). CONCLUSION: There are significant associations between SDOH disparities and postoperative surgical complications, wound dehiscence, MI, and sepsis following head and neck FFR. Addressing SDOH disparities in HNC is pivotal to enhance postoperative outcomes and promote holistic patient care.",
+      "pmid": "41288724",
+      "title": "Comparison of preoperative neutrophil-percentage-to-albumin ratio, systemic immune-inflammatory index, and neutrophil-to-lymphocyte ratio for predicting postoperative delirium in patients undergoing head and neck free-flap reconstruction surgery: a retrospective observational study.",
+      "authors": "Saito K, Kinoshita H, Takekawa D et al.",
+      "journal": "J Anesth",
+      "year": 2026,
+      "doi": "10.1007/s00540-025-03629-0",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41288724/",
+      "citation_count": 6,
+      "rcr": 4.76553962341502,
+      "abstract": "PURPOSE: Reports on postoperative delirium (POD), neutrophil-percentage-to-albumin ratio (NPAR), and systemic immune-inflammatory index (SII) are limited. We aimed to compare the accuracy of preoperative NPAR, SII, and neutrophil-to-lymphocyte ratio (NLR) in predicting POD in patients undergoing head and neck free-flap reconstruction. METHODS: This single-center, observational, retrospective study in Japan included 184 patients who underwent head and neck free-flap reconstruction. POD was diagnosed using the Intensive Care Delirium Screening Checklist. Multivariable logistic regression analyses were conducted to evaluate the association of preoperative NPAR, SII, and NLR with POD. Receiver operating characteristic (ROC) curves were used to compare the accuracy of each inflammatory marker in predicting POD. RESULTS: Seven patients were excluded, leaving 177 patients (52 females, 125 males). Of these, 38 (21.5%) were diagnosed with POD. Multivariable logistic regression showed that preoperative NPAR, SII, and NLR were significantly associated with POD in patients undergoing head and neck free-flap reconstruction surgery. The areas under the ROC curve of NPAR, SII, and NLR were 0.78 (95% confidence interval: 0.69-0.86), 0.72 (0.62-0.82), and 0.75 (0.66-0.84), respectively. CONCLUSION: The Preoperative NPAR and SII were significantly correlated with POD in patients undergoing head and neck reconstruction, similar to NLR. Preoperative NPAR might serve as an established marker in predicting POD in patients undergoing head and neck free-flap reconstruction.",
       "abstract_tr": "",
-      "score": 0.6956
+      "score": 0.79
     }
   ]
 }

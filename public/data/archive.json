@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-10",
+    "category": "aesthetic",
+    "pmid": "39423609",
+    "title": "Modified blepharoplasty combined with autologous fat transplantation into the orbital septum for the correction of dermatochalasis and sunken eyelids.",
+    "authors": "Liang Z, Liu J, Guo L et al.",
+    "journal": "J Plast Reconstr Aesthet Surg",
+    "year": 2024,
+    "doi": "10.1016/j.bjps.2024.09.073",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39423609/",
+    "citation_count": 5,
+    "rcr": 3.730947835539485,
+    "abstract": "BACKGROUND: Periorbital aging typically manifests with dermatochalasis and depression of the upper eyelid. While blepharoplasty is a popular choice for addressing upper eyelid skin laxity, it is not effective for treating sunken eyelids. This study introduces an innovative approach for periorbital rejuvenation by simultaneously addressing dermatochalasis and sunken upper eyelids in aging Asian women. METHOD: This study involved 45 patients with upper eyelid dermatochalasis accompanied by moderate to severe depression. Sub-brow blepharoplasty was performed in conjunction with upper eyelid granular fat grafting in the orbital septum for these patients. Preoperative measurements of the depth and volume of the upper eyelid depressions were taken, and surgical outcomes were assessed at 3 and 6 months postoperatively using the Global Aesthetic Improvement Scale (GAIS) score and the Antera 3D camera. RESULT: The average depth of the upper eyelid depression before surgery was 6.501 ± 1.473 mm, and the average volume was 0.579 ± 0.144 cm CONCLUSION: For patients with dermatochalasis accompanied by moderate to severe upper eyelid depression, standard blepharoplasty alone is insufficient to correct the sunken eyelid. This novel technique, which combines autologous granular fat injection into the orbital septum with blepharoplasty, effectively addresses periorbital aging, enhancing facial rejuvenation.",
+    "abstract_tr": "",
+    "score": 0.6847
+  },
+  {
+    "date": "2026-09-10",
+    "category": "reconstructive",
+    "pmid": "41288724",
+    "title": "Comparison of preoperative neutrophil-percentage-to-albumin ratio, systemic immune-inflammatory index, and neutrophil-to-lymphocyte ratio for predicting postoperative delirium in patients undergoing head and neck free-flap reconstruction surgery: a retrospective observational study.",
+    "authors": "Saito K, Kinoshita H, Takekawa D et al.",
+    "journal": "J Anesth",
+    "year": 2026,
+    "doi": "10.1007/s00540-025-03629-0",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41288724/",
+    "citation_count": 6,
+    "rcr": 4.76553962341502,
+    "abstract": "PURPOSE: Reports on postoperative delirium (POD), neutrophil-percentage-to-albumin ratio (NPAR), and systemic immune-inflammatory index (SII) are limited. We aimed to compare the accuracy of preoperative NPAR, SII, and neutrophil-to-lymphocyte ratio (NLR) in predicting POD in patients undergoing head and neck free-flap reconstruction. METHODS: This single-center, observational, retrospective study in Japan included 184 patients who underwent head and neck free-flap reconstruction. POD was diagnosed using the Intensive Care Delirium Screening Checklist. Multivariable logistic regression analyses were conducted to evaluate the association of preoperative NPAR, SII, and NLR with POD. Receiver operating characteristic (ROC) curves were used to compare the accuracy of each inflammatory marker in predicting POD. RESULTS: Seven patients were excluded, leaving 177 patients (52 females, 125 males). Of these, 38 (21.5%) were diagnosed with POD. Multivariable logistic regression showed that preoperative NPAR, SII, and NLR were significantly associated with POD in patients undergoing head and neck free-flap reconstruction surgery. The areas under the ROC curve of NPAR, SII, and NLR were 0.78 (95% confidence interval: 0.69-0.86), 0.72 (0.62-0.82), and 0.75 (0.66-0.84), respectively. CONCLUSION: The Preoperative NPAR and SII were significantly correlated with POD in patients undergoing head and neck reconstruction, similar to NLR. Preoperative NPAR might serve as an established marker in predicting POD in patients undergoing head and neck free-flap reconstruction.",
+    "abstract_tr": "",
+    "score": 0.79
+  },
+  {
     "date": "2026-09-09",
     "category": "aesthetic",
     "pmid": "36706713",
