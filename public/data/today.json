@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "articles": [
     {
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "category": "aesthetic",
-      "pmid": "39423609",
-      "title": "Modified blepharoplasty combined with autologous fat transplantation into the orbital septum for the correction of dermatochalasis and sunken eyelids.",
-      "authors": "Liang Z, Liu J, Guo L et al.",
-      "journal": "J Plast Reconstr Aesthet Surg",
-      "year": 2024,
-      "doi": "10.1016/j.bjps.2024.09.073",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39423609/",
-      "citation_count": 5,
-      "rcr": 3.730947835539485,
-      "abstract": "BACKGROUND: Periorbital aging typically manifests with dermatochalasis and depression of the upper eyelid. While blepharoplasty is a popular choice for addressing upper eyelid skin laxity, it is not effective for treating sunken eyelids. This study introduces an innovative approach for periorbital rejuvenation by simultaneously addressing dermatochalasis and sunken upper eyelids in aging Asian women. METHOD: This study involved 45 patients with upper eyelid dermatochalasis accompanied by moderate to severe depression. Sub-brow blepharoplasty was performed in conjunction with upper eyelid granular fat grafting in the orbital septum for these patients. Preoperative measurements of the depth and volume of the upper eyelid depressions were taken, and surgical outcomes were assessed at 3 and 6 months postoperatively using the Global Aesthetic Improvement Scale (GAIS) score and the Antera 3D camera. RESULT: The average depth of the upper eyelid depression before surgery was 6.501 ± 1.473 mm, and the average volume was 0.579 ± 0.144 cm CONCLUSION: For patients with dermatochalasis accompanied by moderate to severe upper eyelid depression, standard blepharoplasty alone is insufficient to correct the sunken eyelid. This novel technique, which combines autologous granular fat injection into the orbital septum with blepharoplasty, effectively addresses periorbital aging, enhancing facial rejuvenation.",
+      "pmid": "39429197",
+      "title": "Percutaneous External Fixation of Redistributed Orbital Fat in Transcutaneous Lower Eyelid Blepharoplasty.",
+      "authors": "Chen J, Tian Y, Wu Y et al.",
+      "journal": "Aesthet Surg J",
+      "year": 2025,
+      "doi": "10.1093/asj/sjae212",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39429197/",
+      "citation_count": 7,
+      "rcr": 3.4090383813337692,
+      "abstract": "BACKGROUND: Although percutaneous external fixation has gained popularity in transconjunctival blepharoplasty due to its simplicity and minimal incision, internal fixation remains the standard approach in transcutaneous blepharoplasty. OBJECTIVES: The aim of this study was to assess the safety and effectiveness of percutaneous external fixation specifically in transcutaneous fat repositioning blepharoplasty. METHODS: A consecutive cohort of 97 patients underwent this surgical technique between May 2022 and December 2023. Building upon the principles of transconjunctival fat repositioning, the procedure involved a minimal incision targeting the muscle layer, a conservative release of the tear trough ligament, and the repositioning of fat secured with percutaneous external fixation. Surgical outcomes were evaluated using the Barton grading system and FACE-Q scales for patient-reported outcomes. RESULTS: Following a mean follow-up of 7.2 months (range, 6-17 months), a resolution of tear trough deformities and eyelid bags was achieved in over 92% of cases. Notably, significant improvements (P < .05) were observed in lower eyelid aesthetics as measured by the FACE-Q scale, with a concomitant enhancement in patients' social confidence (P < .05). Overall, patients expressed satisfaction with their decision to undergo the procedure (71.0 ± 19.1). Complications necessitating revision surgery included isolated cases of hematoma evacuation, fat injection, excision of excess fat, and skin excision. CONCLUSIONS: External fixation in transcutaneous blepharoplasty is technically less complex and minimally invasive, effectively securing transposed fat pedicles safely, and presents a viable alternative to conventional fixation techniques.",
       "abstract_tr": "",
-      "score": 0.6847
+      "score": 0.6323
     },
     {
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "category": "reconstructive",
-      "pmid": "41288724",
-      "title": "Comparison of preoperative neutrophil-percentage-to-albumin ratio, systemic immune-inflammatory index, and neutrophil-to-lymphocyte ratio for predicting postoperative delirium in patients undergoing head and neck free-flap reconstruction surgery: a retrospective observational study.",
-      "authors": "Saito K, Kinoshita H, Takekawa D et al.",
-      "journal": "J Anesth",
-      "year": 2026,
-      "doi": "10.1007/s00540-025-03629-0",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41288724/",
-      "citation_count": 6,
-      "rcr": 4.76553962341502,
-      "abstract": "PURPOSE: Reports on postoperative delirium (POD), neutrophil-percentage-to-albumin ratio (NPAR), and systemic immune-inflammatory index (SII) are limited. We aimed to compare the accuracy of preoperative NPAR, SII, and neutrophil-to-lymphocyte ratio (NLR) in predicting POD in patients undergoing head and neck free-flap reconstruction. METHODS: This single-center, observational, retrospective study in Japan included 184 patients who underwent head and neck free-flap reconstruction. POD was diagnosed using the Intensive Care Delirium Screening Checklist. Multivariable logistic regression analyses were conducted to evaluate the association of preoperative NPAR, SII, and NLR with POD. Receiver operating characteristic (ROC) curves were used to compare the accuracy of each inflammatory marker in predicting POD. RESULTS: Seven patients were excluded, leaving 177 patients (52 females, 125 males). Of these, 38 (21.5%) were diagnosed with POD. Multivariable logistic regression showed that preoperative NPAR, SII, and NLR were significantly associated with POD in patients undergoing head and neck free-flap reconstruction surgery. The areas under the ROC curve of NPAR, SII, and NLR were 0.78 (95% confidence interval: 0.69-0.86), 0.72 (0.62-0.82), and 0.75 (0.66-0.84), respectively. CONCLUSION: The Preoperative NPAR and SII were significantly correlated with POD in patients undergoing head and neck reconstruction, similar to NLR. Preoperative NPAR might serve as an established marker in predicting POD in patients undergoing head and neck free-flap reconstruction.",
+      "pmid": "34229351",
+      "title": "Air Flow Cooling Improves Anterolateral Thigh Perforator Mapping Using the FLIR ONE Thermal Camera.",
+      "authors": "Illg C, Krauss S, Rothenberger J et al.",
+      "journal": "J Reconstr Microsurg",
+      "year": 2022,
+      "doi": "10.1055/s-0041-1731641",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34229351/",
+      "citation_count": 19,
+      "rcr": 3.4209248739229365,
+      "abstract": "BACKGROUND: Due to the variable vascular anatomy preoperative perforator mapping facilitates anterolateral thigh (ALT) free flap harvesting. Dynamic infrared perforator imaging can assist preoperative planning by displaying hot spots that represent angiosomes. This study aims to compare previously described precooling methods to develop a standardized simplified protocol for ALT perforator planning. METHODS: Fifty thighs were examined with a FLIR ONE thermal camera. Four different cold challenges, including alcoholic disinfection, wet laparotomy sponge cooling, fan cooling, and cold pack application, were compared. Hot spot locations within a 250 mm × 80 mm area were compared double-blinded to perforator locations determined by Doppler ultrasonography considered as gold standard. RESULTS: The matching rate of thermographic hot spots and sonographically identified perforators was 34.9 ± 22.2%. An increased matching rate of 62.2 ± 42.2% was noted taking only favored perforators (septocutaneous course, diameter >1 mm, distance <3 cm to the center, and visible concomitant veins) into account. Precooling with a fan followed by alcoholic disinfection provided clearest thermograms and fastest results. CONCLUSION: Thermographic imaging is a reliable method for perforator imaging. Its supplemental use to ultrasound may reduce examination time and yield additional information. Precooling by air flow or alcoholic disinfection can be easily implemented and provide the best thermograms. The matching rate of thermographic hot spots and perforators increases when taking only clinically relevant perforators into account. Thermal perforator mapping therefore reduces distraction by negligible perforators.",
       "abstract_tr": "",
-      "score": 0.79
+      "score": 0.7933
     }
   ]
 }
