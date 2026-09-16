@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-16",
+    "category": "aesthetic",
+    "pmid": "35288497",
+    "title": "Perceived Age and Attractiveness Using Facial Recognition Software in Rhinoplasty Patients: A Proof-of-Concept Study.",
+    "authors": "Khetpal S, Peck C, Parsaei Y et al.",
+    "journal": "J Craniofac Surg",
+    "year": 2022,
+    "doi": "10.1097/SCS.0000000000008625",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35288497/",
+    "citation_count": 18,
+    "rcr": 2.839548990153031,
+    "abstract": "Artificial intelligence (Al)-based analyses may serve as a more objective tool for measuring cosmetic improvements following aesthetic plastic surgery. This preliminary proof-of-concept study utilized a novel commercial facial recognition software to assess perceived changes in age and attractiveness among patients receiving rhinoplasty.This study was a retrospective evaluation of three-dimensional photographs of patients who underwent rhinoplasty by the senior author (DS). Both pre- and post-operative (> 12-month follow-up) Vectra three-dimensional images (Canfield Scientific, Parsippany, NJ) were assessed using Haystack AI Software (Haystack AI, New York, NY). Facial attractiveness (score 1-10) and apparent age were predicted. A retrospective chart review of demographic variables was additionally performed. Paired t tests were used to compare age and attractiveness scores before and after surgery. Multivariate linear regression was performed to identify factors associated with age and attractiveness scores.One hundred twenty-four patients receiving rhinoplasty met the study criteria (average age: 35.58). Overall, rhinoplasty was associated with increases in Al-rated attractiveness (+0.28, P = 0.03) and decreases in perceived age relative to the patient's true age (-1.03 years, P = 0.03). Greater decreases in postoperative perceived age were achieved in patients who appeared older than their actual age preoperatively ( P < 0.001).Facial recognition software was successfully used to evaluate improvements in perceived age and attractiveness in patients undergoing aesthetic rhinoplasty. Patients were perceived by the software as younger and more attractive following rhinoplasty. Age reversal was greatest among patients who appeared much older than their actual age at the time of surgery.Level of Evidence: IV.",
+    "abstract_tr": "",
+    "score": 0.6831
+  },
+  {
+    "date": "2026-09-16",
+    "category": "reconstructive",
+    "pmid": "34454407",
+    "title": "Utility of ERAS Pathway in Nonabdominal-Based Microsurgical Breast Reconstruction: Efficacy in PAP Flap Reconstruction?",
+    "authors": "Cho MJ, Garza R, Teotia SS et al.",
+    "journal": "J Reconstr Microsurg",
+    "year": 2022,
+    "doi": "10.1055/s-0041-1733993",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34454407/",
+    "citation_count": 15,
+    "rcr": 2.87624053837507,
+    "abstract": "BACKGROUND: Enhanced recovery after surgery (ERAS) protocols are effective in decreasing hospital length of stay and inpatient opioid consumption. Implementation of these protocols in abdominally based breast reconstruction has been successful. When a patient is a poor candidate for abdominally based flaps a popular secondary option is the profunda artery perforator (PAP) flap. We present our experience with implementation of our ERAS protocol in patients treated with PAP flaps for breast reconstruction. METHODS: Retrospective review of patients treated with autologous breast reconstruction using PAP flaps before and after ERAS implementation were performed. Patient characteristics, postoperative oral morphine equivalents (OMEs), and flap data were collected. RESULTS: A total of 87 patients were included in this study (58 patients in pre-ERAS and 29 patients in ERAS group). There was no statistical difference in patient age, comorbidities, smoking, and radiation between two groups. The ERAS group had statistically lower hospital length of stay (2.6 vs. 3.8 days), procedure time (315 vs. 433 minutes), postoperative day 0 (54.8 vs. 96.3), postoperative day 1 (29.9 vs. 57.7), and total opioid consumption (103.7 vs. 192.1). There was no statistical difference in average pain scores between two groups. Multivariate analysis revealed that procedure time significantly increased the amount of opioid consumption while ERAS implementation significantly reduced LOS and opioid consumption. CONCLUSION: Use of an ERAS protocol in PAP flap breast reconstruction has not been previously studied. Our work shows that ERAS implementation in PAP flap breast reconstruction significantly reduces inpatient opioid use and length of hospital stay.",
+    "abstract_tr": "",
+    "score": 0.717
+  },
+  {
     "date": "2026-09-15",
     "category": "aesthetic",
     "pmid": "35417545",

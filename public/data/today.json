@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "articles": [
     {
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "category": "aesthetic",
-      "pmid": "35417545",
-      "title": "The Positive Patient Experience: A Comprehensive Analysis of Plastic Surgery Online Reviews.",
-      "authors": "Chang IA, Wells MW, Chang IA et al.",
-      "journal": "Aesthet Surg J",
+      "pmid": "35288497",
+      "title": "Perceived Age and Attractiveness Using Facial Recognition Software in Rhinoplasty Patients: A Proof-of-Concept Study.",
+      "authors": "Khetpal S, Peck C, Parsaei Y et al.",
+      "journal": "J Craniofac Surg",
       "year": 2022,
-      "doi": "10.1093/asj/sjac092",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35417545/",
-      "citation_count": 20,
-      "rcr": 3.364002831942833,
-      "abstract": "BACKGROUND: Subjective online physician evaluation is an important component of patient decision-making. Understanding reviews may improve satisfaction and build positive online reputation. OBJECTIVES: The aim of this study was to analyze and compare the top predictive factors driving patient satisfaction across the most popular plastic surgery procedures. METHODS: Online reviews were analyzed from RealSelf, Yelp, and Google for the 5 highest-rated plastic surgeons in 6 US metropolitan areas. Blank, non-English, consultation, duplicate, and unrelated reviews were excluded. Data from free-text reviews included physician rating, patient-reported reasons for rating, procedure, and complications. Univariate analysis was performed to compare predictive factors of online ratings. RESULTS: In total, 11,078 reviews were included. RealSelf had the highest average rating (4.77), and Yelp had the lowest (4.66). Reviews in Miami, Philadelphia, New York City, and Chicago were mostly published on RealSelf, whereas Houston and Los Angeles mostly used Google and Yelp, respectively. Reconstructive procedures were rated significantly higher than cosmetic procedures (P = 0.035). Aesthetic appearance was the strongest predictor of rating across all procedures. Buccal fat removal (98.8%) and abdominoplasty (98.1%) had the highest satisfaction, and Brazilian butt lift had the lowest (88.2%) (P < 0.001). Additional significant contributors included staff interaction, bedside manner, health outcomes, complications, and postoperative care (P < 0.001). CONCLUSIONS: Although aesthetic outcome is an important predictor of satisfaction, other aspects of care, such as bedside manner and staff interaction, provide an important foundation of support. Excellent patient-surgeon communication and postoperative care may mitigate patient dissatisfaction and elicit high-satisfaction online patient reviews.",
+      "doi": "10.1097/SCS.0000000000008625",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35288497/",
+      "citation_count": 18,
+      "rcr": 2.839548990153031,
+      "abstract": "Artificial intelligence (Al)-based analyses may serve as a more objective tool for measuring cosmetic improvements following aesthetic plastic surgery. This preliminary proof-of-concept study utilized a novel commercial facial recognition software to assess perceived changes in age and attractiveness among patients receiving rhinoplasty.This study was a retrospective evaluation of three-dimensional photographs of patients who underwent rhinoplasty by the senior author (DS). Both pre- and post-operative (> 12-month follow-up) Vectra three-dimensional images (Canfield Scientific, Parsippany, NJ) were assessed using Haystack AI Software (Haystack AI, New York, NY). Facial attractiveness (score 1-10) and apparent age were predicted. A retrospective chart review of demographic variables was additionally performed. Paired t tests were used to compare age and attractiveness scores before and after surgery. Multivariate linear regression was performed to identify factors associated with age and attractiveness scores.One hundred twenty-four patients receiving rhinoplasty met the study criteria (average age: 35.58). Overall, rhinoplasty was associated with increases in Al-rated attractiveness (+0.28, P = 0.03) and decreases in perceived age relative to the patient's true age (-1.03 years, P = 0.03). Greater decreases in postoperative perceived age were achieved in patients who appeared older than their actual age preoperatively ( P < 0.001).Facial recognition software was successfully used to evaluate improvements in perceived age and attractiveness in patients undergoing aesthetic rhinoplasty. Patients were perceived by the software as younger and more attractive following rhinoplasty. Age reversal was greatest among patients who appeared much older than their actual age at the time of surgery.Level of Evidence: IV.",
       "abstract_tr": "",
-      "score": 0.74
+      "score": 0.6831
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "category": "reconstructive",
-      "pmid": "35245253",
-      "title": "Prospective Longitudinal Patient-Reported Satisfaction and Health-Related Quality of Life following DIEP Flap Breast Reconstruction: Effects of Reconstruction Timing.",
-      "authors": "Ochoa O, Garza R 3rd, Pisano S et al.",
-      "journal": "Plast Reconstr Surg",
+      "pmid": "34454407",
+      "title": "Utility of ERAS Pathway in Nonabdominal-Based Microsurgical Breast Reconstruction: Efficacy in PAP Flap Reconstruction?",
+      "authors": "Cho MJ, Garza R, Teotia SS et al.",
+      "journal": "J Reconstr Microsurg",
       "year": 2022,
-      "doi": "10.1097/PRS.0000000000009044",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35245253/",
-      "citation_count": 19,
-      "rcr": 2.7642114324781235,
-      "abstract": "BACKGROUND: Without reconstruction, mastectomy alone can produce significant detrimental effects on health-related quality of life. The magnitude of quality-of-life benefits following breast reconstruction may be unique based on timing of reconstruction. Facilitated by the BREAST-Q questionnaire, characterization of how reconstruction timing differentially affects patient-reported quality of life is essential for improved evidence-based clinical practice. METHODS: Consecutive DIEP flap breast reconstruction patients prospectively completed BREAST-Q questionnaires preoperatively and at two different time intervals postoperatively. The first (postoperative time point A) and second (postoperative time point B) postoperative questionnaires were completed 1 month postoperatively and following breast revision/symmetry procedures, respectively. Postoperative flap and donor-site complications were recorded prospectively. Stratified by timing (immediate versus delayed) of reconstruction, preoperative clinical data, operative morbidity, and BREAST-Q scores were compared at all time points. RESULTS: Between July of 2012 and August of 2016, 73 patients underwent 130 DIEP flap breast reconstructions. Collectively, breast satisfaction, psychosocial well-being, and sexual well-being scores significantly (p < 0.001) increased postoperatively versus baseline. Chest and abdominal physical well-being scores returned to baseline levels by postoperative time point B. Preoperatively, patients undergoing delayed breast reconstruction reported significantly (p < 0.05) lower breast satisfaction, psychosocial well-being, and sexual well-being scores compared to immediate reconstruction patients. Postoperatively, delayed and immediate reconstruction patients reported similar quality-of-life scores. Outcome satisfaction and flap and donor-site morbidity were similar between groups irrespective of timing of reconstruction. CONCLUSIONS: In this prospective study, patient-reported outcomes demonstrate significant improvements in breast satisfaction, psychosocial well-being, and sexual well-being among patients following DIEP flap reconstruction. Moreover, preoperative differences in quality-of-life scores among delayed/immediate reconstruction patients were eliminated postoperatively. CLINICAL QUESTION/LEVEL OF EVIDENCE: Therapeutic, II.",
+      "doi": "10.1055/s-0041-1733993",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34454407/",
+      "citation_count": 15,
+      "rcr": 2.87624053837507,
+      "abstract": "BACKGROUND: Enhanced recovery after surgery (ERAS) protocols are effective in decreasing hospital length of stay and inpatient opioid consumption. Implementation of these protocols in abdominally based breast reconstruction has been successful. When a patient is a poor candidate for abdominally based flaps a popular secondary option is the profunda artery perforator (PAP) flap. We present our experience with implementation of our ERAS protocol in patients treated with PAP flaps for breast reconstruction. METHODS: Retrospective review of patients treated with autologous breast reconstruction using PAP flaps before and after ERAS implementation were performed. Patient characteristics, postoperative oral morphine equivalents (OMEs), and flap data were collected. RESULTS: A total of 87 patients were included in this study (58 patients in pre-ERAS and 29 patients in ERAS group). There was no statistical difference in patient age, comorbidities, smoking, and radiation between two groups. The ERAS group had statistically lower hospital length of stay (2.6 vs. 3.8 days), procedure time (315 vs. 433 minutes), postoperative day 0 (54.8 vs. 96.3), postoperative day 1 (29.9 vs. 57.7), and total opioid consumption (103.7 vs. 192.1). There was no statistical difference in average pain scores between two groups. Multivariate analysis revealed that procedure time significantly increased the amount of opioid consumption while ERAS implementation significantly reduced LOS and opioid consumption. CONCLUSION: Use of an ERAS protocol in PAP flap breast reconstruction has not been previously studied. Our work shows that ERAS implementation in PAP flap breast reconstruction significantly reduces inpatient opioid use and length of hospital stay.",
       "abstract_tr": "",
-      "score": 0.7557
+      "score": 0.717
     }
   ]
 }
