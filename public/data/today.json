@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "articles": [
     {
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "category": "aesthetic",
-      "pmid": "35288497",
-      "title": "Perceived Age and Attractiveness Using Facial Recognition Software in Rhinoplasty Patients: A Proof-of-Concept Study.",
-      "authors": "Khetpal S, Peck C, Parsaei Y et al.",
-      "journal": "J Craniofac Surg",
-      "year": 2022,
-      "doi": "10.1097/SCS.0000000000008625",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35288497/",
-      "citation_count": 18,
-      "rcr": 2.839548990153031,
-      "abstract": "Artificial intelligence (Al)-based analyses may serve as a more objective tool for measuring cosmetic improvements following aesthetic plastic surgery. This preliminary proof-of-concept study utilized a novel commercial facial recognition software to assess perceived changes in age and attractiveness among patients receiving rhinoplasty.This study was a retrospective evaluation of three-dimensional photographs of patients who underwent rhinoplasty by the senior author (DS). Both pre- and post-operative (> 12-month follow-up) Vectra three-dimensional images (Canfield Scientific, Parsippany, NJ) were assessed using Haystack AI Software (Haystack AI, New York, NY). Facial attractiveness (score 1-10) and apparent age were predicted. A retrospective chart review of demographic variables was additionally performed. Paired t tests were used to compare age and attractiveness scores before and after surgery. Multivariate linear regression was performed to identify factors associated with age and attractiveness scores.One hundred twenty-four patients receiving rhinoplasty met the study criteria (average age: 35.58). Overall, rhinoplasty was associated with increases in Al-rated attractiveness (+0.28, P = 0.03) and decreases in perceived age relative to the patient's true age (-1.03 years, P = 0.03). Greater decreases in postoperative perceived age were achieved in patients who appeared older than their actual age preoperatively ( P < 0.001).Facial recognition software was successfully used to evaluate improvements in perceived age and attractiveness in patients undergoing aesthetic rhinoplasty. Patients were perceived by the software as younger and more attractive following rhinoplasty. Age reversal was greatest among patients who appeared much older than their actual age at the time of surgery.Level of Evidence: IV.",
+      "pmid": "36623373",
+      "title": "Efficacy of closed reduction of nasal fractures-a retrospective analysis with focus on factors affecting functional and aesthetic outcomes.",
+      "authors": "Besmens IS, Shahrdar C, Fontein DBY et al.",
+      "journal": "J Plast Reconstr Aesthet Surg",
+      "year": 2023,
+      "doi": "10.1016/j.bjps.2022.11.010",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36623373/",
+      "citation_count": 5,
+      "rcr": 2.328302367634411,
+      "abstract": "BACKGROUND: Nasal bone fractures are the most common type of facial bone fractures. While the nasal anatomy and closed reduction techniques of nasal fractures are well described, there is a paucity of data reporting on the need for revision rhinoplasty. The objective of this study is to analyze the factors affecting the outcome and need for revision rhinoplasty in patients who underwent closed reduction for nasal bone fracture. METHODS: From 2010 to 2020, a total of 417 consecutive patients underwent closed nasal reduction. Medical files of the patients were reviewed retrospectively. The rate of rhinoplasty after fracture consolidation was determined. Factors influencing the need for revision rhinoplasty were assessed using univariable and multivariable logistic regression analyses. RESULTS: Forty-seven patients (11.3%) required revision rhinoplasty after fracture healing. Patients who had suffered an additional septum fracture were more likely to undergo rhinoplasty. The risk of the need for open revision rhinoplasty after fracture healing was increased for patients complaining of airway obstruction at the time of cast removal after closed reduction. CONCLUSION: A certain number of patients will require secondary revision rhinoplasty after closed reduction of a nasal fracture. Subjective airway obstruction at the time of cast removal after closed reduction is a predictor for revision rhinoplasty. Prospective studies are required to support the findings of this investigation.",
       "abstract_tr": "",
-      "score": 0.6831
+      "score": 0.6606
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "category": "reconstructive",
-      "pmid": "34454407",
-      "title": "Utility of ERAS Pathway in Nonabdominal-Based Microsurgical Breast Reconstruction: Efficacy in PAP Flap Reconstruction?",
-      "authors": "Cho MJ, Garza R, Teotia SS et al.",
-      "journal": "J Reconstr Microsurg",
-      "year": 2022,
-      "doi": "10.1055/s-0041-1733993",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34454407/",
-      "citation_count": 15,
-      "rcr": 2.87624053837507,
-      "abstract": "BACKGROUND: Enhanced recovery after surgery (ERAS) protocols are effective in decreasing hospital length of stay and inpatient opioid consumption. Implementation of these protocols in abdominally based breast reconstruction has been successful. When a patient is a poor candidate for abdominally based flaps a popular secondary option is the profunda artery perforator (PAP) flap. We present our experience with implementation of our ERAS protocol in patients treated with PAP flaps for breast reconstruction. METHODS: Retrospective review of patients treated with autologous breast reconstruction using PAP flaps before and after ERAS implementation were performed. Patient characteristics, postoperative oral morphine equivalents (OMEs), and flap data were collected. RESULTS: A total of 87 patients were included in this study (58 patients in pre-ERAS and 29 patients in ERAS group). There was no statistical difference in patient age, comorbidities, smoking, and radiation between two groups. The ERAS group had statistically lower hospital length of stay (2.6 vs. 3.8 days), procedure time (315 vs. 433 minutes), postoperative day 0 (54.8 vs. 96.3), postoperative day 1 (29.9 vs. 57.7), and total opioid consumption (103.7 vs. 192.1). There was no statistical difference in average pain scores between two groups. Multivariate analysis revealed that procedure time significantly increased the amount of opioid consumption while ERAS implementation significantly reduced LOS and opioid consumption. CONCLUSION: Use of an ERAS protocol in PAP flap breast reconstruction has not been previously studied. Our work shows that ERAS implementation in PAP flap breast reconstruction significantly reduces inpatient opioid use and length of hospital stay.",
+      "pmid": "39075344",
+      "title": "Predictive factors of postoperative complications related to free flap reconstruction in head and neck cancer patients admitted to intensive care unit: a retrospective cohort study.",
+      "authors": "Yu S, Wei K, Zhou D et al.",
+      "journal": "BMC Anesthesiol",
+      "year": 2024,
+      "doi": "10.1186/s12871-024-02649-9",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39075344/",
+      "citation_count": 8,
+      "rcr": 4.755469854035554,
+      "abstract": "BACKGROUND: The epidemiology and risk factors for postoperative complications related to free flap reconstruction in head and neck cancer patients admitted to the Intensive Care Unit (ICU) are unknown. METHODS: We performed a retrospective cohort study of patients with free flap reconstruction of head and neck cancer between September 2015 and April 2023 admitted to the ICU of Beijing Tongren Hospital. The univariate and multivariate analyses were used to explore the risk factors for postoperative complications related to free flap reconstruction admitted to ICU, including flap necrosis, bleeding, fistula, and infection. RESULTS: A total of 239 patients were included in this study, and 38 (15.9%) patients had postoperative complications related to free flap reconstruction. The median length of ICU stay was 1 day (interquartile range, 1-2 days). Multivariate analysis found that low BMI (P < 0.001), high postoperative CRP (P = 0.005), low hemoglobin (P = 0.012), and inadequate fluid intake (P < 0.05) were independent risk factors for complications. CONCLUSIONS: Postoperative complications related to free flap reconstruction were common in this ICU population. Careful fluid management and monitoring of CRP and hemoglobin levels may reduce complications.",
       "abstract_tr": "",
-      "score": 0.717
+      "score": 0.72
     }
   ]
 }
