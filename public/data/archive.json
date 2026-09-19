@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-19",
+    "category": "aesthetic",
+    "pmid": "39443322",
+    "title": "Clinical Efficacy of 830 nm LED Photobiomodulation Therapy on Postoperative Blepharoplasty Complications.",
+    "authors": "Ye H, Xiang Y",
+    "journal": "Aesthetic Plast Surg",
+    "year": 2025,
+    "doi": "10.1007/s00266-024-04374-7",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39443322/",
+    "citation_count": 5,
+    "rcr": 2.2148844231336056,
+    "abstract": "BACKGROUND: Blepharoplasty is the most prevalent cosmetic surgery procedure in Asia. There are three main types of blepharoplasty procedures: incision, threading, and spotting, with incision being the most common procedure. However, after incisional surgery, patients experience prolonged periorbital swelling, bruising, and scarring. In order to help patient reduce periorbital swelling and erythema and ease the discomfort. In this research, the authors introduce a photobiomodulation therapy and to investigate the efficacy and safety of 830 nm light-emitting diode (LED) phototherapy in improving complications after incisional blepharoplasty. METHOD: Participants were randomly assigned 830 nm LED phototherapy (novel care model) or traditional care model for postoperative care. The efficacy of different care measures on postoperative complications after incisional blepharoplasty was assessed using swelling score, pain score (VAS), wound healing grading, and anxiety scale (SAS). RESULTS: A total of 145 patients were included, including 73 in the novel care model group and 72 in the traditional care model group. The new care model based on 830 nm LED phototherapy could significantly improve the swelling, pain, wound healing, and anxiety self-assessment scale assessment of the patients compared with the traditional care model, and the difference was statistically significant (P<0.05). CONCLUSION: Photobiomodulation using 830 nm LED can markedly reduce postoperative swelling and pain, promote effective wound healing, lessen postoperative patient anxiety, and have no negative side effects. LEVEL OF EVIDENCE I: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+    "abstract_tr": "",
+    "score": 0.6416
+  },
+  {
+    "date": "2026-09-19",
+    "category": "reconstructive",
+    "pmid": "38149718",
+    "title": "Trends in free flap reconstruction of the head and neck: a single surgeon series of 1027 free tissue transfers.",
+    "authors": "Papanikolas MJ, Clark JR",
+    "journal": "ANZ J Surg",
+    "year": 2024,
+    "doi": "10.1111/ans.18798",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38149718/",
+    "citation_count": 7,
+    "rcr": 4.47092220292135,
+    "abstract": "BACKGROUND: Free tissue transfer has fundamentally changed head and neck surgery, enabling reliable reconstruction of large defects with better function and aesthetics. This study assesses two decades of trends in free flap reconstruction, and how disease incidence, survival, surgeon caseload, team approach, and technology have impacted practice. METHODS: Retrospective analysis of 1027 head and neck free flaps from 2006 to 2022. Outcomes examined include chronological changes in flap selection, indication, length of stay, incorporation of virtual surgical planning (VSP), annual caseload, survival, and their associations with the single versus multi-team approach. RESULTS: There were 764 soft-tissue and 263 osseous reconstructions utilizing 21 different flaps. Anterolateral thigh and radial forearm accounted for 76.7% of soft tissue flaps, with recent increase in superficial circumflex iliac perforator flaps in young patients. Osseous flap proportion remained stable, but fibula flaps increased five-fold with more VSP, dental implants, oral cancer, and multi-team surgery. Outcomes such as complication rates, length of stay and disease specific/overall survival have improved over time despite increasing complexity (P = 0.001, P = 0.001, P < 0.001, and P < 0.001, respectively). However, there was no significant difference in operative time, complication rate, or disease specific/overall survival between single team or multi-team approaches (P = 0.45, P = 0.054, P = 0.57, and P = 0.60, respectively). CONCLUSION: Single and multi-team approaches may have similar fundamental outcomes, but as caseload, complexity, and life-expectancy increases, both patients and surgeons benefit from a collaborative multi-team approach that focuses on improving long-term functional outcomes.",
+    "abstract_tr": "",
+    "score": 0.77
+  },
+  {
     "date": "2026-09-18",
     "category": "aesthetic",
     "pmid": "35169915",
