@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-27",
+    "category": "aesthetic",
+    "pmid": "37173413",
+    "title": "The Effect of Functional Rhinoplasty on Quality of Life: A Systematic Review and Meta-Analysis.",
+    "authors": "Chen K, Zhou L",
+    "journal": "Aesthetic Plast Surg",
+    "year": 2024,
+    "doi": "10.1007/s00266-023-03390-3",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37173413/",
+    "citation_count": 20,
+    "rcr": 12.983995754357531,
+    "abstract": "BACKGROUND: The purpose of the study was to comprehensively review the effect of functional rhinoplasty on quality of life. METHODS: Eligible studies before December 2022 were identified by searching PubMed, Ovid, and Embase databases. The meta-analysis was performed with Stata. Outcomes included NOSE, SNOT-22 scores, VAS of obstruction, and ROE. RESULTS: Sixteen studies, involving a total of 971 patients, were included. Meta-analysis showed that functional rhinoplasty statistically reduced the NOSE, SNOT-22 scores, and VAS of obstruction and statistically increased the ROE score of patients. CONCLUSION: Functional rhinoplasty could statistically significantly improve quality of life of patients. However, given the number and quality of included research, further thorough studies with a larger sample size of high-quality studies need to be conducted. LEVEL OF EVIDENCE III: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+    "abstract_tr": "",
+    "score": 0.77
+  },
+  {
+    "date": "2026-09-27",
+    "category": "reconstructive",
+    "pmid": "39580338",
+    "title": "Outcomes of free flap reconstruction for mandibular ORN: Systematic review and meta-analysis.",
+    "authors": "Farsi S, Benafield A, Dorman J et al.",
+    "journal": "Am J Otolaryngol",
+    "year": 2025,
+    "doi": "10.1016/j.amjoto.2024.104508",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39580338/",
+    "citation_count": 13,
+    "rcr": 6.097191967126987,
+    "abstract": "OBJECTIVE: This study aims to evaluate the success rates and complications associated with different free flap donor sites used in surgical reconstruction for mandibular osteoradionecrosis, providing insights to aid clinical decision-making. DATA SOURCES: MEDLINE, Embase, Cochrane, and Web of Science. REVIEW METHODS: Comprehensive database searches were conducted up to October 2023. Three independent reviewers screened articles per PRISMA guidelines. This review is registered with PROSPERO (CRD42023456929). Meta-analysis, using inverse variance statistical method and a random effects model, was performed with OpenMeta software (Version 10.12, Brown University, USA). Study quality was assessed via the methodological index for non-randomized studies (MINORS). RESULTS: Nineteen full-text articles met inclusion criteria, encompassing 397 patients and 424 free flap procedures. Patients averaged 54.8 years old; 27.5 % were female. Squamous cell carcinoma was the main radiation indication (83.1 %). Flap types included fibula (63 %), iliac crest (36 %), scapula (3.7 %), and radial forearm (3.5 %). Symptoms of osteoradionecrosis appeared on average four years post-radiation therapy, with a mean dose of 6346 cGy. Pooled postoperative complication rate was 22.5 % (95 % CI 0.165-0.284, I CONCLUSION: The fibula is the preferred flap for mandibular reconstruction due to its low failure rate. Radial forearm flaps show the fewest complications. More robust, multi-institutional prospective studies are needed.",
+    "abstract_tr": "",
+    "score": 0.785
+  },
+  {
     "date": "2026-09-26",
     "category": "aesthetic",
     "pmid": "37489960",
