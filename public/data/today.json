@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "articles": [
     {
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "category": "aesthetic",
-      "pmid": "37173413",
-      "title": "The Effect of Functional Rhinoplasty on Quality of Life: A Systematic Review and Meta-Analysis.",
-      "authors": "Chen K, Zhou L",
-      "journal": "Aesthetic Plast Surg",
-      "year": 2024,
-      "doi": "10.1007/s00266-023-03390-3",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37173413/",
-      "citation_count": 20,
-      "rcr": 12.983995754357531,
-      "abstract": "BACKGROUND: The purpose of the study was to comprehensively review the effect of functional rhinoplasty on quality of life. METHODS: Eligible studies before December 2022 were identified by searching PubMed, Ovid, and Embase databases. The meta-analysis was performed with Stata. Outcomes included NOSE, SNOT-22 scores, VAS of obstruction, and ROE. RESULTS: Sixteen studies, involving a total of 971 patients, were included. Meta-analysis showed that functional rhinoplasty statistically reduced the NOSE, SNOT-22 scores, and VAS of obstruction and statistically increased the ROE score of patients. CONCLUSION: Functional rhinoplasty could statistically significantly improve quality of life of patients. However, given the number and quality of included research, further thorough studies with a larger sample size of high-quality studies need to be conducted. LEVEL OF EVIDENCE III: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+      "pmid": "36396280",
+      "title": "Overview of Dorsal Preservation Rhinoplasty.",
+      "authors": "Patel PN, Most SP",
+      "journal": "Facial Plast Surg Clin North Am",
+      "year": 2023,
+      "doi": "10.1016/j.fsc.2022.08.003",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36396280/",
+      "citation_count": 25,
+      "rcr": 10.744164420307662,
+      "abstract": "Renewed interest in dorsal preservation rhinoplasty (DPR) stems from theoretic esthetic and functional advantages over conventional hump resection. DPR fundamentally consists of en bloc dorsal lowering via a combined septal resection and mobilization of the bony pyramid. Several technical modifications exist, allowing for the expansion of DPR indications. Although studies suggest success with these techniques, comparative data to conventional hump resection are limited. Challenges and stigmata of DPR include a radix step-off, hump recurrence, supratip saddling, and widening of the midvault. The fusion of structural techniques with preservation ideology will facilitate the incorporation of DPR into clinical practice.",
       "abstract_tr": "",
-      "score": 0.77
+      "score": 0.755
     },
     {
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "category": "reconstructive",
-      "pmid": "39580338",
-      "title": "Outcomes of free flap reconstruction for mandibular ORN: Systematic review and meta-analysis.",
-      "authors": "Farsi S, Benafield A, Dorman J et al.",
-      "journal": "Am J Otolaryngol",
-      "year": 2025,
-      "doi": "10.1016/j.amjoto.2024.104508",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39580338/",
-      "citation_count": 13,
-      "rcr": 6.097191967126987,
-      "abstract": "OBJECTIVE: This study aims to evaluate the success rates and complications associated with different free flap donor sites used in surgical reconstruction for mandibular osteoradionecrosis, providing insights to aid clinical decision-making. DATA SOURCES: MEDLINE, Embase, Cochrane, and Web of Science. REVIEW METHODS: Comprehensive database searches were conducted up to October 2023. Three independent reviewers screened articles per PRISMA guidelines. This review is registered with PROSPERO (CRD42023456929). Meta-analysis, using inverse variance statistical method and a random effects model, was performed with OpenMeta software (Version 10.12, Brown University, USA). Study quality was assessed via the methodological index for non-randomized studies (MINORS). RESULTS: Nineteen full-text articles met inclusion criteria, encompassing 397 patients and 424 free flap procedures. Patients averaged 54.8 years old; 27.5 % were female. Squamous cell carcinoma was the main radiation indication (83.1 %). Flap types included fibula (63 %), iliac crest (36 %), scapula (3.7 %), and radial forearm (3.5 %). Symptoms of osteoradionecrosis appeared on average four years post-radiation therapy, with a mean dose of 6346 cGy. Pooled postoperative complication rate was 22.5 % (95 % CI 0.165-0.284, I CONCLUSION: The fibula is the preferred flap for mandibular reconstruction due to its low failure rate. Radial forearm flaps show the fewest complications. More robust, multi-institutional prospective studies are needed.",
+      "pmid": "37040875",
+      "title": "Technical Variables in Lower Extremity Free Flap Reconstruction.",
+      "authors": "Christensen JM, Ahn L, Meulendijks MZ et al.",
+      "journal": "J Reconstr Microsurg",
+      "year": 2024,
+      "doi": "10.1055/a-2071-3250",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37040875/",
+      "citation_count": 10,
+      "rcr": 5.679838471770488,
+      "abstract": "BACKGROUND: Lower extremity free flap failure rates are higher than in other areas of the body. While prior studies assessed the effect of intraoperative technical variables, these generally investigated individual variables and did not examine relationships between the many individual technical decisions made during free tissue reconstruction. Our purpose was to investigate the effect of variation in intraoperative microsurgical techniques on flap outcomes in a diverse cohort of patients requiring lower extremity free flap coverage. METHODS: Consecutive patients undergoing free flap reconstruction of the lower extremity at two level 1 trauma centers from January 2002 to January 2020 were identified using Current Procedural Terminology codes, followed by a review of medical records. Information regarding demographics and comorbidities, indications, intraoperative technical details, and complications was collected. Outcomes of interest included an unplanned return to the operating room, arterial thrombosis, venous thrombosis, partial flap failure, and total flap failure. Bivariate analysis was performed. RESULTS: In total, 410 patients underwent 420 free tissue transfers. The median follow-up time was 17 months (interquartile ranges: 8.0-37). Total flap failure occurred in 4.9% ( CONCLUSION: Many interoperative options and techniques are available when performing microvascular lower extremity reconstruction that leads to equally high success rates. However, the use of arterial inflow outside of the posterior tibial and anterior tibial arteries leads to a higher overall complication rate and partial flap failure rate. Intraoperative revision of the arterial anastomosis portends poorly for ultimate flap survival.",
       "abstract_tr": "",
-      "score": 0.785
+      "score": 0.8589
     }
   ]
 }
