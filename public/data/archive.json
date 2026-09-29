@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-29",
+    "category": "aesthetic",
+    "pmid": "36316459",
+    "title": "Matched Cohort Comparison of Dorsal Preservation and Conventional Hump Resection Rhinoplasty.",
+    "authors": "Patel PN, Kandathil CK, Abdelhamid AS et al.",
+    "journal": "Aesthetic Plast Surg",
+    "year": 2023,
+    "doi": "10.1007/s00266-022-03156-3",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36316459/",
+    "citation_count": 19,
+    "rcr": 8.285356793411676,
+    "abstract": "BACKGROUND: Structural preservation techniques (SPR) minimize disruption of the dorsal aesthetic lines, with potential aesthetic and functional benefits over conventional hump resection techniques (CHR). The goal of this study is to compare patient reported outcomes between these techniques. METHODS: This study was a retrospective matched cohort analysis of patients undergoing rhinoplasty with dorsal hump reduction using patient-reported outcomes measures: Standardized Cosmesis and Health Nasal Outcomes Survey (obstructive: SCHNOS-O, cosmetic: SCHNOS-C) and visual analog scale (functional: VAS-F, cosmetic: VAS-C). A cohort of patients undergoing SPR were matched to a cohort undergoing CHR based on age, gender, and preoperative SCHNOS scores. Intraoperative techniques and patient-reported outcomes were compared between groups. RESULTS: There were no significant differences in the dorsal height between groups. While radix grafting was more common in SPR, dorsal onlay grafting and midvault reconstructive techniques (e.g. autospreader flaps) were more common in CHR. Within both groups, post-operative SCHNOS and VAS improved significantly at short- and long-term follow-up. There were no differences between SCHNOS or VAS scores preoperatively. Post-operative SCHNOS-O and SCHNOS-C scores were similar between groups at both short-term and long-term follow-up. Post-operative VAS-F scores were not different; however, VAS-C scores at short-term follow-up were statistically greater in the SPR group compared to the CHR group (8.92 vs 8.20, p = 0.03). At long-term follow-up, the difference was not significant. CONCLUSION: While there are theoretical functional and aesthetic benefits of SPR techniques, the patient reported benefits may be minimal when compared to CHR techniques with appropriate midvault reconstruction. LEVEL OF EVIDENCE III: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+    "abstract_tr": "",
+    "score": 0.7029
+  },
+  {
+    "date": "2026-09-29",
+    "category": "reconstructive",
+    "pmid": "36067478",
+    "title": "Risk Factors for Partial Flap Loss in a Free Flap: A 12-Year Retrospective Study of Anterolateral Thigh Free Flaps in 303 Lower Extremity Cases.",
+    "authors": "Min K, Hong JP, Suh HP",
+    "journal": "Plast Reconstr Surg",
+    "year": 2022,
+    "doi": "10.1097/PRS.0000000000009646",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36067478/",
+    "citation_count": 29,
+    "rcr": 4.83255826426614,
+    "abstract": "BACKGROUND: Despite remarkable improvements in free flap procedures, partial flap losses in perforator flaps still occur. This study aimed to analyze partial necrosis cases that underwent reconstruction of the lower extremities using anterolateral thigh free flaps and to identify risk factors causing the occurrence of partial necrosis. METHODS: From January of 2005 to February of 2017, 303 anterolateral thigh free flaps were analyzed retrospectively. After collecting patient data, receiver operating characteristic curve analysis was conducted to find the critical distance between the perforator and the flap margin that distinguishes partial necrosis. Also, the rate of partial losses was calculated for each section after dividing the distance from the perforator to the flap margin into 1-cm sections. Lastly, logistic regression analyses were performed to identify the risk factors. RESULTS: Forty-three cases had partial flap loss (14.19 percent). Flaps with supradeep fat layer elevation showed the highest rate of partial necrosis (25.53 percent), with statistical significance ( p = 0.0001). In receiver operating characteristic curve analysis, the cutoff distance was 10.25 cm. In addition, flap tissues 8 cm away from the perforator have a 10.3 percent chance of necrosis, whereas those 12 cm away from the perforator have a 22.9 percent chance. Lastly, supradeep fat layer elevation (OR, 3.952) and large flap size (OR, 1.041) were risk factors for partial flap necrosis on multivariate analysis. CONCLUSIONS: The distance from the perforator to the flap margin, the flap elevation layer, and the flap size affected the occurrence of partial necrosis. Taking these into consideration, anterolateral thigh free flaps of appropriate size and thickness should be harvested. CLINICAL QUESTION/LEVEL OF EVIDENCE: Risk, III.",
+    "abstract_tr": "",
+    "score": 0.8134
+  },
+  {
     "date": "2026-09-28",
     "category": "aesthetic",
     "pmid": "36396280",
