@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-05",
+    "category": "aesthetic",
+    "pmid": "39066686",
+    "title": "Translation, Cultural Adaptation, and Validation of the Standardized Cosmesis and Health Nasal Outcomes Survey (SCHNOS) in Chinese.",
+    "authors": "Chen M, Cai S, Cai Z et al.",
+    "journal": "Aesthet Surg J",
+    "year": 2024,
+    "doi": "10.1093/asj/sjae159",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39066686/",
+    "citation_count": 6,
+    "rcr": 3.777884593076028,
+    "abstract": "BACKGROUND: Rhinoplasty requires balanced consideration of function and aesthetics, necessitating a precise evaluation tool. A reliable and validated patient-reported measure, the Standardized Cosmesis and Health Nasal Outcomes Survey (SCHNOS) evaluates both aspects but was previously unavailable in Chinese. This study fills that gap by providing a Chinese version. OBJECTIVES: In this study we aimed to translate, culturally adapt, and validate a Chinese iteration of the SCHNOS (C-SCHNOS) for appraising the functional and aesthetic outcomes among Chinese patients following rhinoplasty, furnishing a reliable and efficacious assessment tool for Chinese users. METHODS: Following international guidelines, the SCHNOS questionnaire was translated and culturally adapted for Chinese use. Its psychometric properties, including internal consistency, correlations, and reproducibility, were evaluated among Chinese natives in Sichuan Province from March 2022 to January 2023. RESULTS: The C-SCHNOS was administered to 110 Chinese natives, showing high internal consistency, with Cronbach's α of 0.81 for SCHNOS-O (obstructive domain) and 0.92 for SCHNOS-C (cosmetic domain). Spearman correlations for SCHNOS-O (0.36-0.65) and SCHNOS-C (0.51-0.74) were positive and significant. Test-retest reliability analyses revealed strong Spearman correlations for SCHNOS-O (r = 0.87) and SCHNOS-C (r = 0.90). Responsiveness was statistically significant for SCHNOS-O (P < .001) but not for SCHNOS-C (P = .222). Exploratory factor analysis and parallel tests indicated that C-SCHNOS maintained a single-factor structure, with eigenvalues exceeding the critical values (2.55 for SCHNOS-O and 4.35 for SCHNOS-C), reflecting excellent unidimensionality. CONCLUSIONS: The SCHNOS questionnaire was successfully translated into Chinese and culturally adapted. The C-SCHNOS is a dependable and valid instrument for utilization in the Chinese population in patients undergoing functional or cosmetic rhinoplasty.",
+    "abstract_tr": "",
+    "score": 0.645
+  },
+  {
+    "date": "2026-10-05",
+    "category": "reconstructive",
+    "pmid": "35786526",
+    "title": "Comparison between the radial forearm and superficial circumflex iliac artery perforator free flaps for oral soft tissue reconstruction.",
+    "authors": "Hurrell MJL, Clark JR, Ch'ng S et al.",
+    "journal": "Int J Oral Maxillofac Surg",
+    "year": 2023,
+    "doi": "10.1016/j.ijom.2022.06.008",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35786526/",
+    "citation_count": 9,
+    "rcr": 3.00818518019846,
+    "abstract": "The radial forearm free flap (RFFF) is widely used for oral reconstruction. The superficial circumflex iliac artery perforator (SCIP) flap is an increasingly utilized alternative. The cases of 165 patients who received either an RFFF or SCIP flap for oral reconstruction at Chris O'Brien Lifehouse, Sydney were reviewed. The aim was to report on patient, pathology, treatment, and outcome variables and to compare these between the two flap groups. A RFFF was used in 126 patients and a SCIP flap in 39 patients. SCIP flap patients were younger (P < 0.001) and had shorter operative times (P < 0.001), shorter anaesthetic times (P < 0.001), and more frequent recipient site dehiscence (P = 0.005) when compared to RFFF patients. The SCIP flap was significantly less frequently used for composite resections including bone when compared to the RFFF (P < 0.001). The primary site distribution was more even for RFFF patients (P < 0.001). There were no SCIP flap failures; three RFFF failures occurred. SCIP flaps performed comparably in terms of operative and clinical outcomes. Most SCIP flaps were utilized in younger patients with partial glossectomy defects.",
+    "abstract_tr": "",
+    "score": 0.6925
+  },
+  {
     "date": "2026-10-04",
     "category": "aesthetic",
     "pmid": "38984658",
