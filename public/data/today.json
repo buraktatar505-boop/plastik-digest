@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "articles": [
     {
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "category": "aesthetic",
-      "pmid": "38698637",
-      "title": "Precision Rhinoplasty Cylindric Burrs-Sidewall Aesthetics.",
-      "authors": "Ilhan E, Arancibia-Tagle D, Özay H et al.",
-      "journal": "Facial Plast Surg",
-      "year": 2025,
-      "doi": "10.1055/a-2318-1121",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38698637/",
+      "pmid": "37846655",
+      "title": "Ultrasound assessment of the nose vasculature: A review of the common method of non-surgical filler-based rhinoplasty.",
+      "authors": "Shekarriz P, Hosseini F, Shojaee P",
+      "journal": "J Cosmet Dermatol",
+      "year": 2024,
+      "doi": "10.1111/jocd.16037",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37846655/",
       "citation_count": 5,
-      "rcr": 2.3499956157882456,
-      "abstract": "The development of power instruments has led to great advances in rhinoplasty. It has helped to reduce operating time, minimize damage to the surrounding soft tissues, and allow precision bony modification compared with the use of manual rasps. Burrs help ensure precise results by (i) creating a smooth transition between the lateral nasal sidewall and the face, (ii) treating bony asymmetries, and (iii) producing homogeneous upper and middle thirds that softy translate into the upper lateral cartilages. The aim of this paper is to show applications of cylindrical burrs in rhinoplasty surgery to treat the dorsal upper and middle thirds as well as lateral sidewalls of the nose, regardless of whether the dorsal preservation or structure technique is used. This approach offers a safe, fast, and precise technique that can be used in conjunction with piezo osteotomy to obtain the optimal outcomes.",
+      "rcr": 3.3359684533406617,
+      "abstract": "BACKGROUND: With the increasing use of dermal injectable fillers in aesthetic medicine, the popularity of non-surgical filler-based rhinoplasty (NSR) is also growing. While performing this procedure might result in certain vascular complications, injecting deep into the midline of the nose is commonly considered the safest method for blind primary NSR. AIMS: In this study, we challenged the common NSR method with a Doppler ultrasound study of the nose. PATIENTS/METHODS: The vascular pattern of the common zones of the NSR procedure (radix and nasal tip) of 21 Iranian women were investigated by using a 14 MHz Doppler handheld ultrasound device (Silarious L14PS). Participants had never undergone any procedure on their nose. We focused on the depth of midline vessels in the radix and nasal tip. The radix was studied sagittally and horizontally, and the nasal tip was examined axially by ultrasound. RESULTS: In the radix of eight cases (38%), at least one vessel was observed at midline, and all were superficial. In the nose tip of 18 cases (86%), at least one vessel was observed at midline, and 9 out of these 18 vessels (50%) were deep. As a result, conducting NSR by the common method in our study population was relatively safe in the radix, but there was an increased likelihood of vascular events in the tip. CONCLUSION: Our research results show that while the common method of the NSR may carry a high risk of vascular events, the safety of this procedure could be enhanced by using ultrasound for planning and conducting a tailored treatment.",
       "abstract_tr": "",
-      "score": 0.652
+      "score": 0.645
     },
     {
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "category": "reconstructive",
-      "pmid": "37051889",
-      "title": "Medial Sural Artery Perforator Flap: A Middle Ground Between Anterolateral Thigh and Radial Forearm Flaps.",
-      "authors": "Danielian A, Cheng MY, Han PS et al.",
-      "journal": "Otolaryngol Head Neck Surg",
+      "pmid": "35031123",
+      "title": "Repair of Compound Dorsal Defects of the Digits Using a Free Antegrade Palmaris Longus Tendocutaneous Venous Flap.",
+      "authors": "Xu L, Liu Z, Liu S et al.",
+      "journal": "J Hand Surg Am",
       "year": 2023,
-      "doi": "10.1002/ohn.348",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37051889/",
-      "citation_count": 6,
-      "rcr": 2.295399614395957,
-      "abstract": "OBJECTIVE: The medial sural artery perforator (MSAP) flap has gained popularity in head and neck reconstruction primarily as a less morbid alternative to the radial forearm free flap (RFFF). However, no direct comparison of thickness exists among the MSAP, RFFF, and anterolateral thigh (ALT) flaps, which together represent the commonly utilized nonosseus-free flaps in head and neck reconstruction. Thus, this study aimed to compare these flap sites and identify predictors of thickness that will aid in reconstructive surgical planning. STUDY DESIGN: Cross-sectional study. SETTING: Tertiary referral hospital. METHODS: The thickness of skin and subcutaneous tissue at the RFFF, MSAP, and ALT donor sites were measured in 54 adult patients using Doppler ultrasound. General linear models were generated to identify predictors of flap thickness. RESULTS: The mean thickness of the RFFF, MSAP, and ALT flaps was 3.8 ± 2.2 mm, 7.4 ± 3.8 mm, and 9.6 ± 4.7 mm. Body mass index (BMI) was the only statistically significant contributing factor (p < .0001, coefficient: 0.15) for the RFFF. MSAP was affected by age (p = .006, coefficient = 0.06), female gender (p < .0001, coefficient = 3.2), and BMI (p < .001, coefficient = 0.25), while the ALT was affected by female gender (p = .0005, coefficient = 3.3) and BMI (p < .0001, coefficient = 0.35). Thus, the ratio of increase for flap thickness with respect to BMI is 3:5:7 for the RFFF, MSAP, and ALT flaps, respectively. CONCLUSION: The MSAP is about twice the thickness of the RFFF and 2 mm thinner than the ALT; however, 22% of patients had thicker MSAP than ALT flaps. As the strongest predictors of flap thickness, female gender, and BMI may be taken into consideration during surgical planning for reconstruction.",
+      "doi": "10.1016/j.jhsa.2021.11.023",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35031123/",
+      "citation_count": 3,
+      "rcr": 1.5905561408773847,
+      "abstract": "PURPOSE: To investigate the clinical effect of repairing small dorsal digit compound tissue defects using a free palmaris longus tendocutaneous flap nourished by venous blood. METHODS: In a retrospective analysis of patients treated between March 2010 and October 2017, 18 patients were identified as having small compound tissue defects, which were repaired using a free palmaris longus tendocutaneous flap nourished by venous blood. The average age of the patients, including 15 male and 3 female patients, was 34 years (range, 22-55 years). The mean wound size was 6 cm RESULTS: All 18 flaps survived. A vascular crisis due to a venospasm occurred within 48 hours in 3 flaps, but ultimately, all the flaps survived. The patients were followed-up for a mean period of 10 months (range, 3-15 months). All the patients returned to their previous work after 10-12 weeks. No pain or scar contracture was reported in either the recipient or donor site. CONCLUSIONS: The free antegrade palmaris longus tendocutaneous venous flap enabled the repair of compound tissue defects of the dorsal digit, resulting in acceptable aesthetics, repaired tendon defects, and wound coverage. This surgical method is an option for the reconstruction of small compound defects of digits with extensor defects. TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic IV.",
       "abstract_tr": "",
-      "score": 0.63
+      "score": 0.6406
     }
   ]
 }
