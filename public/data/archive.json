@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-11",
+    "category": "aesthetic",
+    "pmid": "34792093",
+    "title": "Seromas: How to Prevent and Treat Them-a 20-Year Experience.",
+    "authors": "Turer DM, Aly A",
+    "journal": "Aesthet Surg J",
+    "year": 2022,
+    "doi": "10.1093/asj/sjab394",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34792093/",
+    "citation_count": 15,
+    "rcr": 2.8343666840571333,
+    "abstract": "Seromas are a common complication in plastic surgery. In this article, the authors describe their approach to the prevention and treatment of seromas and include a discussion of the evolution of their techniques. They provide specific technical details for many body contouring operations, including abdominoplasty, belt lipectomy, brachioplasty, and thighplasty. Many of the authors' techniques question the traditional dictums of plastic surgery, and they hope to encourage others to consider novel techniques for the treatment and prevention of seromas.",
+    "abstract_tr": "",
+    "score": 0.6721
+  },
+  {
+    "date": "2026-10-11",
+    "category": "reconstructive",
+    "pmid": "37621006",
+    "title": "Free Flap Reconstruction in the Era of Commercial Price Transparency: What Are We Paying For?",
+    "authors": "Rochlin DH, Rizk NM, Mehrara BJ et al.",
+    "journal": "Plast Reconstr Surg",
+    "year": 2024,
+    "doi": "10.1097/PRS.0000000000011021",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37621006/",
+    "citation_count": 5,
+    "rcr": 0.9552221545905943,
+    "abstract": "BACKGROUND: Commercial rates for free flap reconstruction were not known publicly before the 2021 Hospital Price Transparency Final Rule. The purpose of this study was to examine commercial facility payments to characterize nationwide variation for microsurgical operations and identify opportunities to improve market effectiveness. METHODS: A cross-sectional study was performed using 2022 commercial insurance pricing merged with hospital performance data. Facility payment rates were extracted for nine CPT codes for free flap operations. Price variation was quantified by means of across-hospital ratios and within-hospital ratios. Mixed effects linear models evaluated commercial rates relative to value, outcomes, and equity performance metrics, in addition to facility-level factors that included health care market concentration. RESULTS: A total of 20,528 commercial rates across 675 hospitals were compiled. Across-hospital ratios ranged from 5.85 to 7.95, whereas within-hospital ratios ranged from 1.00 to 1.71. Compared with the lowest scoring hospitals (grade D), hospitals with an outcome grade of A and equity grades of B or C were associated with higher commercial rates ( P < 0.04); there were no significant differences in rate based on value. Higher commercial rates were also associated with nonprofit status and more concentrated markets ( P < 0.006). Lower commercial rates were correlated with safety-net and teaching hospitals ( P < 0.001). CONCLUSIONS: Commercial rates for free flaps varied substantially both across and within hospitals. Associations of higher commercial rates with less competitive markets, and the lack of consistent association with value and equity, identify market failures. Additional work is needed to improve market efficiency for free flap operations.",
+    "abstract_tr": "",
+    "score": 0.6203
+  },
+  {
     "date": "2026-10-10",
     "category": "aesthetic",
     "pmid": "40897957",

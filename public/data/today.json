@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "articles": [
     {
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "category": "aesthetic",
-      "pmid": "40897957",
-      "title": "Abdominoplasty After Weight Loss in Post-bariatric Surgery: An Optimized Surgery Procedure and Clinical Protocol-A Large Single-center Study.",
-      "authors": "Manfellotto V, Cuomo R, Vastarella MG et al.",
-      "journal": "Aesthetic Plast Surg",
-      "year": 2025,
-      "doi": "10.1007/s00266-025-05176-1",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40897957/",
-      "citation_count": 5,
-      "rcr": 2.221959577524364,
-      "abstract": "INTRODUCTION: Weight loss after bariatric surgery causes very important modifications to the patient's silhouette. Abdominal fat and skin excess reduction are associated with several complications. The most frequent are seroma and hematoma whereas major complications, such as pulmonary embolism, are less frequent. This study aimed to describe our technical procedure and clinical procedure for abdominoplasty in patients with massive weight loss after bariatric surgery. MATERIAL AND METHODS: This retrospective study included 221 post-bariatric patients who underwent abdominoplasty with Scarpa fascia preservation at Villa Dei Fiori Hospital between May 2022 and May 2024. Candidates were selected based on National Institute of Health criteria, with strict preoperative assessments and exclusion of high-risk patients. Operative data, including BMI, excess weight loss (EWL%), complications, and outcomes, were collected. The surgical technique emphasized Scarpa's fascia preservation and a comprehensive postoperative protocol, including tranexamic acid administration and early mobilization. RESULTS: The mean age of participants was 47.5 years, with an average preoperative BMI of 45 kg/m DISCUSSION AND CONCLUSION: This study underscores the importance of Scarpa fascia preservation in abdominoplasty for post-bariatric patients, reducing complications such as seroma and enhancing aesthetic and functional outcomes. Tranexamic acid further minimized complications without thromboembolic risk. Despite its retrospective design, the findings align with existing literature and support the adoption of this technique to improve surgical outcomes and patient quality of life. LEVEL OF EVIDENCE IV: This journal requires that authors assign a level of evidence to each article. For a full description of these evidence-based medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+      "pmid": "34792093",
+      "title": "Seromas: How to Prevent and Treat Them-a 20-Year Experience.",
+      "authors": "Turer DM, Aly A",
+      "journal": "Aesthet Surg J",
+      "year": 2022,
+      "doi": "10.1093/asj/sjab394",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34792093/",
+      "citation_count": 15,
+      "rcr": 2.8343666840571333,
+      "abstract": "Seromas are a common complication in plastic surgery. In this article, the authors describe their approach to the prevention and treatment of seromas and include a discussion of the evolution of their techniques. They provide specific technical details for many body contouring operations, including abdominoplasty, belt lipectomy, brachioplasty, and thighplasty. Many of the authors' techniques question the traditional dictums of plastic surgery, and they hope to encourage others to consider novel techniques for the treatment and prevention of seromas.",
       "abstract_tr": "",
-      "score": 0.6468
+      "score": 0.6721
     },
     {
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "category": "reconstructive",
-      "pmid": "38776626",
-      "title": "Resurfacing of multiple adjacent defects with free multipaddle SCIAP flaps.",
-      "authors": "Chu T, Zhang W, Chen T et al.",
-      "journal": "J Plast Reconstr Aesthet Surg",
+      "pmid": "37621006",
+      "title": "Free Flap Reconstruction in the Era of Commercial Price Transparency: What Are We Paying For?",
+      "authors": "Rochlin DH, Rizk NM, Mehrara BJ et al.",
+      "journal": "Plast Reconstr Surg",
       "year": 2024,
-      "doi": "10.1016/j.bjps.2024.02.077",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38776626/",
-      "citation_count": 2,
-      "rcr": 1.4237973466397642,
-      "abstract": "BACKGROUND: The efficient resurfacing of multiple adjacent defects (MADs) requires precise reconstructive strategy. Various approaches (e.g., several flap transferring or prelamination of the recipient site) have been reported, but recipient-site impairments, pain, long hospitalization, and low cost-benefit results fatefully considered them as compromise approaches. This study aims to evaluate the feasibility of MADs reconstruction with free multipaddle superficial circumflex iliac artery perforator (SCIAP) flaps. METHODS: From Dec 2015 to Dec 2020, we enrolled patients with upper and lower extremity defects treated with various multipaddle SCIAP flaps (2-paddle, 3-paddle, and 4-paddle). Patient demographics and outcomes of each group were collected. RESULTS: Thirty-two, 21, and 6 patients underwent 2-paddle, 3-paddle, and 4-paddle SCIAP flaps transfers, respectively. All multipaddle SCIAP flaps survived without vascular problems, and the donor sites were closed directly. Except for 3 cases of 2-paddle SCIAP flaps drained by superficial circumflex iliac vein venous return, most cases (n = 56) were drained by venae comitans. Minor complications, including partial flap necrosis (4 cases) and lateral femoral cutaneous nerve palsies (11 cases), were treated conservatively. All patients were satisfied with the reconstructive outcome. CONCLUSION: Multiple adjacent defects reconstruction is still a Gordian knot and lacks a golden standard. The free multipaddle SCIAP flap was demonstrated as a promising alternative, not only enriching its versatility but also initially highlighting the \"replace need with need\" reconstructive demand.",
+      "doi": "10.1097/PRS.0000000000011021",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37621006/",
+      "citation_count": 5,
+      "rcr": 0.9552221545905943,
+      "abstract": "BACKGROUND: Commercial rates for free flap reconstruction were not known publicly before the 2021 Hospital Price Transparency Final Rule. The purpose of this study was to examine commercial facility payments to characterize nationwide variation for microsurgical operations and identify opportunities to improve market effectiveness. METHODS: A cross-sectional study was performed using 2022 commercial insurance pricing merged with hospital performance data. Facility payment rates were extracted for nine CPT codes for free flap operations. Price variation was quantified by means of across-hospital ratios and within-hospital ratios. Mixed effects linear models evaluated commercial rates relative to value, outcomes, and equity performance metrics, in addition to facility-level factors that included health care market concentration. RESULTS: A total of 20,528 commercial rates across 675 hospitals were compiled. Across-hospital ratios ranged from 5.85 to 7.95, whereas within-hospital ratios ranged from 1.00 to 1.71. Compared with the lowest scoring hospitals (grade D), hospitals with an outcome grade of A and equity grades of B or C were associated with higher commercial rates ( P < 0.04); there were no significant differences in rate based on value. Higher commercial rates were also associated with nonprofit status and more concentrated markets ( P < 0.006). Lower commercial rates were correlated with safety-net and teaching hospitals ( P < 0.001). CONCLUSIONS: Commercial rates for free flaps varied substantially both across and within hospitals. Associations of higher commercial rates with less competitive markets, and the lack of consistent association with value and equity, identify market failures. Additional work is needed to improve market efficiency for free flap operations.",
       "abstract_tr": "",
-      "score": 0.6217
+      "score": 0.6203
     }
   ]
 }
