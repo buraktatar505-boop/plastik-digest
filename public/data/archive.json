@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-15",
+    "category": "aesthetic",
+    "pmid": "33987697",
+    "title": "Piezo-Assisted Dorsal Preservation in Rhinoplasty: When and Why.",
+    "authors": "Taglialatela Scafati S, Regalado-Briz A",
+    "journal": "Aesthetic Plast Surg",
+    "year": 2022,
+    "doi": "10.1007/s00266-021-02261-z",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33987697/",
+    "citation_count": 11,
+    "rcr": 2.2678986912299224,
+    "abstract": "BACKGROUND: Preservation rhinoplasty philosophy with its \"down techniques\" is currently undergoing a renaissance. Its goal is to spare and preserve noble nasal structures such as ligaments, nerves and vessels, reducing to a minimum local tissue manipulation and avoiding the drawbacks and pitfalls associated with classic dorsal reconstruction techniques often resulting in irregularities which often lead to an increased rhinoplasty revision rate. METHODS: In this article, we reviewed 107 consecutive cases in which a variety of preservation techniques were used. Indications, surgical techniques and complications are also described. RESULTS: All reported procedures showed low complication rates with good cosmetic and functional outcomes. CONCLUSIONS: Tailoring the surgical technique is essential in rhinoplasty. Authors have developed and present an anatomy-based diagram to help surgeons in choosing the right approach for dorsal surgery. LEVEL OF EVIDENCE IV: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+    "abstract_tr": "",
+    "score": 0.6241
+  },
+  {
+    "date": "2026-10-15",
+    "category": "reconstructive",
+    "pmid": "37302243",
+    "title": "Comparison of outcomes following pedicled and free flap transfers for the defect after shoulder sarcoma resection.",
+    "authors": "Karakawa R, Yoshimatsu H, Fuse Y et al.",
+    "journal": "J Plast Reconstr Aesthet Surg",
+    "year": 2023,
+    "doi": "10.1016/j.bjps.2023.04.049",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37302243/",
+    "citation_count": 4,
+    "rcr": 1.7257198818946722,
+    "abstract": "BACKGROUND: Reconstruction after wide resection of a sarcoma arising in the shoulder girdle is challenging, and little evidence is available to compare short-term outcomes between pedicled-flap and free-flap reconstruction. PATIENTS AND METHODS: Thirty-eight patients undergoing immediate reconstruction surgery with only a pedicled-flap (n = 18) and with a free-flap (n = 20) after sarcoma resection on the shoulder girdle between July 2005 and March 2022 were identified. One-to-one propensity score matching was performed to compare the postoperative complications. RESULTS: Transferred flaps survived completely in 20 cases in the free-flap group. In the all-patient analysis of binary outcomes, the occurrences of total complications, takebacks, total flap complications, and flap dehiscence were higher in the pedicled-flap group than in the free-flap group. The propensity score-matched analysis showed the occurrence of total complications was significantly higher in the pedicled-flap group than the free-flap group (53.8% vs. 7.7%, p = 0.03). In the propensity score-matched analysis of continuous outcomes, the pedicled-flap group demonstrated a shorter operation time than the free-flap group (279 vs. 381 min, p = 0.05). CONCLUSIONS: This clinical study demonstrated the feasibility and reliability of a free-flap transfer for the defect after wide resection of a sarcoma arising in the shoulder girdle.",
+    "abstract_tr": "",
+    "score": 0.6505
+  },
+  {
     "date": "2026-10-14",
     "category": "aesthetic",
     "pmid": "38858244",
