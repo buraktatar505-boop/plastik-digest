@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "articles": [
     {
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "category": "aesthetic",
-      "pmid": "33987697",
-      "title": "Piezo-Assisted Dorsal Preservation in Rhinoplasty: When and Why.",
-      "authors": "Taglialatela Scafati S, Regalado-Briz A",
-      "journal": "Aesthetic Plast Surg",
+      "pmid": "36112807",
+      "title": "Decision-Making Algorithm for Advanced Excisional Body Contouring: Dynamic Definition Solutions for Skin Laxity.",
+      "authors": "Hoyos AE, Perez ME, Mogollon IR et al.",
+      "journal": "Plast Reconstr Surg",
       "year": 2022,
-      "doi": "10.1007/s00266-021-02261-z",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33987697/",
-      "citation_count": 11,
-      "rcr": 2.2678986912299224,
-      "abstract": "BACKGROUND: Preservation rhinoplasty philosophy with its \"down techniques\" is currently undergoing a renaissance. Its goal is to spare and preserve noble nasal structures such as ligaments, nerves and vessels, reducing to a minimum local tissue manipulation and avoiding the drawbacks and pitfalls associated with classic dorsal reconstruction techniques often resulting in irregularities which often lead to an increased rhinoplasty revision rate. METHODS: In this article, we reviewed 107 consecutive cases in which a variety of preservation techniques were used. Indications, surgical techniques and complications are also described. RESULTS: All reported procedures showed low complication rates with good cosmetic and functional outcomes. CONCLUSIONS: Tailoring the surgical technique is essential in rhinoplasty. Authors have developed and present an anatomy-based diagram to help surgeons in choosing the right approach for dorsal surgery. LEVEL OF EVIDENCE IV: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+      "doi": "10.1097/PRS.0000000000009740",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36112807/",
+      "citation_count": 7,
+      "rcr": 1.4888068243973265,
+      "abstract": "BACKGROUND: Excisional body contour surgery is the cornerstone treatment for skin laxity. Decision-making can be challenging when selecting the procedure. Dynamic definition liposculpture allows the surgeon to carve the underlying anatomy and provide more natural results, in which umbilical shape and position play a crucial role. The authors describe their experience using a decision-making algorithm as a tool to ease surgical planning for advanced excisional body contouring. METHODS: Following the algorithm designed by the senior author regarding excisional body contouring procedures, the authors searched their database for patients who were classified according to skin laxity and navel location to undergo one of the following procedures: mixed technologies plus umbilical mobilization, mixed technologies plus sliding mini-abdominoplasty, mini-tummy tuck with muscular plication, full abdominoplasty, reverse bridge abdominoplasty, or reverse full abdominoplasty. RESULTS: A total of 563 women were consecutively operated on from February of 2014 to January of 2020. The six-procedure model algorithm helped the authors achieve very good results with low complication rates in patients with some grade of abdominal skin laxity. Most complications were reported as minor (9.6 percent). Major complications (3.9 percent) included three localized infections, four abnormal skin retractions, two cases of skin flap necrosis, and 13 cases of postoperative anemia. CONCLUSIONS: This algorithm helped the authors choose the best excisional technique based on patients' anatomical features by following skin geometry to enhance aesthetic outcomes. Further studies are needed to support the algorithm validation and aesthetic outcomes. CLINICAL QUESTION/LEVEL OF EVIDENCE: Therapeutic, IV.",
       "abstract_tr": "",
-      "score": 0.6241
+      "score": 0.62
     },
     {
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "category": "reconstructive",
-      "pmid": "37302243",
-      "title": "Comparison of outcomes following pedicled and free flap transfers for the defect after shoulder sarcoma resection.",
-      "authors": "Karakawa R, Yoshimatsu H, Fuse Y et al.",
-      "journal": "J Plast Reconstr Aesthet Surg",
+      "pmid": "36701238",
+      "title": "Evaluation of free DIEP flap complications in the setting of previous gynecological operations.",
+      "authors": "Chang EI",
+      "journal": "Microsurgery",
       "year": 2023,
-      "doi": "10.1016/j.bjps.2023.04.049",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37302243/",
-      "citation_count": 4,
-      "rcr": 1.7257198818946722,
-      "abstract": "BACKGROUND: Reconstruction after wide resection of a sarcoma arising in the shoulder girdle is challenging, and little evidence is available to compare short-term outcomes between pedicled-flap and free-flap reconstruction. PATIENTS AND METHODS: Thirty-eight patients undergoing immediate reconstruction surgery with only a pedicled-flap (n = 18) and with a free-flap (n = 20) after sarcoma resection on the shoulder girdle between July 2005 and March 2022 were identified. One-to-one propensity score matching was performed to compare the postoperative complications. RESULTS: Transferred flaps survived completely in 20 cases in the free-flap group. In the all-patient analysis of binary outcomes, the occurrences of total complications, takebacks, total flap complications, and flap dehiscence were higher in the pedicled-flap group than in the free-flap group. The propensity score-matched analysis showed the occurrence of total complications was significantly higher in the pedicled-flap group than the free-flap group (53.8% vs. 7.7%, p = 0.03). In the propensity score-matched analysis of continuous outcomes, the pedicled-flap group demonstrated a shorter operation time than the free-flap group (279 vs. 381 min, p = 0.05). CONCLUSIONS: This clinical study demonstrated the feasibility and reliability of a free-flap transfer for the defect after wide resection of a sarcoma arising in the shoulder girdle.",
+      "doi": "10.1002/micr.31011",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36701238/",
+      "citation_count": 7,
+      "rcr": 1.2700412708225317,
+      "abstract": "BACKGROUND: Autologous tissue breast reconstruction with free deep inferior epigastric perforator (DIEP) flaps is reliable with reproducible results and very few contraindications. However, previous surgery may compromise the abdominal donor site due to injury to the vascular pedicle. The purpose of the current study is to evaluate the effects of prior abdominal surgery on need for changes to the operative plan, intraoperative complications, and postoperative flap compromise. PATIENTS AND METHODS: A retrospective review of all patients undergoing breast reconstruction with free tissue transfer from the abdomen was performed. RESULTS: A total of 733 free abdominal flaps were performed in 478 patients during the study period. Two hundred sixty-two (54.8%) patients had prior abdominal surgery with 24.8% laparoscopic/robotic versus 56.9% open versus 18.3% both, 21.4% general surgery versus 60.7% gynecological versus 17.9% both, and 97.7% elective versus 1.1% emergent versus 1.1% both. There were 15 total flap losses (2.0%) and 2 partial flap losses (0.3%). Intraoperative complications and changes in the operative plan occurred in 13 flaps (1.8%) with 84.6% having prior gynecological surgery (p = .0001). CONCLUSIONS: Free DIEP flap breast reconstruction is becoming more commonplace with a low risk of complications. Although DIEP flaps are still possible in the setting of prior abdominal surgery, there is a higher risk of damage to the deep inferior epigastric pedicle in patients who have had emergency Cesarean sections or hysterectomy. Conducting a focused history may prepare the reconstructive microsurgeon to address and to avoid potential intraoperative complications.",
       "abstract_tr": "",
-      "score": 0.6505
+      "score": 0.6185
     }
   ]
 }
