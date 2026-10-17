@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-17",
+    "category": "aesthetic",
+    "pmid": "39187271",
+    "title": "Outcomes Following Rhinoplasty Using the Combined Septal Extension-Columellar Strut Graft.",
+    "authors": "Rosi-Schumacher M, Sherris DA",
+    "journal": "Facial Plast Surg Aesthet Med",
+    "year": 2024,
+    "doi": "10.1089/fpsam.2024.0132",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39187271/",
+    "citation_count": 3,
+    "rcr": 2.475846038804394,
+    "abstract": "",
+    "abstract_tr": "",
+    "score": 0.6137
+  },
+  {
+    "date": "2026-10-17",
+    "category": "reconstructive",
+    "pmid": "36973694",
+    "title": "Evaluation of the predictive value of the body-mass-index choosing perforator flaps from different donor sites.",
+    "authors": "Mett TR, Boetger-Bolten S, Bucher F et al.",
+    "journal": "BMC Surg",
+    "year": 2023,
+    "doi": "10.1186/s12893-023-01962-3",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36973694/",
+    "citation_count": 6,
+    "rcr": 2.39614092418978,
+    "abstract": "BACKGROUND: Free flap design must fulfill different criteria to ensure functional and aesthetic reconstruction of different types of defects in different body areas. A four-dimensional planning concept was used including flap length, width, thickness and tissue composition. This study evaluates if body-mass-index (BMI) has a predictive value for flap design. METHODS: A prospective study including hospitalized patients in the Department of Plastic, Aesthetic, Hand and Reconstructive Surgery was conducted. Not taking into account the reason for admission, the patients were examined based on age, weight, height, BMI and sex. The areas of a potential harvest of free fasciocutaneous and perforator flaps were measured using ultrasound examination to determine the thickness of the subcutaneous layers and prove blood perfusion. RESULTS: Over the period of four months, a total of 101 patients (36 females and 65 males) were included in this study and gave written consent. No statistical significance regarding the demographic data such as age, sex and BMI could be identified. An average to high correlation between free flap thickness and BMI was shown for the thoracodorsal artery perforator (TDAP), anterior lateral thigh (ALT) and deep inferior epigastric perforator (DIEP) flap in both, male and female patients. Free flaps of distal body parts such as the interosseous posterior flap, showed a lower correlation. No correlation using the Pearson coefficient could be found for age and volume. CONCLUSION: Our study demonstrated that the BMI is a predictive indicator that can be used in the preoperative planning of reconstructions using free flaps. Depending on the defect location, the BMI can be considered to predict the thickness of the free flap and may influence the surgeon's choice. On the other hand, a lower correlation between BMI and flap thickness encourages the use of standard flaps if more volume is desired, as the DIEP flap might be sufficient even in normal-weight women. Flaps of distal body parts, such as the forearm or lower leg, are not prone to such predictions and require other selection criteria.",
+    "abstract_tr": "",
+    "score": 0.6121
+  },
+  {
     "date": "2026-10-16",
     "category": "aesthetic",
     "pmid": "36112807",
