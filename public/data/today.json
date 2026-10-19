@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "articles": [
     {
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "category": "aesthetic",
-      "pmid": "35538312",
-      "title": "History and future perspectives of male aesthetic genital surgery.",
-      "authors": "Zaccaro C, Subirà D, López-Diez I et al.",
-      "journal": "Int J Impot Res",
-      "year": 2022,
-      "doi": "10.1038/s41443-022-00580-6",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35538312/",
-      "citation_count": 13,
-      "rcr": 2.0344383016913636,
-      "abstract": "Since ancient times, men have tried to change the size and shape of their genitals. Bites from insects or poisonous snakes and weights were among the first methods used for this purpose. In the first half of the 1900s, the scientific push regarding male genital aesthetic surgery began. Scrotoplasty, penile suspensory ligament release, injection of hyaluronic acid as filler, use of several types of grafts, lipofilling, and liposuction are techniques currently used. The Penuma® implant has recently been described with promising results. We are living in the era of tailored surgery and regenerative medicine. Shortly the surgeons will have to know several surgical techniques and adapt them to the patient. New fillers with ideal characteristics, innovative prosthetic devices, and stem cells will probably be the protagonists of future aesthetic surgery. The main effort of the scientific community should be directed towards the design of new randomized controlled trials to increase the evidence on the efficacy and safety of the topic, with the ultimate aim of allowing clear recommendations from scientific societies.",
+      "pmid": "34847114",
+      "title": "Nasal Tip Shaping Finesse in Rhinoplasty.",
+      "authors": "Savetsky IL, Avashia YJ, Rohrich RJ",
+      "journal": "Plast Reconstr Surg",
+      "year": 2021,
+      "doi": "10.1097/PRS.0000000000008594",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34847114/",
+      "citation_count": 9,
+      "rcr": 1.4509745860983725,
+      "abstract": "Anatomic subtleties of the nasal tip have a dramatic impact on the overall appearance of the nose. Mastery of normal nasal aesthetics and anatomy is a critical prerequisite to adeptly performing nasal tip refinement during open rhinoplasty. This article and series of videos aim to provide a focused review of nasal tip analysis, anatomy, and surgical technique, with particular emphasis on pertinent tip sutures and cartilage grafts.",
       "abstract_tr": "",
-      "score": 0.6378
+      "score": 0.619
     },
     {
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "category": "reconstructive",
-      "pmid": "36725484",
-      "title": "Analysis of intraoral microvascular anastomosis in maxillofacial defects reconstruction.",
-      "authors": "Zhang HY, Shao Z, Jia J et al.",
-      "journal": "J Craniomaxillofac Surg",
+      "pmid": "36964850",
+      "title": "Characteristics and outcomes of transoral robotic surgery with free-flap reconstruction for oropharyngeal cancer: a systematic review.",
+      "authors": "Monroe D, Pyne JM, McLennan S et al.",
+      "journal": "J Robot Surg",
       "year": 2023,
-      "doi": "10.1016/j.jcms.2023.01.008",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36725484/",
-      "citation_count": 14,
-      "rcr": 1.5731409211640606,
-      "abstract": "This review summarizes the research progress in the field of intraoral microvascular anastomosis techniques (IAT) and attempts to investigate the indications for procedures in which IAT can be applied, the surgical procedure and the difficulties involved, technical assessments, result evaluation and the perspective. Currently, microvascular anastomosis technique is widely used in maxillofacial defects reconstruction from various causes including cutaneous injury or congenital deformity which usually required extensive flap reconstruction and therefore a vascular free flap is routinely used. Conventional microvascular anastomosis reconstruction techniques cannot avoid new incisions, which will affect the postoperative aesthetic situation. Surgeons have therefore attempted to improve this technique to effectively eliminate scars caused by surgery: some patients can be chosen to undergo microvascular anastomosis of the free flap intraorally, thus reducing the extraoral incision caused by the anastomosis located in neck or maxillofacial improving the postoperative appearance of the patients. In addition to preserving the external appearance, intraoral anastomosis technique (IAT) can also solve some other problems of maxillofacial vascular anastomosis, such as insufficient vessel pedicle length and high risk of facial nerve injury.",
+      "doi": "10.1007/s11701-023-01572-4",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36964850/",
+      "citation_count": 11,
+      "rcr": 1.7024013307266777,
+      "abstract": "Transoral robotic surgery (TORS) approach for the treatment of oropharyngeal cancer allows for reduced patient morbidity, amongst other advantages over the traditional lip-splitting mandibulotomy method. Free-flap reconstruction is commonly utilized in head and neck cancer surgeries; however, safety and outcomes of this technique in TORS procedures have not been well studied. The objective of this study was to perform a systematic review to evaluate the efficacy and safety of TORS with free-flap reconstruction (TORS-FFR) for oropharyngeal cancer. A systematic search of Scopus, EMBASE, CINAHL and PubMed databases was completed. Following PRISMA guidelines, case series/reports, retrospective and prospective cohort studies were included. Primary outcomes measured were deaths and complication rates associated with TORS-FFR for oropharyngeal cancers. Secondary outcomes included functional swallowing and airway outcomes, operative time and length of hospital stay. Twenty-one studies met the inclusion criteria comprising a total of 132 patients. The mean patient age was 58.4 years. The most frequent complication was infection (8.9%) followed by flap wound dehiscence (4.2%). The average total operative time was 710 min (n = 48), while average length of hospital stay was 13.5 days (n = 48). Reconstructions were most commonly fashioned from radial forearm free flaps (RFFF), with anterolateral thigh flaps (ALT) representing the second most common free-flap subtype. TORS-FFR procedures for oropharyngeal cancer are safe, with low serious complication rates. This surgical approach may be associated with decreased length of hospital stay; however, further studies are required to better characterize post-operative outcomes.Level of evidence 1a.",
       "abstract_tr": "",
-      "score": 0.6245
+      "score": 0.6299
     }
   ]
 }
