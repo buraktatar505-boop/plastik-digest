@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "articles": [
     {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "category": "aesthetic",
-      "pmid": "34847114",
-      "title": "Nasal Tip Shaping Finesse in Rhinoplasty.",
-      "authors": "Savetsky IL, Avashia YJ, Rohrich RJ",
-      "journal": "Plast Reconstr Surg",
-      "year": 2021,
-      "doi": "10.1097/PRS.0000000000008594",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34847114/",
-      "citation_count": 9,
-      "rcr": 1.4509745860983725,
-      "abstract": "Anatomic subtleties of the nasal tip have a dramatic impact on the overall appearance of the nose. Mastery of normal nasal aesthetics and anatomy is a critical prerequisite to adeptly performing nasal tip refinement during open rhinoplasty. This article and series of videos aim to provide a focused review of nasal tip analysis, anatomy, and surgical technique, with particular emphasis on pertinent tip sutures and cartilage grafts.",
+      "pmid": "38720103",
+      "title": "Correction of Tear Trough Deformity with Minced Orbital Fat Grafts During Transconjunctival Lower Blepharoplasty.",
+      "authors": "Heirati A, Mohammadbeigy I, Pourazizi M et al.",
+      "journal": "Aesthetic Plast Surg",
+      "year": 2024,
+      "doi": "10.1007/s00266-024-04086-y",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38720103/",
+      "citation_count": 7,
+      "rcr": 5.206073121595749,
+      "abstract": "BACKGROUND: The correction of tear trough deformity poses a significant challenge in the context of facial rejuvenation. Our aim was to introduce a technique that corrects tear trough deformity during transconjunctival lower blepharoplasty using minced orbital fat grafts. METHODS: The medical records of patients who underwent lower blepharoplasty from January 2019 to December 2021 were reviewed. The study included patients with various grades of tear trough deformity, who underwent lower blepharoplasty using minced orbital fat grafts and followed up for at least 6 months. Modified Barton's grading for tear trough depression, patient satisfaction, and postoperative complications were evaluated. RESULTS: A total of ninety-eight patients, with a mean age of 48.07 ± 9.72 years, consisting of 93 (94.9%) females were included in the study. The average duration of follow-up was 7.2 months, ranging from 6 to 13 months. Tear trough depression significantly improved after the operation (preoperative tear trough depression grade mean (SD): 3.11 (0.60); postoperative tear trough depression grade mean (SD): 0.87 (0.66); P < 0.001). 78.5% of the participants reported their outcome as excellent or good, 20.4% reported as fair, and 1.0% (only one patient) reported as no improvement. None of the participants rated their outcome as worsening. No major complication was observed during the follow-up period. CONCLUSION: Minced orbital fat grafting during transconjunctival lower eyelid blepharoplasty has good effectiveness for correcting tear trough deformity without the risk of major complications. LEVEL OF EVIDENCE IV: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
       "abstract_tr": "",
-      "score": 0.619
+      "score": 0.6658
     },
     {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "category": "reconstructive",
-      "pmid": "36964850",
-      "title": "Characteristics and outcomes of transoral robotic surgery with free-flap reconstruction for oropharyngeal cancer: a systematic review.",
-      "authors": "Monroe D, Pyne JM, McLennan S et al.",
-      "journal": "J Robot Surg",
-      "year": 2023,
-      "doi": "10.1007/s11701-023-01572-4",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36964850/",
-      "citation_count": 11,
-      "rcr": 1.7024013307266777,
-      "abstract": "Transoral robotic surgery (TORS) approach for the treatment of oropharyngeal cancer allows for reduced patient morbidity, amongst other advantages over the traditional lip-splitting mandibulotomy method. Free-flap reconstruction is commonly utilized in head and neck cancer surgeries; however, safety and outcomes of this technique in TORS procedures have not been well studied. The objective of this study was to perform a systematic review to evaluate the efficacy and safety of TORS with free-flap reconstruction (TORS-FFR) for oropharyngeal cancer. A systematic search of Scopus, EMBASE, CINAHL and PubMed databases was completed. Following PRISMA guidelines, case series/reports, retrospective and prospective cohort studies were included. Primary outcomes measured were deaths and complication rates associated with TORS-FFR for oropharyngeal cancers. Secondary outcomes included functional swallowing and airway outcomes, operative time and length of hospital stay. Twenty-one studies met the inclusion criteria comprising a total of 132 patients. The mean patient age was 58.4 years. The most frequent complication was infection (8.9%) followed by flap wound dehiscence (4.2%). The average total operative time was 710 min (n = 48), while average length of hospital stay was 13.5 days (n = 48). Reconstructions were most commonly fashioned from radial forearm free flaps (RFFF), with anterolateral thigh flaps (ALT) representing the second most common free-flap subtype. TORS-FFR procedures for oropharyngeal cancer are safe, with low serious complication rates. This surgical approach may be associated with decreased length of hospital stay; however, further studies are required to better characterize post-operative outcomes.Level of evidence 1a.",
+      "pmid": "34511387",
+      "title": "Leaving the perfusion zones? Individualized flap design in 100 free DIEP and ms-TRAM flaps for autologous breast reconstruction using indocyanine green angiography.",
+      "authors": "Ludolph I, Bettray D, Beier JP et al.",
+      "journal": "J Plast Reconstr Aesthet Surg",
+      "year": 2022,
+      "doi": "10.1016/j.bjps.2021.08.002",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34511387/",
+      "citation_count": 19,
+      "rcr": 3.751736095636182,
+      "abstract": "BACKGROUND: There is still no consensus regarding the ideal zoning in abdominal-based autologous breast reconstruction using free DIEP or ms-TRAM flaps. In particular, the perfusion pattern of the flap according to the number of perforators used and their location remains controversial. In this study, the perfusion of free DIEP and ms-TRAM flaps is assessed intraoperatively and analyzed with regard to different perfusion patterns. METHODS: A retrospective analysis of 100 free flaps for breast reconstruction was performed. Following complete flap harvest, we used indocyanine green angiography for perfusion analysis. By applying two different contour levels, DIEP flaps with lateral or medial perforators and ms-TRAM flaps were assessed for their respective perfusion patterns. RESULTS: No statistically significant differences were found in the size of the perfusion area between the different flap types when applying the contour level of 20% (p >0.05). For the contour level of 30%, however, statistically significant differences were found between DIEP flaps with medially or laterally located perforators (p = 0.038). Laterally or medially located perforators in DIEP flaps showed no significant differences in their ability to cross the midline (contour level 20%, p = 0.068; contour level 30%, p = 0.058). CONCLUSION: Considering the variability of the perfusion of the abdominal wall and the high sensitivity of indocyanine green angiography for their detection, the abdominal zonings play a minor role. By using intraoperative indocyanine green angiography, a precise and patient-specific free flap surgery for autologous breast reconstruction is possible independent of perforator location.",
       "abstract_tr": "",
-      "score": 0.6299
+      "score": 0.9275
     }
   ]
 }
