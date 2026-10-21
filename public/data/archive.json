@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-21",
+    "category": "aesthetic",
+    "pmid": "39747421",
+    "title": "Assessing the Long-Term Impact of Non-Surgical Rhinoplasty on Patient Satisfaction and Quality of Life: A Prospective Study Using FACE-Q.",
+    "authors": "Lombardo GAG, Melita D, Stivala A et al.",
+    "journal": "Aesthetic Plast Surg",
+    "year": 2025,
+    "doi": "10.1007/s00266-024-04644-4",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39747421/",
+    "citation_count": 6,
+    "rcr": 2.654109778827152,
+    "abstract": "INTRODUCTION: Non-surgical alternatives to rhinoplasty are gaining interest but, despite its popularity, research on the long-term psychological impact and post-rhinofiller patients' satisfaction is limited. This study evaluates patient-reported satisfaction and quality of life immediately after and 6 months post-non-surgical rhinoplasty using the FACE-Q questionnaire. PATIENTS AND METHODS: This prospective study was conducted from May 2023 to March 2024, involving 83 patients who underwent rhinofiller treatments for esthetic purposes. The FACE-Q questionnaire, assessing satisfaction with facial appearance, psychological function, and specific satisfaction with the nose, was administered before treatment, immediately after, and six months post-procedure. Statistical analyses compared pre- and post-treatment scores. RESULTS: Sixty-six patients fully responded to the FACE-Q questionnaire. Significant improvements were noted in satisfaction with facial appearance, psychological function, and specific satisfaction with the nose immediately after treatment (p < 0.05). Six months post-treatment, improvements were slightly reduced according to natural filler resorption. Nevertheless, this decrease was not statistically significant, meaning that the overall satisfaction was maintained after the procedure. CONCLUSIONS: Rhinofiller significantly enhances patient satisfaction and quality of life, with effects lasting much more than 6 months. In literature, this is the first article in which rhinofiller efficacy, durability and its impact on patient psycho-physical well-being are demonstrated through a validated method. The FACE-Q assessments confirm that rhinofiller is a viable, less invasive alternative to traditional rhinoplasty, offering substantial psychosocial benefits. Further research with larger samples and different populations is recommended to validate these findings and expand understanding of rhinofiller's long-term impact. LEVEL OF EVIDENCE II: This journal requires that authors assign a level of evidence to each article. For a full description of these evidence-based medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+    "abstract_tr": "",
+    "score": 0.785
+  },
+  {
+    "date": "2026-10-21",
+    "category": "reconstructive",
+    "pmid": "35461799",
+    "title": "Accuracy and Precision of the Computed Tomographic Angiography Perforator Localization Technique for Virtual Surgical Planning of Composite Osteocutaneous Fibular Free Flaps in Head and Neck Reconstruction.",
+    "authors": "Ettinger KS, Morris JM, Alexander AE et al.",
+    "journal": "J Oral Maxillofac Surg",
+    "year": 2022,
+    "doi": "10.1016/j.joms.2022.03.018",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35461799/",
+    "citation_count": 20,
+    "rcr": 3.6896299010285225,
+    "abstract": "BACKGROUND: Virtual surgical planning (VSP), computer aided design/computer aided modeling, and 3-dimensional printing technology have been shown to improve surgical accuracy and efficiency in head and neck reconstruction. However, persisting criticism of the technology is that it does not adequately address the soft tissue-related aspects of reconstructive surgery. Prior publication on the computed tomographic angiography (CTA) perforator localization technique has demonstrated how soft tissue planning can be incorporated directly into existing VSP workflows. PURPOSE: The aim of this study is to prospectively assess the accuracy, precision, negative predictive value (NPV), and positive predictive value (PPV) of the CTA perforator localization technique for VSP of osteocutaneous fibular free flaps. MATERIALS AND METHODS: A prospective observational study in a consecutive cohort of subjects undergoing VSP of osteocutaneous fibular free flaps at Mayo Clinic between 2018 and 2020 was completed. All cutaneous perforators from the peroneal system of the selected donor leg were identified preoperatively through a previously reported CTA tracing method and registered into the VSP. Perforators were classified as primary or secondary based on whether the perforators were targeted for use in the final reconstructive plan. Perforator measurements obtained from the VSP were cross-referenced with intraoperatively obtained measurements of actual perforator locations to calculate accuracy, precision, NPV, PPV, sensitivity, and specificity of the CTA localization technique. RESULTS: Sixty consecutive subjects were enrolled in the study. A total of 141 perforators were identified preoperatively on CTA and 145 perforators were identified on operative exposure. One perforator identified on preoperative CTA was not identified on surgical exposure (false positive perforator). Six perforators were identified on operative exposure alone without recognition on preoperative CTA (false negative perforators). The accuracy of CTA perforator identification was 96.52%. Median precision of perforator localization was 0.3 cm (standard deviation 0.40) between CTA and operatively identified locations. PPV of the technique was 99.29% and NPV was 90.00%. CONCLUSION: The CTA localization technique for identifying and incorporating cutaneous perforator locations into VSP of osteocutaneous fibular free flaps is a reliable, accurate, and precise technique to employ in the modern paradigm of guided surgery for head and neck reconstruction.",
+    "abstract_tr": "",
+    "score": 0.74
+  },
+  {
     "date": "2026-10-20",
     "category": "aesthetic",
     "pmid": "38720103",
