@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "articles": [
     {
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "category": "aesthetic",
-      "pmid": "39009870",
-      "title": "Multidisciplinary Experience for Gluteal Fat Grafting.",
-      "authors": "Agullo FJ, Castro-Garcia JA, Mohan VC",
-      "journal": "Aesthetic Plast Surg",
-      "year": 2024,
-      "doi": "10.1007/s00266-024-04163-2",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39009870/",
-      "citation_count": 4,
-      "rcr": 2.1827052979130093,
-      "abstract": "BACKGROUND: Gluteal fat grafting, colloquially known as Brazilian Butt Lift, has experienced a significant rise in popularity in recent years. Despite this increase, potential complications associated with the procedure have also been observed, necessitating a thorough examination of the current practices and outcomes. METHODS: This study collected experiences of a multidisciplinary group of surgeons through a detailed survey sent in April 2022. This study aimed to shed light on the practices employed by these surgeons, the frequency and types of complications they encounter, and the overall outcomes of their procedures. RESULTS: Of the 100 surgeons surveyed, 86 responded. The study identified that pulmonary fat embolism (PFE) was the most serious complication, with fatality due to PFE recorded at a rate of 1:23,878. Liposuction site seromas were the most common complications, with an overall rate of 2.45%. Although there were no overall differences in complications between plastic and non-plastic surgeons, plastic surgeons were found to have a sixfold increase in the odds of experiencing a liposuction seroma. The survey also revealed substantial practice variations, particularly regarding fat preparation methods, recipient-site preparation, antibiotic use, and postoperative care protocols. CONCLUSION: Despite known complications, a strong tendency to continue performing these procedures was observed among surgeons, demonstrating the sustained demand and acceptance of the procedure. This study underscores the need for continued surveillance and research to enhance the safety and effectiveness of gluteal fat grafts. The experiences and data gathered from practicing surgeons provide valuable insights, paving the way for refining techniques, building consensus, and facilitating informed discussions with patients about the risks and benefits of the procedure. LEVEL OF EVIDENCE III: This journal requires that authors assign a level of evidence to each article. For a full description of these evidence-based medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+      "pmid": "37093978",
+      "title": "Alternative Abdominal Wall Plication Techniques: A Review of Current Literature.",
+      "authors": "Gilbert MM, Anderson SR, Abtahi AR",
+      "journal": "Aesthet Surg J",
+      "year": 2023,
+      "doi": "10.1093/asj/sjad112",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37093978/",
+      "citation_count": 6,
+      "rcr": 2.2585792492475933,
+      "abstract": "Abdominoplasty is one of the most common procedures performed in plastic surgery. By removing redundant skin and fat tissue, body contouring narrows the waist and achieves a naturally flattened appearance. To achieve this, one technique frequently utilized is plication of the abdominal rectus sheath. Although abdominal wall plication is commonly performed during abdominoplasty, there is a lack of consensus regarding which plication method provides the best outcomes. Each variation addresses some of the common intraoperative and postoperative complications of abdominoplasty. These include extended operating time, rupture of the plication, epigastric bulging, and patient postoperative dissatisfaction. Many plication techniques have been described in the literature, but no single technique has been adopted by plastic surgeons as the gold standard. Here we present a narrative comparison of current published literature reporting novel or modified abdominoplasty plication techniques. This includes diagrams of each procedure, sutures utilized, and key concepts of each plication technique. Discussion regarding how these modifications change operating time, alter epigastric bulging, and improve the ability to narrow the waist is provided. The purpose of this paper is to provide a concise source document for plastic surgeons to reference when choosing a plication method to use during abdominoplasty.",
       "abstract_tr": "",
-      "score": 0.6184
+      "score": 0.6181
     },
     {
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "category": "reconstructive",
-      "pmid": "38447507",
-      "title": "Stack, PAP and Bury: Technical refinements from a case series of 56 profunda artery perforator flaps for breast reconstruction.",
-      "authors": "Citron I, Borges A, Belgaumwala T et al.",
-      "journal": "J Plast Reconstr Aesthet Surg",
-      "year": 2024,
-      "doi": "10.1016/j.bjps.2024.01.005",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38447507/",
-      "citation_count": 6,
-      "rcr": 3.6986797966341607,
-      "abstract": "AIMS: To share experiences and learning curve of the introduction of profunda artery perforator (PAP) flaps in breast reconstruction. The secondary aim was to share techniques to improve outcomes. METHODS: Case series reviewing outcomes of 56 consecutive PAP flaps performed by a single surgeon across five institutions between March 2021 and May 2023 were reported. The senior author's preference is to routinely stack and bury the flaps to optimise cosmetic outcomes. RESULTS: Fifty-six PAP flaps were performed in 30 patients. The majority of the PAPs were stacked (n = 43, 77%). The mean age at surgery was 46 years (SD 8.44 years) and mean body mass index was 23.86 (SD 3.59). The mean flap weight was 198.83 g (SD 82.86 g) and the mean combined weight for stacked flaps was 369.57 g (SD 98.65 g). Mean ischaemia time was 56.59 min (SD 17.83 min). There was one flap loss (2%). Of the immediate flaps, 90% were buried and monitored using flow couplers. CONCLUSION: The routine use of PAPs, in particular stacked PAPs, allows for adequate volume and height for breast reconstruction in patients who may have otherwise been deemed unsuitable for autologous breast reconstruction. The PAP flap has replaced the transverse upper gracilis and superior gluteal artery perforator flaps as the second line flap choice in our practice.",
+      "pmid": "37450866",
+      "title": "Significant Reduction in Length of Stay in Deep Inferior Epigastric Perforator Flap Breast Reconstruction With Implementation of Multimodal ERAS Protocol.",
+      "authors": "Araya S, Webster TK, Egleston B et al.",
+      "journal": "Ann Plast Surg",
+      "year": 2023,
+      "doi": "10.1097/SAP.0000000000003578",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37450866/",
+      "citation_count": 18,
+      "rcr": 3.7556240940782493,
+      "abstract": "BACKGROUND: Enhanced Recovery After Surgery (ERAS) implementation achieves earlier recovery, reduced hospital length of stay (LOS) and improved outcomes in patients undergoing deep inferior epigastric perforator (DIEP) free flaps. We sought to review our ERAS protocols and their impact on our patients' LOS compared with the literature. METHODS: This was a retrospective review of a single surgeon's experience from 2017 to 2021 of patients undergoing DIEP free-flap breast reconstruction with LOS as the primary outcome. Complication rates and patient demographics are described as secondary outcomes. RESULTS: One hundred twenty-one patients underwent DIEP free-flap breast reconstruction. After adapting ERAS protocols, there has been a 0.98 [SD, 0.17; confidence interval [CI], -1.3 to -0.64; P < 0.001) day decrease in length of stay comparing pre-ERAS to post-ERAS implementation. Length of stay has routinely decreased from an average discharge on day 4.17 (SD, 1.1; range, 3-8 days) in 2017 to discharge on day 2.91 (SD, 1.1; range, 1-5 days) in 2021. Seventy-five percent of patients in 2021 were hospitalized for 3 or fewer days compared with 75% of patients in 2017 hospitalized for 4 or more days. One patient experienced a flap failure. Our study supports successful discharge on postoperative days 2-3 compared with postoperative days 3-4 in the current literature. CONCLUSIONS: The implementation of our ERAS protocol for DIEP free-flap breast reconstruction has resulted in a shorter LOS compared with contemporary literature. The ERAS protocols can be efficiently adopted in microsurgical DIEP breast reconstruction to achieve a shorter LOS without jeopardizing patient outcomes.",
       "abstract_tr": "",
-      "score": 0.97
+      "score": 0.955
     }
   ]
 }
