@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "articles": [
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "category": "aesthetic",
-      "pmid": "37596215",
-      "title": "Comprehensive aesthetic corrections of gynecomastia using the reproducible safe and minimally invasive surgical strategy.",
-      "authors": "Xia ZN, Kang YB, Yang YY et al.",
-      "journal": "Asian J Surg",
+      "pmid": "38576226",
+      "title": "Aesthetic doctors' perception and attitudes toward tolerance in botulinum toxin.",
+      "authors": "Oh SM, Kim HM, Ahn TH et al.",
+      "journal": "Skin Res Technol",
       "year": 2024,
-      "doi": "10.1016/j.asjsur.2023.07.147",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37596215/",
-      "citation_count": 3,
-      "rcr": 2.3198753097543316,
-      "abstract": "BACKGROUND: Minimally invasive access and fast recovery are trends of gynecomastia surgery. We placed great importance on liposuction and modified original pull-through technique. The purpose of this study was to present a refined surgical strategy for gynecomastia in grade I and II. METHODS: The refined strategy embraced enhanced liposuction to remove the intraglandular fat sufficiently, followed by open resection of gland using the pull-through and bottom-up technique with adjuvant liposuction in the end. Surgical data were recorded and satisfactory questionnaires with 5-point scales were administered during follow-up. RESULTS: Between January 2017 and May 2022, 165 patients underwent enhanced liposuction combined with the pull-through and bottom-up technique for gland excision. Age ranged from 12 to 56 years. The median length of surgery was 100 min. A median of 300 ml of fat was aspirated and a median of 20.8 g of gland was excised. Seventy-seven patients (46.7%) responded the questionnaires at least 6 months postoperatively, and the average overall satisfaction was 4.68 ± 0.52 points. Thirteen sides of breasts developed complications with a rate of 4.0%. CONCLUSION: Enhanced liposuction combined with pull-through and bottom-up technique proved effective to treat grade I and II gynecomastia with minimal scarring and high satisfaction. The refined strategy was simple and safe, and would obtain optimal outcomes even for inexperienced surgeons.",
+      "doi": "10.1111/srt.13691",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38576226/",
+      "citation_count": 4,
+      "rcr": 2.1204730294609826,
+      "abstract": "BACKGROUND: Botulinum toxin is a crucial therapeutic tool with broad indications in both cosmetic and medical fields. However, the expanding cosmetic use and increased dosages of botulinum toxin have raised concerns about resistance, making it essential to study the awareness and management practices among healthcare professionals. METHODS: A survey was conducted among clinical physicians using botulinum toxin. The study investigated their experiences, awareness, and management practices related to toxin resistance. Real-time mobile app-based surveys were administered to clinicians attending the 45th International Academic Conference of the Korean Academy of Laser and Dermatology (KALDAT) on December 3, 2023. RESULTS: Among 3140 participants, 673 clinical physicians completed the survey. Of these, 363 clinicians (53.9%) reported experiencing botulinum toxin resistance. Regarding the resistance rate, 59.4% indicated less than 1%, 36% reported approximately 1%-25%, and 95.4% reported less than 25%. Efforts to prevent resistance included maintaining intervals of over 3 months (54.8%), using products with lower resistance potential (47.0%), employing minimal effective doses (28.2%), and minimizing re-administration (14.9%). CONCLUSION: In the South Korean aesthetic medicine community, a majority of clinical physician's report encountering botulinum toxin resistance. Given the potential loss of various benefits associated with resistance, there is a need to establish appropriate guidelines based on mechanistic studies and current status assessments. Educating clinicians on applicable guidelines is crucial.",
       "abstract_tr": "",
-      "score": 0.6137
+      "score": 0.61
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "category": "reconstructive",
-      "pmid": "34872876",
-      "title": "Inferior gluteal artery perforator (IGAP) flap versus profunda artery perforator (PAP) flap as an alternative option for free autologous breast reconstruction.",
-      "authors": "Murphy DC, Razzano S, Wade RG et al.",
-      "journal": "J Plast Reconstr Aesthet Surg",
-      "year": 2022,
-      "doi": "10.1016/j.bjps.2021.09.043",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34872876/",
-      "citation_count": 10,
-      "rcr": 1.065821409099224,
-      "abstract": "BACKGROUND: When patients are unsuitable for deep inferior epigastric perforator (DIEP) flap breast reconstruction, the inferior gluteal artery perforator (IGAP) flap has been used as an alternative option. However, the profunda artery perforator (PAP) flap is also gaining popularity as an alternative to the DIEP flap for several reasons. This retrospective cohort study compares baseline characteristics, peri- and post-operative outcomes following IGAP flap and PAP flap breast reconstructions after mastectomy for cancer. METHODS: In a single center in the UK, from September 2008 through December 2016, 43 women underwent IGAP Flap(s) breast reconstruction and 51 received PAP flap(s) breast reconstructions. Statistical analysis was performed to compare baseline, peri-operative and post-operative variables between the two reconstruction methods. RESULTS: Perioperative complications requiring reoperation were experienced in women undergoing IGAP flap breast reconstructions only (21% versus 0%, p = 0.001), principally due to the risk of total flap failure (12% versus 0%, p = 0.01). Women undergoing IGAP flap breast reconstructions were at significantly higher odds of revision surgery (OR 17 [95% CI: 5.5-53], p < 0.001), which was unchanged after adjusting for bilateral reconstructions (adjusted OR 18 [95% CI: 5.3-58], p < 0.001). CONCLUSIONS: PAP flaps appear to be associated with significantly fewer complications and revision surgeries than IGAP flaps for breast reconstruction in women undergoing mastectomy for cancer and who are unsuitable for a DIEP flap breast reconstruction.",
+      "pmid": "37032176",
+      "title": "The Role of Imaging in Mandibular Reconstruction with Microvascular Surgery.",
+      "authors": "Rao D, Weyh A, Bunnell A et al.",
+      "journal": "Oral Maxillofac Surg Clin North Am",
+      "year": 2023,
+      "doi": "10.1016/j.coms.2023.01.002",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37032176/",
+      "citation_count": 6,
+      "rcr": 2.0974380055374584,
+      "abstract": "Imaging plays a critical role in the diagnosis, staging, and management of segmental mandibular defects. Imaging allows mandibular defects to be classified which aids in microvascular free flap reconstruction. This review serves to complement the surgeon's clinical experience with image-based examples of mandibular pathology, defect classification systems, reconstruction options, treatment complications, and Virtual Surgical Planning.",
       "abstract_tr": "",
-      "score": 0.6648
+      "score": 0.6477
     }
   ]
 }

@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-27",
+    "category": "aesthetic",
+    "pmid": "38576226",
+    "title": "Aesthetic doctors' perception and attitudes toward tolerance in botulinum toxin.",
+    "authors": "Oh SM, Kim HM, Ahn TH et al.",
+    "journal": "Skin Res Technol",
+    "year": 2024,
+    "doi": "10.1111/srt.13691",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38576226/",
+    "citation_count": 4,
+    "rcr": 2.1204730294609826,
+    "abstract": "BACKGROUND: Botulinum toxin is a crucial therapeutic tool with broad indications in both cosmetic and medical fields. However, the expanding cosmetic use and increased dosages of botulinum toxin have raised concerns about resistance, making it essential to study the awareness and management practices among healthcare professionals. METHODS: A survey was conducted among clinical physicians using botulinum toxin. The study investigated their experiences, awareness, and management practices related to toxin resistance. Real-time mobile app-based surveys were administered to clinicians attending the 45th International Academic Conference of the Korean Academy of Laser and Dermatology (KALDAT) on December 3, 2023. RESULTS: Among 3140 participants, 673 clinical physicians completed the survey. Of these, 363 clinicians (53.9%) reported experiencing botulinum toxin resistance. Regarding the resistance rate, 59.4% indicated less than 1%, 36% reported approximately 1%-25%, and 95.4% reported less than 25%. Efforts to prevent resistance included maintaining intervals of over 3 months (54.8%), using products with lower resistance potential (47.0%), employing minimal effective doses (28.2%), and minimizing re-administration (14.9%). CONCLUSION: In the South Korean aesthetic medicine community, a majority of clinical physician's report encountering botulinum toxin resistance. Given the potential loss of various benefits associated with resistance, there is a need to establish appropriate guidelines based on mechanistic studies and current status assessments. Educating clinicians on applicable guidelines is crucial.",
+    "abstract_tr": "",
+    "score": 0.61
+  },
+  {
+    "date": "2026-10-27",
+    "category": "reconstructive",
+    "pmid": "37032176",
+    "title": "The Role of Imaging in Mandibular Reconstruction with Microvascular Surgery.",
+    "authors": "Rao D, Weyh A, Bunnell A et al.",
+    "journal": "Oral Maxillofac Surg Clin North Am",
+    "year": 2023,
+    "doi": "10.1016/j.coms.2023.01.002",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37032176/",
+    "citation_count": 6,
+    "rcr": 2.0974380055374584,
+    "abstract": "Imaging plays a critical role in the diagnosis, staging, and management of segmental mandibular defects. Imaging allows mandibular defects to be classified which aids in microvascular free flap reconstruction. This review serves to complement the surgeon's clinical experience with image-based examples of mandibular pathology, defect classification systems, reconstruction options, treatment complications, and Virtual Surgical Planning.",
+    "abstract_tr": "",
+    "score": 0.6477
+  },
+  {
     "date": "2026-10-26",
     "category": "aesthetic",
     "pmid": "37596215",
