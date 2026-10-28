@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-28",
+    "category": "aesthetic",
+    "pmid": "36759927",
+    "title": "Arabic translation, cultural adaptation, and validation of the BDDQ-AS for rhinoplasty patients.",
+    "authors": "Abdelhamid AS, Elzayat S, Amer MA et al.",
+    "journal": "J Otolaryngol Head Neck Surg",
+    "year": 2023,
+    "doi": "10.1186/s40463-022-00613-6",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36759927/",
+    "citation_count": 5,
+    "rcr": 2.299555175013594,
+    "abstract": "BACKGROUND: Body Dysmorphic Disorder (BDD) is a significant aspect that compromises patient satisfaction after rhinoplasty. BDDQ-AS (Body Dysmorphic Disorder Questionnaire-Aesthetic Surgery) is a validated, simple, reliable patient-reported outcome measure. It is a screening tool to detect body dysmorphic disorder in rhinoplasty patients. This study aimed to translate, culturally adapt, and validate BDDQ-AS to Arabic as a novel tool for screening and detecting BDD in Arabic rhinoplasty individuals. METHODS: BDDQ-AS was translated from English to Arabic following the international consensus guidelines. We tested the translation on ten Arabic-speaking rhinoplasty patients to ensure that the final version was understandable and acceptable. The proposed Arabic version was then completed by 112 patients whose average age was 28.79 ± 9.32 years. The screening is assumed positive if the patients expressed bother and preoccupation about their appearance (questions 1 and 2 \"yes\"), as well as a moderately disrupted everyday life (question 7 \"yes\" or questions 3, 4, 5, or 6 are equal to or greater than \"3''). The internal consistency, test-retest reliability, and item-response theory (IRT) were used to evaluate psychometric validations. RESULTS: The Arabic BDDQ had a high level of internal consistency, as measured by Cronbach's alpha 0.995. The A-BDDQ-AS was deemed reliable with an Intraclass Correlation Coefficient (ICC) of 0.989. A-BDDQ had good discrimination scores (above 2.0) with adequate difficulty parameters. The overall scale content validity average was 0.83, affirming that all items were relevant, clear, and straightforward. CONCLUSION: The Arabic version of the BDDQ-AS is reliable, culturally adapted, and psychometrically validated to be readily used and incorporated into clinical practice. It is a beneficial tool that can guide the screening of Arabic rhinoplasty patients suffering from body dysmorphic disorder and be utilized in further studies to optimize patient outcomes.",
+    "abstract_tr": "",
+    "score": 0.6092
+  },
+  {
+    "date": "2026-10-28",
+    "category": "reconstructive",
+    "pmid": "36462712",
+    "title": "Evaluating Resource Utilization with Free or Pedicled Perforator Flaps in Distal Leg Reconstruction.",
+    "authors": "Hsiao JC, Zelenski NA, Tseng YJ et al.",
+    "journal": "J Reconstr Microsurg",
+    "year": 2023,
+    "doi": "10.1055/s-0042-1759525",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36462712/",
+    "citation_count": 4,
+    "rcr": 1.3756426962648842,
+    "abstract": "BACKGROUND: The decision between local and free tissue coverage for distal lower leg defects has long been dictated by the location and size of defects. Recent reports of distal defects treated successfully with pedicled perforator flaps demonstrate equivalent clinical outcomes; however, the complication rate can be high. The goal of this study was to evaluate the cost equivalence of free versus pedicled perforator flap to assist decision-making and guide clinical care. METHODS: The institutional database was searched for patients with acute injury over the distal lower extremity requiring free or pedicled perforator flap. Demographic, clinical, and total resource cost was gathered. Patients were matched to Gustilo-Anderson or Arbeitsgemeinschaft fur Osteosynthesefragen classification as well as size of defect and outcomes, and cost compared. RESULTS: We have included 108 free flaps and 22 pedicled perforator flaps in the study. There was no difference in complication rate between groups. Free flaps had significantly more reoperations, required longer operative time, and had longer intensive care unit (ICU) care with higher cost of surgery and overall cost than pedicled flaps. When controlling for size of defect, surgical cost remained significantly different between groups ( CONCLUSION: Pedicled perforator flap coverage for small to medium-sized defects (< 70 cm",
+    "abstract_tr": "",
+    "score": 0.6455
+  },
+  {
     "date": "2026-10-27",
     "category": "aesthetic",
     "pmid": "38576226",
