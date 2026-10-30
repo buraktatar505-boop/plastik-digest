@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "articles": [
     {
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "category": "aesthetic",
-      "pmid": "33983507",
-      "title": "Cosmetic Breast Augmentation Using Power-Assisted Liposuction and Lipofilling: A Prospective Study.",
-      "authors": "Mangialardi ML, Ozil C, Lepage C",
-      "journal": "Aesthetic Plast Surg",
-      "year": 2022,
-      "doi": "10.1007/s00266-021-02309-0",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33983507/",
-      "citation_count": 10,
-      "rcr": 2.00804256483099,
-      "abstract": "INTRODUCTION: Autologous fat transfer is becoming a more and more widespread procedure in aesthetic breast surgery. Power-assisted technology produces oscillating reciprocal movements of cannula tip, which reproduce the motion of the operator's arm with lower amplitude. The power-assisted mechanism can be applied to the fat liposuction and injection phases. The aim of this study is to report our experience on autologous fat transfer in primary cosmetic breast augmentation using power-assisted liposuction and lipofilling (PALL), our surgical technique and on long-term cosmetic results, and patient-reported outcomes. MATERIALS AND METHODS: A prospective observational study was performed including all patients who underwent PALL cosmetic breast augmentation. Collected data included patient's age, BMI, mean liposuction and fat injection volume, mean operating time, postoperative complications, mean number of grafting procedures required to achieve the desired outcome, cosmetic results and patient satisfaction. RESULTS: A total of 43 patients were included with a mean follow-up of 13.32 months. Mean liposuction and injection volumes were 1884.54 mL and 399.03 mL, respectively. Mean number of grafting procedures was 1.27. With respect to aesthetic outcomes, the mean score for breast volume, shape, symmetry and donor site shape was 4.38, 4.22, 4.27 and 4.42, respectively. Regarding patient satisfaction, the mean score for breast volume, shape, symmetry and donor site shape was 4.22, 5, 5 and 4.77, respectively. CONCLUSION: The current study is the first prospective report on primary cosmetic breast augmentation using PALL. Although our sample of patients is limited, our results showed that PALL primary breast augmentation is an efficient procedure, which leads to satisfactory results for both patients and surgeons. LEVEL OF EVIDENCE IV: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+      "pmid": "37977931",
+      "title": "Modified lateral canthopexy with upper and lower blepharoplasties for aesthetic refinements: My personal technique.",
+      "authors": "Mahmood Fars BJ",
+      "journal": "Asian J Surg",
+      "year": 2024,
+      "doi": "10.1016/j.asjsur.2023.11.017",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37977931/",
+      "citation_count": 3,
+      "rcr": 2.5855461018734367,
+      "abstract": "BACKGROUND: Blepharoplasty is a surgical procedure that modifies the shape and structure of the eyelids to restore a more youthful appearance. The procedure comprises the removal of extra muscle, fat, and skin. In order to get the optimum functional and aesthetic result, supporting components like canthal tendons can also be tightened. AIM: To evaluate the efficacy of canthopexy in conjunction with the upper and lower blepharoplasty technique and its complications. METHODS: A total of 400 individuals who underwent these procedures between January 2020 and January 2021 had been recruited for this study. The frequency and clinical complications were analyzed. RESULTS: The complications were found to be 17 (4 %) cases of relapse, 12 (3 %) temporary hematoma formation, 11 (3 %) cases of epiphora, 8 (2 %) cases of unequal eyelid positioning, 5 (1 %) patients developed conjunctivitis and chemosis. CONCLUSION: This method appears to be effective since it is simple, practicable, and capable of delivering positive functional and aesthetic effects with a minimum of side effects.",
       "abstract_tr": "",
-      "score": 0.6265
+      "score": 0.6137
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "category": "reconstructive",
-      "pmid": "39217088",
-      "title": "Functional Perspectives in Tongue Reconstruction Based on Perforator Free Flap.",
-      "authors": "Choi JW, Kim YC",
-      "journal": "Oral Maxillofac Surg Clin North Am",
-      "year": 2024,
-      "doi": "10.1016/j.coms.2024.07.011",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39217088/",
-      "citation_count": 3,
-      "rcr": 2.21553512350954,
-      "abstract": "This article explores advancements in functional tongue reconstruction after cancer ablation, focusing on the importance of flap selection, positioning, and volume adjustment to restore speech and swallowing function. It highlights advancements such as the perforator flap concept for customized reconstructions and the transition to dynamic techniques with motor-innervated free flaps, aiming to accurately replicate the tongue's inherent functions. The effectiveness of dynamic techniques in improving swallowing efficiency and speech clarity underscores their significant potential in enhancing postoperative rehabilitation, representing a significant progress in the realm of functional tongue reconstruction.",
+      "pmid": "36807555",
+      "title": "Abdominally based free flap breast reconstruction in the severely obese population: Is it safe?",
+      "authors": "Mather TL, Tobin C, Tillman R et al.",
+      "journal": "Microsurgery",
+      "year": 2023,
+      "doi": "10.1002/micr.31025",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36807555/",
+      "citation_count": 4,
+      "rcr": 1.328506003205123,
+      "abstract": "INTRODUCTION: Class 3 (severe) obesity is defined as a body mass index (BMI) greater than 40 kg/m METHODS: Patients with a class 3 obesity who underwent abdominally-based free flap breast reconstruction between January 1, 2011 and February 28, 2020 at the authors' institution were identified. A retrospective chart review was performed to record patient demographics and peri-operative data. RESULTS: Twenty-six patients met inclusion criteria. Eighty percent of patients had at least one minor complication including infection (42%), fat necrosis (31%), seroma (15%), abdominal bulge (8%), and hernia (8%). Thirty-eight percent of patients had at least one major complication (requiring readmission (23%) and/or a return to the operating room (38%)). No flaps failed. CONCLUSION: Abdominally based free flap breast reconstruction in patients with class 3 obesity is associated with great morbidity, however, no patients experienced flap loss or failure which may imply that this population can safely undergo surgery so long as the surgeon is prepared for complications and takes steps to mitigate risk.",
       "abstract_tr": "",
-      "score": 0.645
+      "score": 0.6285
     }
   ]
 }
