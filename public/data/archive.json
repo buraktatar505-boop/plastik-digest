@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-31",
+    "category": "aesthetic",
+    "pmid": "37409445",
+    "title": "Evaluation of pathogen distribution and antimicrobial resistance in breast plastic surgery infection.",
+    "authors": "Su X, Hu J, Jiang F et al.",
+    "journal": "J Cosmet Dermatol",
+    "year": 2024,
+    "doi": "10.1111/jocd.15919",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37409445/",
+    "citation_count": 4,
+    "rcr": 2.2123045386108675,
+    "abstract": "BACKGROUND: The demand for mammaplasty has increased in recent years, and infection remains one of the common and serious post-operative complications. In this study, we analyzed the pathogen distribution and antibiotic susceptibility of breast plastic surgery infections, and compared the differences in pathogenic species between surgical procedures. METHODS: The number of each species was counted in the microbial samples of breast plastic surgery infections in Plastic Surgery Hospital of Chinese Academy of Medical Sciences from January 2011 to December 2021. The in vitro antibiotic sensitivity testing data were analyzed using WHONET 5.6 software. The surgical techniques, the period of infection, and other details were gathered in accordance with the clinical data. RESULTS: There were a total of 42 cases included, and 43 different types of pathogenic bacteria, mostly gram-positive bacteria, were found. CoNS (13/43) and Staphylococcus aureus (22/43) made up the majority. The most prevalent of the five Gram-negative bacteria was Pseudomonas aeruginosa. Results of drug sensitivity tests indicate that S. aureus is highly sensitive to vancomycin, cotrimoxazole, and linezolid, whereas CoNS is highly sensitive to vancomycin, linezolid, and chloramphenicol. Both of these bacteria show high resistance to erythromycin and penicillin. Breast augmentation, breast reconstruction, and breast reduction surgery were the most frequently associated breast surgery procedures in this study with infections, with the highest number of infections occurring following breast augmentation with fat grafting, breast reduction surgery, and breast reconstruction with autologous tissue. Various breast plastic surgery procedures have different common pathogens of infection, but the most prevalent are CoNS and S. aureus. Additionally, the majority of the infections in this study were in the early stages. CONCLUSIONS: Gram-positive bacteria were the predominant cause of breast plastic surgery infections, and the types of infection strains, the period of infection onset, and the antibiotic susceptibility of prevalent strains varied between breast plastic procedures.",
+    "abstract_tr": "",
+    "score": 0.645
+  },
+  {
+    "date": "2026-10-31",
+    "category": "reconstructive",
+    "pmid": "36928903",
+    "title": "Usefulness of Free Tissue Transfer for the Reconstruction of Extensive Thigh Defects.",
+    "authors": "Choi JM, Lee KT, Mun GH",
+    "journal": "J Reconstr Microsurg",
+    "year": 2024,
+    "doi": "10.1055/a-2056-1909",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36928903/",
+    "citation_count": 2,
+    "rcr": 1.3350919153285223,
+    "abstract": "BACKGROUND: Despite the increasing popularity of free tissue transfer, thigh defects have been alienated from their potential indication, owing to the abundance of regional reconstruction options. However, some challenging situations where locoregional modalities may lead to suboptimal outcomes often require free flap. Due to lacking studies regarding microvascular reconstruction of thigh defects, this study aimed to investigate the versatility of free tissue transfer for reconstruction of thigh defects. METHODS: A retrospective review was performed for patients who underwent microvascular reconstruction of thigh defects between 2003 and 2021. Their demographics and operation-related data were summarized and postoperative outcomes were evaluated. RESULTS: Sixty-five patients were analyzed, with a median follow-up period of 15.5 months. Most common situations requiring free tissue transfer were extensive defects, followed by large dead space with exposure of major neurovascular bundle and chronic wounds surrounded by unhealthy regional tissue. Defects were most frequently located in the anterior compartment horizontally and in the distal thigh vertically. The median surface area of the defects was 180.0 cm CONCLUSION: Free tissue transfer could provide reliable outcomes and facilitate rapid recovery, and could be actively considered for reconstruction of thigh defects in situations unfavorable to the locoregional option.",
+    "abstract_tr": "",
+    "score": 0.6241
+  },
+  {
     "date": "2026-10-30",
     "category": "aesthetic",
     "pmid": "37977931",
