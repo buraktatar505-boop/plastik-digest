@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-02",
+    "category": "aesthetic",
+    "pmid": "40651427",
+    "title": "Selective combined liposuction (SCL) for lipedema treatment: Outcomes in symptoms improvement and aesthetic self-perception.",
+    "authors": "Pereira N, Venegas J, López A et al.",
+    "journal": "J Plast Reconstr Aesthet Surg",
+    "year": 2025,
+    "doi": "10.1016/j.bjps.2025.06.031",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40651427/",
+    "citation_count": 3,
+    "rcr": 2.3219965310706683,
+    "abstract": "BACKGROUND: Lipedema is a chronic, progressive and underdiagnosed condition characterized by bilateral, disproportionate and painful subcutaneous fat accumulation in extremities. Key symptoms include pain, heaviness and easy bruising. Surgical treatment, particularly liposuction, has shown excellent outcomes in symptom reduction and quality of life improvement. This study evaluates clinical outcomes in symptoms and aesthetic self-perception improvements in patients treated with selective combined liposuction (SCL). PATIENTS AND METHODS: A retrospective review of 126 female patients who underwent surgical treatment over a four-year period was performed. Selective tumescent liposuction combining power-assisted liposuction (PAL) with VASER (ultrasound-assisted liposuction) for proximal areas, especially the thighs. Demographic and clinical data, including BMI, medical history and comorbidities were analyzed. Symptoms such as pain, heaviness and edema, and body image perception were assessed preoperatively and six months postoperatively with a structured questionnaire. RESULTS: The mean patient age was 39 years, with a mean BMI of 27.2. The mean aspirated volume was 3270 mL per procedure. In 25.4% of the cases (n=32), a second procedure was required, with an average total aspirated volume of 5150 mL. Significant symptom improvement was observed: 89% reported reduced pain, 92% reduced heaviness, 82% reduced edema. Mobility limitations improved in 91% of patients, while 60% reported enhanced aesthetic perception of their extremities. Additionally, 68% of patients expanded their wardrobe postoperatively. CONCLUSIONS: Selective combined liposuction is a safe and highly effective technique for lipedema treatment, providing substantial symptom relief, improved body aesthetic self-perception, which leads to an improvement in the quality of life.",
+    "abstract_tr": "",
+    "score": 0.7299
+  },
+  {
+    "date": "2026-11-02",
+    "category": "reconstructive",
+    "pmid": "39865374",
+    "title": "Impact of Norepinephrine Use on Free Flap Survival in Breast Reconstructive Microsurgery.",
+    "authors": "Larcher Q, Mernier T, Feigna M et al.",
+    "journal": "Microsurgery",
+    "year": 2025,
+    "doi": "10.1002/micr.70026",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39865374/",
+    "citation_count": 3,
+    "rcr": 3.7598340006555855,
+    "abstract": "OBJECTIVE: The optimal method for maintaining intraoperative blood pressure during microsurgical procedures remains controversial. While intravenous fluid administration is essential, overfilling can lead to complications. Vasopressor agents are used cautiously due to their vasoconstrictive effects, which could potentially lead to flap failure. Numerous studies have explored the possible link between amine administration and free flap failure, yielding inconsistent results. This study aims to determine whether intraoperative norepinephrine administration increases the flap failure rate in microsurgical breast reconstructions. METHODS: All women (n = 335) who underwent breast reconstruction using DIEP or PAP flaps (n = 400) in 2018 and 2022 in the Plastic Surgery Department of Georges-Pompidou European Hospital (Paris, France) were included in the study. These patients were classified into two groups based on the intraoperative administration of norepinephrine: the N+ group (50 patients) and the N- group (285 patients). Norepinephrine was administered when systolic blood pressure fell below 90 mmHg or mean arterial pressure (MAP) dropped below 65 mmHg, following fluid resuscitation in 2018, or without prior fluid loading in 2022. The primary endpoint was total flap loss. Secondary endpoints included arterial and venous thrombosis and the need for revision surgeries. RESULTS: Norepinephrine administration significantly increased the risk of total flap loss in DIEP and PAP flap surgeries (p < 0.001). It also heightened the risk of arterial thrombosis (p = 0.002) and venous thrombosis (p = 0.04), and led to a greater number of revision surgeries (p < 0.001). Subgroup analysis indicated that PAP flaps are more sensitive to norepinephrine compared to DIEP flaps. CONCLUSIONS: Our study suggests that the intraoperative administration of any dose of norepinephrine is associated with an increased risk of flap failure in breast reconstructive microsurgery using DIEP and PAP flaps.",
+    "abstract_tr": "",
+    "score": 0.9658
+  },
+  {
     "date": "2026-11-01",
     "category": "aesthetic",
     "pmid": "38780387",
