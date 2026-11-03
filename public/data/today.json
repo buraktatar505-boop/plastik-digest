@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "articles": [
     {
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "category": "aesthetic",
-      "pmid": "40651427",
-      "title": "Selective combined liposuction (SCL) for lipedema treatment: Outcomes in symptoms improvement and aesthetic self-perception.",
-      "authors": "Pereira N, Venegas J, López A et al.",
-      "journal": "J Plast Reconstr Aesthet Surg",
+      "pmid": "38354839",
+      "title": "Evidence-Based Dynamics in Rhinoplasty.",
+      "authors": "Frautschi R, DeLeonibus A, Totonchi A et al.",
+      "journal": "Facial Plast Surg",
       "year": 2025,
-      "doi": "10.1016/j.bjps.2025.06.031",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40651427/",
+      "doi": "10.1055/a-2267-8698",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38354839/",
       "citation_count": 3,
-      "rcr": 2.3219965310706683,
-      "abstract": "BACKGROUND: Lipedema is a chronic, progressive and underdiagnosed condition characterized by bilateral, disproportionate and painful subcutaneous fat accumulation in extremities. Key symptoms include pain, heaviness and easy bruising. Surgical treatment, particularly liposuction, has shown excellent outcomes in symptom reduction and quality of life improvement. This study evaluates clinical outcomes in symptoms and aesthetic self-perception improvements in patients treated with selective combined liposuction (SCL). PATIENTS AND METHODS: A retrospective review of 126 female patients who underwent surgical treatment over a four-year period was performed. Selective tumescent liposuction combining power-assisted liposuction (PAL) with VASER (ultrasound-assisted liposuction) for proximal areas, especially the thighs. Demographic and clinical data, including BMI, medical history and comorbidities were analyzed. Symptoms such as pain, heaviness and edema, and body image perception were assessed preoperatively and six months postoperatively with a structured questionnaire. RESULTS: The mean patient age was 39 years, with a mean BMI of 27.2. The mean aspirated volume was 3270 mL per procedure. In 25.4% of the cases (n=32), a second procedure was required, with an average total aspirated volume of 5150 mL. Significant symptom improvement was observed: 89% reported reduced pain, 92% reduced heaviness, 82% reduced edema. Mobility limitations improved in 91% of patients, while 60% reported enhanced aesthetic perception of their extremities. Additionally, 68% of patients expanded their wardrobe postoperatively. CONCLUSIONS: Selective combined liposuction is a safe and highly effective technique for lipedema treatment, providing substantial symptom relief, improved body aesthetic self-perception, which leads to an improvement in the quality of life.",
+      "rcr": 4.0594996692858185,
+      "abstract": "Rhinoplasty is a delicate surgical procedure that requires a thorough understanding of the dynamic interplay between the various structures of the nose. Any changes made to one part of the nose can have downstream effects on the overall harmony and appearance of the nose. For this reason, it is crucial for surgeons to be aware of these potential impacts in order to achieve predictable and aesthetically pleasing results. In this article, we aim to provide a summary of the current evidence-based conclusions on the dynamic influence of the radix, dorsum, tip, and ala during rhinoplasty. By understanding the complex relationships between these structures, surgeons can make informed decisions and achieve the best possible outcomes for their patients.",
       "abstract_tr": "",
-      "score": 0.7299
+      "score": 0.7225
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "category": "reconstructive",
-      "pmid": "39865374",
-      "title": "Impact of Norepinephrine Use on Free Flap Survival in Breast Reconstructive Microsurgery.",
-      "authors": "Larcher Q, Mernier T, Feigna M et al.",
-      "journal": "Microsurgery",
+      "pmid": "40084959",
+      "title": "Extended Anterolateral Thigh Flaps: Maximum Size for Covering Cancerous Defects.",
+      "authors": "Furuse K, Kageyama D, Arikawa M et al.",
+      "journal": "Ann Plast Surg",
       "year": 2025,
-      "doi": "10.1002/micr.70026",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39865374/",
-      "citation_count": 3,
-      "rcr": 3.7598340006555855,
-      "abstract": "OBJECTIVE: The optimal method for maintaining intraoperative blood pressure during microsurgical procedures remains controversial. While intravenous fluid administration is essential, overfilling can lead to complications. Vasopressor agents are used cautiously due to their vasoconstrictive effects, which could potentially lead to flap failure. Numerous studies have explored the possible link between amine administration and free flap failure, yielding inconsistent results. This study aims to determine whether intraoperative norepinephrine administration increases the flap failure rate in microsurgical breast reconstructions. METHODS: All women (n = 335) who underwent breast reconstruction using DIEP or PAP flaps (n = 400) in 2018 and 2022 in the Plastic Surgery Department of Georges-Pompidou European Hospital (Paris, France) were included in the study. These patients were classified into two groups based on the intraoperative administration of norepinephrine: the N+ group (50 patients) and the N- group (285 patients). Norepinephrine was administered when systolic blood pressure fell below 90 mmHg or mean arterial pressure (MAP) dropped below 65 mmHg, following fluid resuscitation in 2018, or without prior fluid loading in 2022. The primary endpoint was total flap loss. Secondary endpoints included arterial and venous thrombosis and the need for revision surgeries. RESULTS: Norepinephrine administration significantly increased the risk of total flap loss in DIEP and PAP flap surgeries (p < 0.001). It also heightened the risk of arterial thrombosis (p = 0.002) and venous thrombosis (p = 0.04), and led to a greater number of revision surgeries (p < 0.001). Subgroup analysis indicated that PAP flaps are more sensitive to norepinephrine compared to DIEP flaps. CONCLUSIONS: Our study suggests that the intraoperative administration of any dose of norepinephrine is associated with an increased risk of flap failure in breast reconstructive microsurgery using DIEP and PAP flaps.",
+      "doi": "10.1097/SAP.0000000000004330",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40084959/",
+      "citation_count": 2,
+      "rcr": 3.1890844248803907,
+      "abstract": "BACKGROUND: The anterolateral thigh perforator flap is frequently used for massive soft-tissue defect reconstruction. Cadaver perfusion examinations of isolated anterolateral thigh flaps have suggested a maximum skin area that may be vascularized based on the perforating vessels (ie, 250 cm 2 ). Therefore, this study aimed to evaluate a series of consecutive cases involving use of extended anterolateral thigh flaps for oncologic reconstruction of massive soft-tissue defects. To our knowledge, this is the largest study of extended anterolateral thigh flaps at a single center. METHODS: Patients who underwent transfers of anterolateral thigh flaps exceeding 250 cm 2 at our institution between April 2018 and December 2022 were retrospectively identified. The operative data and results were analyzed. RESULTS: Thirty-eight flaps in 36 cases were included. The 38 flaps consisted of 31 free flaps and 7 pedicled flaps. The average skin paddle size was 363 ± 101 cm 2 (range, 250-660 cm 2 ). The donor site was primarily closed in 7 flaps. The remaining 31 flaps required skin grafting to ensure donor-site closure. Neither total nor partial flap loss was observed. Four patients had wound dehiscence due to tightness. Three patients had surgical-site infections. Two patients had seromas. The postoperative courses of the 5 patients were complicated by partial skin graft loss at the donor sites. CONCLUSIONS: The anterolateral thigh flap is versatile and reliable for the treatment of massive oncological defects. Even flaps much larger than 250 cm 2 can usually be harvested safely based on 2 to 4 perforators without special techniques, such as compound flaps or additional vessel anastomoses.",
       "abstract_tr": "",
-      "score": 0.9658
+      "score": 0.8576
     }
   ]
 }
