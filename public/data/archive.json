@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-05",
+    "category": "aesthetic",
+    "pmid": "40010485",
+    "title": "Cutibacterium avidum: A virulent pathogen in esthetic surgery infection, a case series.",
+    "authors": "Isabel Cristina RS, Diego PR",
+    "journal": "Anaerobe",
+    "year": 2025,
+    "doi": "10.1016/j.anaerobe.2025.102944",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40010485/",
+    "citation_count": 4,
+    "rcr": 3.4590289108266603,
+    "abstract": "Cutibacterium avidum is a member of the skin microbiota whose composition changes with age. Recently, it has been implicated in infections associated with implants and other medical devices, and it is now recognized as an etiological agent of surgical site infections. We present six cases of surgical site infections following aesthetic surgery: three cases linked to gluteal implants, one to gluteoplasty without implants, one to liposuction and one to abdominoplasty. Previously, C. avidum was considered a contaminant; however, recent findings indicate virulence factors and pathogenic behavior, so this microbe now is regarded as a potential causative agent of infection.",
+    "abstract_tr": "",
+    "score": 0.7433
+  },
+  {
+    "date": "2026-11-05",
+    "category": "reconstructive",
+    "pmid": "37955229",
+    "title": "Dental prosthesis extraoral indexing and pick-up technique for mandibular full arch immediate rehabilitation in fibula free flap reconstruction.",
+    "authors": "Betz SJ, Hammer DA, Andersen MR",
+    "journal": "J Prosthodont",
+    "year": 2025,
+    "doi": "10.1111/jopr.13800",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37955229/",
+    "citation_count": 3,
+    "rcr": 2.834174308740779,
+    "abstract": "Same-day ablative and reconstructive surgeries for the treatment of head and neck pathologies are gaining in popularity with the recognition that single-day surgeries reduce morbidity and increase quality of life. Implant-borne prosthetics on the donor graft provide immediate dental reconstruction. This report describes a novel technique for extraoral pickup of a full arch immediate prosthesis from the donor site free flap. This technique minimizes intraoperative occlusal adjustments, saves intraoperative time, prevents undesirable \"rolling\" of a fibula segment, and immediately rehabilitates patients with dental prosthetics.",
+    "abstract_tr": "",
+    "score": 0.7511
+  },
+  {
     "date": "2026-11-04",
     "category": "aesthetic",
     "pmid": "40268767",
