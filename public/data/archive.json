@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-07",
+    "category": "aesthetic",
+    "pmid": "39918162",
+    "title": "Rhinomodelation With Polycarpolactone-A Safer and Effective Solution for the Future.",
+    "authors": "Qureshi KI, Vercesi F, Qureshi HF",
+    "journal": "J Cosmet Dermatol",
+    "year": 2025,
+    "doi": "10.1111/jocd.70001",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39918162/",
+    "citation_count": 4,
+    "rcr": 5.270625291817954,
+    "abstract": "INTRODUCTION: Nonsurgical rhinoplasty or rhinomodelation is a sought-after procedure in aesthetic practice. The current product of choice remains hyaluronic acid (HA) because of its ease of use and reversibility. However, it does carry some risks. Polycaprolactone (PCL) fillers hold a lot of promise in aesthetic practice. It has an established safety profile and a longer duration of action. Because of its unique properties, it may hold the key to the future of nonsurgical rhinomodelation. METHODS: Twelve patients were enrolled in the study. Ten out of these were not willing to ask for surgery and had no breathing problems. Two were post-surgical rhinoplasty complications who did not want another surgery. 0.2 mL of PCL filler was injected at each site according to the need (radix, spine, and or tip). The Global Aesthetic Improvement Scale (GAIS; 3 = very much improved, 2 = considerably improved, 1 = improved, 0 = no change, and -1 = worse) was used along with a patient satisfaction scale (highly satisfied, satisfied, dissatisfied) were used. The sum of the GAIS ratings was quantified as total improvement (TMI). The patients were followed up for 12 months before and 12 months after procedures were taken and documented. RESULTS: The GAIS score was 98% for the study and all patients were highly satisfied with their treatment right after procedure and 12 months later. CONCLUSION: PCL fillers may be the way forward for long-term sustained results in nonsurgical rhinomodelation. Expert injection techniques and knowing the side effects and handling them is mandatory.",
+    "abstract_tr": "",
+    "score": 0.785
+  },
+  {
+    "date": "2026-11-07",
+    "category": "reconstructive",
+    "pmid": "40528539",
+    "title": "The Application of Augmented Reality Technology in Free Flap Reconstruction: A Systematic Review.",
+    "authors": "Wolbert TT, White AE, Han J et al.",
+    "journal": "Microsurgery",
+    "year": 2025,
+    "doi": "10.1002/micr.70080",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40528539/",
+    "citation_count": 3,
+    "rcr": 2.2742587289542135,
+    "abstract": "INTRODUCTION: Augmented reality (AR) is an emerging technology in microsurgery for free flap reconstruction. AR allows surgeons to superimpose preoperative CT images onto the patient, providing real-time insight into the underlying anatomy and aiding in the decision-making process; however, there is limited empirical evidence supporting the effectiveness of this modality. We conducted a systematic review to investigate whether the use of AR devices in free flap reconstruction correlates with improved outcomes. METHODS: A comprehensive search of PubMed, Embase, and Scopus was performed on February 19, 2025. Our search included retrospective and prospective articles that demonstrated the use of AR technology intraoperatively and reported surgical outcomes in any type of free flap reconstruction. The initial search yielded 158 articles, with 8 ultimately included in the study. Articles were reviewed for technical accuracy, surgeon ease of use, operative time, complications, and operative costs. RESULTS: AR can guide surgeons, particularly those with less experience. As surgeons gain a better understanding of perforator locations, they operate with increased confidence and efficiency. AR outperformed Doppler ultrasound in perforator identification, demonstrating higher accuracy during flap planning and dissection. The time required to harvest flaps was significantly shorter when AR was used compared to traditional flap dissection techniques. Compared to computer-aided design and computer-aided manufacturing (CAD/CAM) navigation systems, AR surgical guidance exhibited greater accuracy and required significantly less time for flap design. AR devices surpassed cutting guides in various aspects, including cost savings, reduced preparation time, increased flexibility in surgical plan modification, intraoperative tissue drift, and a more favorable effect on hand-eye coordination. No conclusive postoperative complications were reported. CONCLUSION: The majority of the literature about AR in free flap surgery comes from small clinical studies. Widescale, multi-center studies are necessary to determine the true clinical impact of AR technology in microsurgery.",
+    "abstract_tr": "",
+    "score": 0.8651
+  },
+  {
     "date": "2026-11-06",
     "category": "aesthetic",
     "pmid": "39749943",
