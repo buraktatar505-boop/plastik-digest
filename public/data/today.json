@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "articles": [
     {
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "category": "aesthetic",
-      "pmid": "39552088",
-      "title": "Hyaluronic High Definition Fill Technique.",
-      "authors": "Lourenço LM, Di Sessa D, Tebet ACF et al.",
-      "journal": "J Cosmet Dermatol",
+      "pmid": "39026386",
+      "title": "Advancing Preservation Rhinoplasty: The J-Suture Technique for Refining the Middle Third of the Nose.",
+      "authors": "Levy J, Mathieu O, Cetrulo CL Jr et al.",
+      "journal": "Plast Reconstr Surg",
       "year": 2025,
-      "doi": "10.1111/jocd.16692",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39552088/",
-      "citation_count": 3,
-      "rcr": 3.812475726028253,
-      "abstract": "INTRODUCTION: Achieving a defined abdomen through traditional surgical methods like liposuction and abdominoplasty involves risks and significant downtime. Hyaluronic acid (HA) body filling has emerged as a minimally invasive alternative, offering immediate results with reduced recovery periods. PATIENTS AND METHODS: The high-definition abdomen through HA technique (HHD) was implemented on young men with BMI < 24.9, excluding those with obesity or excessive skin laxity. HA gel with large particle sizes (800-1800 μm) and high G prime was chosen based on subcutaneous thickness. Injections were guided by ultrasound into the lamellar fat layer between Camper's fascia and Scarpa's fascia, targeting abdominal metameres for enhancement. Participants completed the Global Aesthetic Improvement Scale. RESULTS: The technique produced satisfactory outcomes, enhancing abdominal metamere definition. Mild post-procedural hematomas and transient discomfort were noted. At 10 months, 71.4% of patients reported \"much improved,\" and 28.6% reported \"improved,\" per the GAIS questionnaire. DISCUSSION: Customizing HA characteristics and employing ultrasound guidance ensured safe and precise injections, minimizing vascular risks. Limitations such as HA's temporary nature and exclusions for surgical candidates were acknowledged. CONCLUSION: HHD using large particle HA proved effective in achieving aesthetic abdominal enhancements with minimal risks and downtime. This technique not only provided immediate results but also contributed to enhanced patient satisfaction and self-esteem. Further research is needed to explore broader applications and refine outcomes across diverse patient groups.",
+      "doi": "10.1097/PRS.0000000000011647",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39026386/",
+      "citation_count": 2,
+      "rcr": 2.6192258317552595,
+      "abstract": "This article introduces a novel technique for refining the middle third of the nose in preservation rhinoplasty, adhering to the principles established by Teoman Dogan. The technique, applicable through both open and closed approaches, maintains the integrity of the nasal dorsum. The J-suture technique is particularly significant for addressing the widening of the middle third of the nose, a common issue in preservation rhinoplasty. This technique uses an absorbable percutaneous suture, allowing for the approximation of the upper lateral cartilages and thus thinning of the middle third of the nose. The authors discuss the technical aspects and advantages of the J-suture, emphasizing its simplicity, predictability, reproducibility, and ease of execution. The technique, requiring minimal training, can be adopted by any surgeon practicing preservation rhinoplasty. The J-suture represents a significant advancement in preservation rhinoplasty, providing a practical solution for enhancing nasal aesthetics, minimizing surgical trauma, and promoting patient well-being.",
       "abstract_tr": "",
-      "score": 0.7225
+      "score": 0.7232
     },
     {
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "category": "reconstructive",
-      "pmid": "41350686",
-      "title": "Functional tongue reconstruction using innervated TDAP versus ALT free flaps: a retrospective paired-cohort study.",
-      "authors": "Wu F, Xia X, Zhu C et al.",
-      "journal": "Head Face Med",
+      "pmid": "39244025",
+      "title": "Recent developments in delirium after oral and maxillofacial free-flap reconstruction.",
+      "authors": "Zhang R, Zhang W, Ren Y et al.",
+      "journal": "J Stomatol Oral Maxillofac Surg",
       "year": 2025,
-      "doi": "10.1186/s13005-025-00572-z",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41350686/",
-      "citation_count": 2,
-      "rcr": 2.9297609862340024,
-      "abstract": "OBJECTIVES: To compare the postoperative complications, speech function, quality of life (QoL), overall clinical outcomes and flap volume loss of tongue reconstruction using anterolateral thigh (ALT) versus innervated-thoracodorsal artery perforator (iTDAP) flaps following hemiglossectomy for tongue squamous cell carcinoma (TSCC). MATERIALS AND METHODS: Clinical data of 130 TSCC patients who underwent tongue reconstruction with ALT or iTDAP flaps were retrospectively analyzed. We compared two types of free flaps in terms of their characteristics and associated postoperative complications (including fistula, hematoma, infection, dehiscence and lower-limb venous thrombosis). Flap volume loss was assessed based on intraoperative and postoperative measurements. The University of Washington Quality of Life (UW-QOL) questionnaire, Speech Handicap Index (SHI) questionnaire and Vancouver Scar Scale (VSS) were used to evaluate quality of life (QoL), speech function and scar appearance at 3, 6 and 12 months postoperatively. RESULTS: The harvest time and length of the vascularized pedicle with vessels of a similar diameter were similar between the iTDAP and ALT groups (p > 0.05). Additionally, the postoperative complication rate and scar appearance were not significantly different between patients who underwent reconstruction with iTDAP flaps and those who underwent reconstruction with ALT flaps (p > 0.05). Notably, iTDAP flap recipients presented significantly improved QoL scores, higher SHI scores and shorter durations of bed rest (p < 0.05). Furthermore, flap volume loss was significantly lower in the iTDAP group compared with the ALT group (p < 0.05). CONCLUSION: ITDAP flaps provide similar safety and complication rates as ALT flaps while offering better quality of life, improved speech function, shorter recovery times and lower flap volume loss, making them a viable alternative for functional tongue reconstruction. TRIAL REGISTRATION: The study was retrospectively registered at ClinicalTrials.gov (registration number: NCT06599801) on September 30, 2024.",
+      "doi": "10.1016/j.jormas.2024.102045",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39244025/",
+      "citation_count": 3,
+      "rcr": 2.1008211938381205,
+      "abstract": "Postoperative delirium (POD), a common complication following surgery and anesthesia, is particularly prone to occur after reconstruction surgery in the oral and maxillofacial region. The occurrence of POD seriously affects the incidence of postoperative complications, the survival of free flaps, the length of hospital stays, and brings great pain to patients and their families, and even increases perioperative mortality. Currently, a large number of studies have reported on the risk factors for POD after oral and maxillofacial free-flap reconstruction. Multiple independent risk factors have been identified, including age, history of excessive alcohol consumption, and perioperative nutritional status. This review summarizes the relevant literature and hopes to provide insights for the prevention of POD in high-risk patients.",
       "abstract_tr": "",
-      "score": 0.6888
+      "score": 0.7658
     }
   ]
 }
