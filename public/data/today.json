@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "articles": [
     {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "category": "aesthetic",
-      "pmid": "39026386",
-      "title": "Advancing Preservation Rhinoplasty: The J-Suture Technique for Refining the Middle Third of the Nose.",
-      "authors": "Levy J, Mathieu O, Cetrulo CL Jr et al.",
-      "journal": "Plast Reconstr Surg",
+      "pmid": "39505477",
+      "title": "The Pinch Blepharoplasty.",
+      "authors": "Rosenfield LK, Pourriyahi H",
+      "journal": "Clin Plast Surg",
       "year": 2025,
-      "doi": "10.1097/PRS.0000000000011647",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39026386/",
-      "citation_count": 2,
-      "rcr": 2.6192258317552595,
-      "abstract": "This article introduces a novel technique for refining the middle third of the nose in preservation rhinoplasty, adhering to the principles established by Teoman Dogan. The technique, applicable through both open and closed approaches, maintains the integrity of the nasal dorsum. The J-suture technique is particularly significant for addressing the widening of the middle third of the nose, a common issue in preservation rhinoplasty. This technique uses an absorbable percutaneous suture, allowing for the approximation of the upper lateral cartilages and thus thinning of the middle third of the nose. The authors discuss the technical aspects and advantages of the J-suture, emphasizing its simplicity, predictability, reproducibility, and ease of execution. The technique, requiring minimal training, can be adopted by any surgeon practicing preservation rhinoplasty. The J-suture represents a significant advancement in preservation rhinoplasty, providing a practical solution for enhancing nasal aesthetics, minimizing surgical trauma, and promoting patient well-being.",
+      "doi": "10.1016/j.cps.2024.07.002",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39505477/",
+      "citation_count": 3,
+      "rcr": 3.7638316976259794,
+      "abstract": "This article's raison d'etre is simple: to deliver a decidedly lucid and sanguinely compelling description of a lower eyelid surgical rejuvenation strategy. By bestowing the surgeon greater control of the lower eyelid, a more esthetic result with fewer complications can be reliably delivered. The pinch blepharoplasty does so by offering 3 unique advantages: First, it respects and preserves both esthetic and functional eyelid posture. Second, it treats the excess eyelid skin and wrinkles comprehensively. And third, it simultaneously addresses the orbital and nasojugal grooves.",
       "abstract_tr": "",
-      "score": 0.7232
+      "score": 0.7225
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "category": "reconstructive",
-      "pmid": "39244025",
-      "title": "Recent developments in delirium after oral and maxillofacial free-flap reconstruction.",
-      "authors": "Zhang R, Zhang W, Ren Y et al.",
-      "journal": "J Stomatol Oral Maxillofac Surg",
-      "year": 2025,
-      "doi": "10.1016/j.jormas.2024.102045",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39244025/",
-      "citation_count": 3,
-      "rcr": 2.1008211938381205,
-      "abstract": "Postoperative delirium (POD), a common complication following surgery and anesthesia, is particularly prone to occur after reconstruction surgery in the oral and maxillofacial region. The occurrence of POD seriously affects the incidence of postoperative complications, the survival of free flaps, the length of hospital stays, and brings great pain to patients and their families, and even increases perioperative mortality. Currently, a large number of studies have reported on the risk factors for POD after oral and maxillofacial free-flap reconstruction. Multiple independent risk factors have been identified, including age, history of excessive alcohol consumption, and perioperative nutritional status. This review summarizes the relevant literature and hopes to provide insights for the prevention of POD in high-risk patients.",
+      "pmid": "36086933",
+      "title": "Comparison of outcomes between single- and multiple-perforator-based free perforator flaps: A systematic review and meta-analysis.",
+      "authors": "Yin SC, Liu YH, Shi C et al.",
+      "journal": "Microsurgery",
+      "year": 2023,
+      "doi": "10.1002/micr.30955",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36086933/",
+      "citation_count": 5,
+      "rcr": 1.564577274687382,
+      "abstract": "BACKGROUND: Perforator-based free perforator flaps have become an important tool for the reconstruction of tissue defects. The effect of the number of perforators on the outcomes of perforator flaps has been widely debated. This study aimed to compare the outcomes of single- and multiple-perforator-based free perforator flaps in free-flap reconstruction. METHODS: We searched PubMed, Web of Science, EMBASE, Chinese BioMedical Literature Database (CBM), Cochrane Library, and clinicaltrials.gov between January 2000 and June 2021 to identify studies that reported data on the outcomes of free perforator flaps. Two authors individually extracted data and performed quality assessment. Outcomes, including partial flap loss, total loss, fat necrosis, arterial insufficiency, venous insufficiency, hemorrhage and hematoma, wound dehiscence at recipient sites and donor site complications, were evaluated. RESULTS: Thirty-two studies with 2498 flaps were included in our analysis. No significant difference was found in the rates of partial loss and arterial insufficiency of flaps, hemorrhage and hematoma, wound dehiscence at recipient sites and donor site complications. However, the multiple-perforator group showed significantly lower rates of total loss (relative risk [RR] = 1.08, 95% confidence interval [CI]: 0.78-1.79, p = .754), fat necrosis (RR = 1.79, 95% [CI]: 1.36-2.36, p = .000) and venous insufficiency (RR = 1.72, 95% CI: 1.07-2.79, p = .026) than the single-perforator group. CONCLUSION: The rates of total loss, fat necrosis and venous insufficiency in the multiple-perforator group were lower than those in the single-perforator group. Hence, we recommend that multiple perforators be included in the free perforator flap when appropriate, to yield better clinical outcomes in reconstruction.",
       "abstract_tr": "",
-      "score": 0.7658
+      "score": 0.7218
     }
   ]
 }
