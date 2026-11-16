@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-16",
+    "category": "aesthetic",
+    "pmid": "38226953",
+    "title": "Comparative analysis of surgical modalities for the gynecomastia treatment: efficiency and aesthetic outcomes.",
+    "authors": "Chen D, Chen J, Huang Y et al.",
+    "journal": "Andrology",
+    "year": 2024,
+    "doi": "10.1111/andr.13591",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38226953/",
+    "citation_count": 3,
+    "rcr": 2.0725415391902366,
+    "abstract": "This retrospective study rigorously compares the clinical efficacy of three surgical methodologies for treating gynecomastia while providing guidance for future surgical modality selection. We analyzed records of 77 gynecomastia patients treated between January 2015 and October 2022. Patients were categorized into three groups: Group A (subcutaneous gland resection via areola incision), Group B (liposuction combined with single-hole endoscopic gland resection), and Group C (liposuction combined with three-hole endoscopic gland resection). Parameters assessed included patient demographics, intraoperative bleeding, surgical duration, hospitalization duration, costs, postoperative drainage, complications, and patient satisfaction. Group A had significantly shorter operation time and lower cost than Groups B and C (P < 0.05). There were no significant differences in postoperative drainage (P > 0.05). Group A had a higher incidence of subcutaneous fluid complications. All groups achieved 100% overall postoperative efficiency. Group B demonstrated superior outcomes for scarring and patient satisfaction. All three surgical modalities effectively treat gynecomastia. Circumareolar incision subcutaneous gland resection is optimal for mild to moderate cases due to reduced operation time and cost. Liposuction with single-hole endoscopic gland resection and three-hole endoscopic gland resection offers fewer complications and discreet incisions. Notably, the liposuction and single-hole endoscopic approach yielded superior postoperative patient satisfaction, aligning with minimally invasive principles and warranting broad clinical application.",
+    "abstract_tr": "",
+    "score": 0.6097
+  },
+  {
+    "date": "2026-11-16",
+    "category": "reconstructive",
+    "pmid": "36161548",
+    "title": "An Algorithmic Approach to Umbilical Inset during DIEP Flap Reconstruction.",
+    "authors": "Schultz KP, Mentz JA, Reece E et al.",
+    "journal": "Plast Reconstr Surg",
+    "year": 2022,
+    "doi": "10.1097/PRS.0000000000009698",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36161548/",
+    "citation_count": 6,
+    "rcr": 1.1612690490792406,
+    "abstract": "An aesthetically pleasing umbilicus is a critical component to the overall cosmesis and resultant patient satisfaction after deep inferior epigastric artery perforator (DIEP) flap breast reconstruction. Because of variables in body habitus, comorbidities, and technical aspects of the procedure, patients undergoing DIEP flap breast reconstruction are at a higher risk of umbilical complications and poor aesthetic appearance of the neoumbilicus compared with those undergoing cosmetic abdominoplasty. To minimize these potential problems and maximize the overall aesthetic appearance of the abdomen, the authors propose an algorithmic approach to umbilical inset after DIEP flap harvest that takes into account several critical factors: the thickness of the subcutaneous tissue of the abdominal flap, the length of the umbilical stalk, and the depth of the umbilical bowl. This simple algorithmic approach is a useful tool that will assist surgeons in minimizing umbilical complications and delivering a superior cosmetic appearance to the abdominal donor site in DIEP flap reconstruction.",
+    "abstract_tr": "",
+    "score": 0.6426
+  },
+  {
     "date": "2026-11-15",
     "category": "aesthetic",
     "pmid": "40389234",
