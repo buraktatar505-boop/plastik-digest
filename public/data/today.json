@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "articles": [
     {
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "category": "aesthetic",
-      "pmid": "39263865",
-      "title": "Zoom Boom or Bust? Understanding Post-Pandemic Interest in Facial Plastic Surgery via Google Trends.",
-      "authors": "Liao D, Lee M, Shomorony A et al.",
-      "journal": "Laryngoscope",
-      "year": 2025,
-      "doi": "10.1002/lary.31753",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39263865/",
-      "citation_count": 5,
-      "rcr": 4.292328982196233,
-      "abstract": "OBJECTIVE: To understand post-pandemic interest in plastic surgery procedures via Joinpoint analysis of Google Trends search data. METHODS: Google Trends was used to quantify search volumes from January 2019-December 2022 for select cosmetic face and body procedures in the United States. A keyword analytic tool (Keywords Everywhere) extracted absolute search volumes (average monthly searches). Joinpoint analysis assessed search trends over time reported as monthly percentage change (MPC). RESULTS: All procedures queried, including a non-cosmetic control (cataract surgery), demonstrated expected declines at the start of the COVID-19 pandemic. Blepharoplasty, face lift, neck lift, and Botox demonstrated statistically significant increase in search volumes that remained elevated relative to pre-pandemic levels. Rhinoplasty, fillers, and abdominoplasty interest increased initially followed by return to pre-pandemic levels by the end of 2022. The remainder of search terms did not show a clear temporal associated with COVID-19 lockdowns. CONCLUSION: The \"Zoom Boom\" appears to be a real phenomenon reflected by sustained increase in public interest in relation to facial plastic procedures. LEVEL OF EVIDENCE: NA Laryngoscope, 135:657-664, 2025.",
+      "pmid": "35439819",
+      "title": "The Racial Representation of Cosmetic Surgery Patients and Physicians on Social Media.",
+      "authors": "Ullrich PJ, Garg S, Reddy N et al.",
+      "journal": "Aesthet Surg J",
+      "year": 2022,
+      "doi": "10.1093/asj/sjac099",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35439819/",
+      "citation_count": 11,
+      "rcr": 1.8133946563970915,
+      "abstract": "BACKGROUND: Aggregated data show that Black patients undergo disproportionately lower rates of cosmetic surgery than their Caucasian counterparts. Similarly, laboratory findings indicate that social media representation is lower among Black patients for breast reconstruction surgery, and it is expected that this could be the case in cosmetic surgery as well. OBJECTIVES: The aim of this study was to explore the social media representation of Black patients and physicians in the 5 most common cosmetic surgery procedures: rhinoplasty, blepharoplasty, abdominoplasty, breast augmentation, and liposuction. METHODS: Data were collected from RealSelf (Seattle, WA), the most popular social media site for sharing cosmetic surgery outcomes. The skin tone of 1000 images of patients in each of the top 5 cosmetic surgeries was assessed according to the Fitzpatrick scale, a commonly utilized skin tone range. Additionally, the Fitzpatrick scores of 72 providers who posted photographs within each surgical category were collected. RESULTS: Black patients and providers are underrepresented in rhinoplasty, blepharoplasty, breast augmentation, and liposuction compared with the general population (defined by the US Census Bureau), but were proportionately represented in abdominoplasty. Additionally, it was found that patients most often matched Fitzpatrick scores when both had scores of 2, whereas patients with a score of 5 and 6 rarely matched their provider's score. CONCLUSIONS: The underrepresentation of Black patients and providers in social media for cosmetic surgery may well discourage Black patients from pursuing cosmetic surgeries. Therefore, it is essential to properly represent patients to encourage patients interested in considering cosmetic surgery.",
       "abstract_tr": "",
-      "score": 0.785
+      "score": 0.6299
     },
     {
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "category": "reconstructive",
-      "pmid": "39336473",
-      "title": "The Free Flap Reconstruction of Facial Defects after Squamous Cell Carcinoma Excision.",
-      "authors": "Lee TY, Lee S, Eun S",
-      "journal": "Medicina (Kaunas)",
+      "pmid": "38713934",
+      "title": "Microvascular anastomosis in head and neck free flap reconstruction using the RoboticScope.",
+      "authors": "De Virgilio A, Pace GM, Costantino A et al.",
+      "journal": "Am J Otolaryngol",
       "year": 2024,
-      "doi": "10.3390/medicina60091432",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39336473/",
-      "citation_count": 5,
-      "rcr": 1.5126728210446705,
+      "doi": "10.1016/j.amjoto.2024.104363",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38713934/",
+      "citation_count": 3,
+      "rcr": 1.819265225906184,
       "abstract": "",
       "abstract_tr": "",
-      "score": 0.6365
+      "score": 0.6354
     }
   ]
 }
