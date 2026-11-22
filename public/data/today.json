@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "articles": [
     {
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "category": "aesthetic",
-      "pmid": "37336165",
-      "title": "Assessing outcomes from rhinoplasty using clinical and patient reported measures (FACE-Q™).",
-      "authors": "Citron I, Townley W",
+      "pmid": "34930704",
+      "title": "Efficacy and Safety of External Volume Expansion (EVE) on Fat Grafting: A Systematic Review and Single-Arm Meta-Analysis.",
+      "authors": "Qin Z, Yu Z, Song B",
       "journal": "J Plast Reconstr Aesthet Surg",
-      "year": 2023,
-      "doi": "10.1016/j.bjps.2023.04.091",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37336165/",
-      "citation_count": 3,
-      "rcr": 1.3192724632910153,
-      "abstract": "AIM: To assess the effect of cosmetic rhinoplasty on PROMS using the FACE-Q™ tool. METHODS: Between July 2020 and February 2022 all patients undergoing rhinoplasty by a single surgeon were approached pre-operatively and 6 months post-operatively to complete the Face-Q™ \"Satisfaction with Nose\" module. Post-operative patients were asked to complete the FACE-Q™ \"Satisfaction with Outcome\" module. RESULTS: One hundred and sixty-five patients underwent rhinoplasty (147 primary, 18 revisions). Eighty two percent (n = 135) completed a pre-operative \"Satisfaction with Nose\" module. Thirty three percent (n = 54) completed the full pre and post- operative dataset. The mean pre-operative \"Satisfaction with Nose\" score was 32.88 (± 8.40). The mean post-operative \"Satisfaction with Nose\" score was 77.45 (SD17.26) and \"Satisfaction with Outcome\" score was 75.27(SD 21.88). The mean change in score 133% (SD 63%). Seventy-seven percent of patients were \"very satisfied\" or \"somewhat satisfied\" across all 10 aspects of the nose. The tip had the lowest post-operative satisfaction with 19% of patients somewhat or very dissatisfied. CONCLUSION: Rhinoplasty generates significant improvements in PROMS and satisfaction is high, an important positive finding for patients considering surgery. Routine collection of PROMS for rhinoplasty can inform practice and guide expectations as to its psychological impact.",
+      "year": 2022,
+      "doi": "10.1016/j.bjps.2021.11.032",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34930704/",
+      "citation_count": 7,
+      "rcr": 1.0800816777443112,
+      "abstract": "BACKGROUND: The autologous fat grafting is commonly used for reconstructive or aesthetic purposes. However, due to the huge variation in methods, its retention rate varies a lot. External volume expansion (EVE) has been used to treat recipient sites of fat grafting. Concerns have been raised regarding its efficacy and safety. METHODS: We have searched PubMed, EMBASE, and the Cochrane Library for studies on EVE-assisted fat grafting published from 2000 to 2020. A meta-analysis was conducted to pool the retention rate. The incidence of complications was assessed for reconstructive or aesthetic purposes. RESULTS: The 11 included studies involved 1152 patients with operations on 1794 breasts. Four studies were included in the meta-analysis. The pooled retention rate was 65% [95%CI 49, 79]. Eight studies reported the complications. The total complication incidence was 34%, which is 35% for the aesthetic group and 33% for the reconstructive group. The complication rate was not obviously different between the two groups. CONCLUSIONS: The study shows that the EVE-assisted fat grafting has better retention rate than traditional fat grafting. However, the data showed that the complication rate was much higher in the EVE-assisted group.",
       "abstract_tr": "",
-      "score": 0.6454
+      "score": 0.6179
     },
     {
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "category": "reconstructive",
-      "pmid": "37478651",
-      "title": "Drain-free donor site in Deep Inferior Epigastric Perforator free flap: A single-surgeon experience.",
-      "authors": "Brennan C, Katsura C, Whitehouse H et al.",
+      "pmid": "37003072",
+      "title": "Strategy for resurfacing complex extremity defect with chimeric, linked flaps: A review with a 10-year experience at major trauma center.",
+      "authors": "Choi JS, An JK, Park JA et al.",
       "journal": "J Plast Reconstr Aesthet Surg",
       "year": 2023,
-      "doi": "10.1016/j.bjps.2023.01.011",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37478651/",
+      "doi": "10.1016/j.bjps.2023.02.027",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37003072/",
       "citation_count": 3,
-      "rcr": 1.1967848296023962,
-      "abstract": "Donor-site seroma and wound dehiscence in Deep Inferior Epigastric Perforator (DIEP) free flaps can be problematic. The value of donor-site drains is debated, with alternative closure techniques demonstrating good outcomes. However, no literature exists on patient outcomes in which no drain or dead space reduction technique is used. The senior author of this paper has opted for a drain-free, simple layered closure without adjuncts since 2016. We evaluate the outcomes of this technique against the literature. A single-center, single-surgeon, prospective study of all DIEP flap breast reconstruction between January 2016 and March 2020, whereby the donor site was closed without drains or alternative dead space reduction measures. One hundred and thirty-eight patients with a mean age of 50.72±9.16 (range 26-73) underwent DIEP breast reconstruction (78% unilateral (n = 107), 22% bilateral (n = 31). The incidence of drain-free specific donor-site complications was 9.4%, with wound breakdown being the most common (9/138, 6.5%). However, only one patient required secondary closure. The average length of hospital stay was 4.2±1 days (range 2-9). Abdominal drains may serve as a psychological barrier for patients in expediting discharge and can be painful and cumbersome. This translates into significant cost implications. Evidence suggests that superior outcomes are achieved when dead space-reducing adjuncts rather than drains are used. However, our data suggest that DIEP donor sites can also be safely closed without these adjuncts, which may unnecessarily lengthen procedure time, consume more resources, and increase localized foreign body tissue reactions, without good indication.",
+      "rcr": 1.1784593548568312,
+      "abstract": "For the reconstruction of the extensive and/or three-dimensional soft-tissue defect in upper and lower extremities, chimeric flaps composed of multiple flaps or tissues with separate vascular supplies can supply economical use of tissue and superior esthetic results. Herein, we investigated the effectiveness of the thoracodorsal axis chimeric flap through the review the largest collection of long-term data. A retrospective review of all patients who received the thoracodorsal axis chimeric flap in complex three-dimensional defects of extremities between January of 2012 and December of 2021. A total of 55 type I/IP classical chimeric flaps, 19 type II/IIP anastomotic chimeric flaps, five type III perforator chimeric flaps, and seven type IV mixed chimeric flaps were analyzed. As the reconstructed area became proximal, flap dimensions increased significantly. And the optimal flap type depended on the location. The TDAp flap can provide large dimensions of skin paddle with latissimus dorsi and serratus anterior muscles with acceptable donor-site morbidities. The TDAp chimeric flaps constructed by microvascular anastomosis of two free flaps can provide large skin dimensions but also tissues with different properties. These characteristics make it possible to resurface the large and extensive defects, reconstruct the complex distal extremity defects, needing tissues with different properties, and cover the three-dimensional defect, obliterating the dead space. The thoracodorsal axis chimeric flap could be a favorable option for extensive, complex, or three-dimensional defects of the upper and lower extremities based on its reliability of the vascular system.",
       "abstract_tr": "",
-      "score": 0.6478
+      "score": 0.643
     }
   ]
 }
