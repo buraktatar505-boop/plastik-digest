@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "articles": [
     {
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "category": "aesthetic",
-      "pmid": "34930704",
-      "title": "Efficacy and Safety of External Volume Expansion (EVE) on Fat Grafting: A Systematic Review and Single-Arm Meta-Analysis.",
-      "authors": "Qin Z, Yu Z, Song B",
-      "journal": "J Plast Reconstr Aesthet Surg",
-      "year": 2022,
-      "doi": "10.1016/j.bjps.2021.11.032",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34930704/",
-      "citation_count": 7,
-      "rcr": 1.0800816777443112,
-      "abstract": "BACKGROUND: The autologous fat grafting is commonly used for reconstructive or aesthetic purposes. However, due to the huge variation in methods, its retention rate varies a lot. External volume expansion (EVE) has been used to treat recipient sites of fat grafting. Concerns have been raised regarding its efficacy and safety. METHODS: We have searched PubMed, EMBASE, and the Cochrane Library for studies on EVE-assisted fat grafting published from 2000 to 2020. A meta-analysis was conducted to pool the retention rate. The incidence of complications was assessed for reconstructive or aesthetic purposes. RESULTS: The 11 included studies involved 1152 patients with operations on 1794 breasts. Four studies were included in the meta-analysis. The pooled retention rate was 65% [95%CI 49, 79]. Eight studies reported the complications. The total complication incidence was 34%, which is 35% for the aesthetic group and 33% for the reconstructive group. The complication rate was not obviously different between the two groups. CONCLUSIONS: The study shows that the EVE-assisted fat grafting has better retention rate than traditional fat grafting. However, the data showed that the complication rate was much higher in the EVE-assisted group.",
+      "pmid": "38902340",
+      "title": "Redefining Abdominal Contours: An Analysis of Medium Definition Liposuction Abdominoplasty.",
+      "authors": "Borille G, Giannini R, Zancanaro M et al.",
+      "journal": "Aesthetic Plast Surg",
+      "year": 2024,
+      "doi": "10.1007/s00266-024-04058-2",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38902340/",
+      "citation_count": 3,
+      "rcr": 1.8102723182151002,
+      "abstract": "INTRODUCTION: This study elucidates the application of Medium Definition Liposuction Abdominoplasty, a novel technique for achieving well-defined abdominal contours. The technique focuses on revealing the patient's inherent muscular volume and form by creating thinner flaps compared to traditional liposuction methodologies. METHODS: Objective evaluations of the abdominal wall's configuration were systematically executed both pre- and post-intervention for each participant. Digital image measurements facilitated by an image software constituted the basis for these assessments. The Body Fat Index was computed using precise measurements from seven distinct anatomical sites, with two measurements taken at each site and subsequently averaged. RESULTS: Over a span of 63 months, 300 patients underwent this combined procedure, resulting in discernible enhancements in the configuration of their abdominal walls in 97.6% of cases. However, complications such as partial diminution of tension in the muscular wall (2%), distal flap necrosis (0.6%), and minor muscular hernia (0.3%) were observed. CONCLUSION: The employment of combined muscle plication emerges as an efficacious methodology in meticulously rectifying alterations inherent within the muscular aponeurotic abdominal wall. This technique ensures the preservation of the original anatomical structure and functional dynamics, thereby circumventing the manifestation of local distortions that may arise from inadequate or excessive corrections. BULLET POINTS: The study introduces a novel technique, Medium Definition Liposuction Abdominoplasty, for achieving well-defined abdominal contours. This technique focuses on revealing the patient's inherent muscular volume and form by creating thinner flaps compared to traditional liposuction methodologies. Objective evaluations of the abdominal wall's configuration were systematically executed both pre- and post-intervention for each participant. The Body Fat Index was computed using precise measurements from seven distinct anatomical sites. Over a span of 63 months, 300 patients underwent this combined procedure, resulting in discernible enhancements in the configuration of their abdominal walls in 97.6% of cases. This technique ensures the preservation of the original anatomical structure and functional dynamics, thereby circumventing the manifestation of local distortions that may arise from inadequate or excessive corrections. LEVEL OF EVIDENCE III: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
       "abstract_tr": "",
-      "score": 0.6179
+      "score": 0.6137
     },
     {
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "category": "reconstructive",
-      "pmid": "37003072",
-      "title": "Strategy for resurfacing complex extremity defect with chimeric, linked flaps: A review with a 10-year experience at major trauma center.",
-      "authors": "Choi JS, An JK, Park JA et al.",
-      "journal": "J Plast Reconstr Aesthet Surg",
-      "year": 2023,
-      "doi": "10.1016/j.bjps.2023.02.027",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37003072/",
-      "citation_count": 3,
-      "rcr": 1.1784593548568312,
-      "abstract": "For the reconstruction of the extensive and/or three-dimensional soft-tissue defect in upper and lower extremities, chimeric flaps composed of multiple flaps or tissues with separate vascular supplies can supply economical use of tissue and superior esthetic results. Herein, we investigated the effectiveness of the thoracodorsal axis chimeric flap through the review the largest collection of long-term data. A retrospective review of all patients who received the thoracodorsal axis chimeric flap in complex three-dimensional defects of extremities between January of 2012 and December of 2021. A total of 55 type I/IP classical chimeric flaps, 19 type II/IIP anastomotic chimeric flaps, five type III perforator chimeric flaps, and seven type IV mixed chimeric flaps were analyzed. As the reconstructed area became proximal, flap dimensions increased significantly. And the optimal flap type depended on the location. The TDAp flap can provide large dimensions of skin paddle with latissimus dorsi and serratus anterior muscles with acceptable donor-site morbidities. The TDAp chimeric flaps constructed by microvascular anastomosis of two free flaps can provide large skin dimensions but also tissues with different properties. These characteristics make it possible to resurface the large and extensive defects, reconstruct the complex distal extremity defects, needing tissues with different properties, and cover the three-dimensional defect, obliterating the dead space. The thoracodorsal axis chimeric flap could be a favorable option for extensive, complex, or three-dimensional defects of the upper and lower extremities based on its reliability of the vascular system.",
+      "pmid": "35488469",
+      "title": "Postoperative consequences of cancer cachexia after head and neck free flap reconstruction.",
+      "authors": "Jones AJ, Davis KP, Novinger LJ et al.",
+      "journal": "Head Neck",
+      "year": 2022,
+      "doi": "10.1002/hed.27072",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35488469/",
+      "citation_count": 13,
+      "rcr": 1.3274156672327746,
+      "abstract": "BACKGROUND: Cachexia is detrimental for patients with head and neck cancer (HNC). However, postoperative consequences of HNC cachexia remain unknown. METHODS: A 2014-2019 retrospective review was performed of adults undergoing aerodigestive HNC resection with free tissue reconstruction. Propensity score matching using inverse probability of treatment weighting (IPTW) of cachectic and control groups was employed to adjust for covariate imbalances followed by binary logistic regression on postoperative outcomes. RESULTS: Out of 252 total patients, 135 (53.6%) had cancer cachexia. The cohort was predominantly white (94.4%) males (65.1%) aged 61.5 ± 11.5 years with stage III-IV (84.1%) malignancy of the oral cavity (66.3%). After matching cohort pre- and intra-operative covariates using IPTW, cancer cachexia remained a strong, significant predictor of serious National Surgical Quality Improvement Program (NSQIP) complications (OR [95%CI] = 3.84 [1.80-8.21]) and major Clavien-Dindo complications (OR [95%CI] = 3.00 [1.18-7.60]). CONCLUSIONS: Cancer cachexia is associated with worse HNC free flap reconstruction outcomes.",
       "abstract_tr": "",
-      "score": 0.643
+      "score": 0.6404
     }
   ]
 }
