@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-25",
+    "category": "aesthetic",
+    "pmid": "35690944",
+    "title": "Patterns in Academic Cosmetic Surgery Practice: Population Differences and Procedure Preferences.",
+    "authors": "Moore R, Zilinskas K, Tarabishy S et al.",
+    "journal": "Ann Plast Surg",
+    "year": 2022,
+    "doi": "10.1097/SAP.0000000000003159",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35690944/",
+    "citation_count": 6,
+    "rcr": 1.009808350084431,
+    "abstract": "PURPOSE: Although growth in cosmetic surgery remains constant in the private setting, academic cosmetic surgery practices are often underdeveloped. Our study aims to determine which patient populations access academic cosmetic surgery services. METHODS: The 2018 Health Care Utilization Project Nationwide Ambulatory Surgery Sample database was used for data analysis. Encounters for the following American Society of Plastic Surgery top 5 procedures for 2020 were selected: blepharoplasty, breast augmentation, liposuction, rhinoplasty, and rhytidectomy. Patient encounter data were collected because it relates to median income, geographic location, and primary payer status. RESULTS: The 2018 Nationwide Ambulatory Surgery Sample data set contained 44,078 encounters at academic surgical centers for the procedures listed previously. Low-income patients account for 13.7% of academic cosmetic surgery encounters compared with 37.9% for high-income patients. Breast augmentation rates are higher among low-income patients (20.5% vs 17.2%, P < 0.001), and high-income patients undergo rhytidectomy more frequently (5.7% vs 3.0%, P < 0.001). In the academic setting, patients from large metropolitan areas encompass the majority of cosmetic encounters (71.0%), and these patients are more likely to proceed with rhinoplasty, rhytidectomy, and liposuction procedures (P < 0.001). Patients from smaller metropolitan areas undergo blepharoplasty more frequently compared with those from larger metropolitan areas (56.4% vs 41.8%, P < 0.001). Self-pay and privately insured patients comprise the majority of academic cosmetic surgery encounters (40.8% and 29.9%, respectively). Eighty-eight percent of Medicare patients within this cohort underwent blepharoplasty, whereas self-pay patients accessed breast augmentation, liposuction, and rhytidectomy more often than other insured patients. CONCLUSIONS: Income status, patient location, and primary payer status play an important role in academic cosmetic surgery access rates and procedure preferences. Academic cosmetic practices can use these insights to tailor their services to the populations they serve.",
+    "abstract_tr": "",
+    "score": 0.607
+  },
+  {
+    "date": "2026-11-25",
+    "category": "reconstructive",
+    "pmid": "35576016",
+    "title": "Fibula free flap perforasomes: vascular anatomical study and clinical applications.",
+    "authors": "Poulet V, Prevost A, Cavallier Z et al.",
+    "journal": "Surg Radiol Anat",
+    "year": 2022,
+    "doi": "10.1007/s00276-022-02953-4",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35576016/",
+    "citation_count": 8,
+    "rcr": 1.6463144175184972,
+    "abstract": "PURPOSE: This study assesses the anatomical features of the cutaneous fibular perforators and perforasomes of fibular free flap to determine the clinical implications therein. METHODS: This anatomical study was performed with 16 fresh cadavers after selective arterial injections of inked serum. The numbers of perforators, diameter, location of the perforasome center, perforator course, the distance between perforator origin and tibiofibular division, and the perforasome area were all documented. RESULTS: Thirty-one lower legs were dissected. Eighty-eight cutaneous perforators were found, averaging 2.8 per leg (1-4). The mean diameter was 1.7 mm and decreased from proximal to distal (p < 0.001). The centers of the perforasomes were aligned on an oblique projection from proximal to distal and anterior to posterior. Seventeen perforators (19%) were musculocutaneous, all in the proximal half of the leg, whereas 71 perforators were septocutaneous (81%), including 18 in the proximal half of the leg. Six of the uppermost perforators originated from the fibular artery less than 10 mm from the tibiofibular division. The mean area perforasome was 37.2 cm CONCLUSION: Distal and proximal fibular flap perforasomes sported different features. Large skin paddles supplied by large and often intramuscular perforators were found in the proximal half of the leg. Distal skin paddles were smaller, more posterior, and featured septocutaneous perforators. These factors should be considered in the skin paddle choice during the fibular free flap harvest.",
+    "abstract_tr": "",
+    "score": 0.615
+  },
+  {
     "date": "2026-11-24",
     "category": "aesthetic",
     "pmid": "34636927",
