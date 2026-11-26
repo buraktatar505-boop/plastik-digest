@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-26",
+    "category": "aesthetic",
+    "pmid": "36580704",
+    "title": "Use of free flaps in aesthetic breast surgery: a single centre experience and literature review.",
+    "authors": "Zoccali G, Hagiga A, Farhadi J",
+    "journal": "J Plast Reconstr Aesthet Surg",
+    "year": 2023,
+    "doi": "10.1016/j.bjps.2022.11.042",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36580704/",
+    "citation_count": 3,
+    "rcr": 1.0419117277725367,
+    "abstract": "BACKGROUND: Implant-based breast augmentation is one of the most performed procedures in aesthetic surgery, whereas autologous tissue application is confined to fat grafting as adjuvant procedure. The use of free flaps in cosmetic mammoplasties is not popular, but the number of reports in the literature is increasing. We believe that autologous tissue transfer for cosmetic purposes could be a valuable alternative for volume enhancement in selected conditions, especially following weight loss. In this paper, we provide a systematic literature review of the current literature of using autologous free flaps for breast augmentation in non-cancer patients, and we also report our experience on this topic to identify possible indications and criteria for the patients' selection. METHODS: PRISMA's guidelines have been followed for the literature review. In order to demonstrate the feasibility, safety and patient satisfaction with breast volume enhancement with autologous tissue, a retrospective single-centre study was conducted on women who underwent breast volume enhancement with autologous tissue. Patient's satisfaction was assessed with a visual analogue scale (VAS) creating an ad-hoc outcome scale, and the data were summarised with a descriptive statistic. RESULTS: Twelve patients were enrolled in the study. Weight loss was the main indication for surgery. The average length of procedure was 5.1 h, and the hospitalization was 2.3 days. After 12 month, the patient outcome was excellent in 2 cases, good in 9 cases and moderate in 1 case. CONCLUSIONS: Although further research is needed, the literature review and our case series show that the use of free flaps for breast volume enhancement is safe and gives a satisfactory outcome.",
+    "abstract_tr": "",
+    "score": 0.5994
+  },
+  {
+    "date": "2026-11-26",
+    "category": "reconstructive",
+    "pmid": "36410407",
+    "title": "Minimally Invasive Approaches to DIEP flap Harvest: A review of current data.",
+    "authors": "Nores GDPG, Kanchwala S",
+    "journal": "Handchir Mikrochir Plast Chir",
+    "year": 2023,
+    "doi": "10.1055/a-1936-3464",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36410407/",
+    "citation_count": 6,
+    "rcr": 1.5485996312573536,
+    "abstract": "Breast cancer is the most prevalent cancer in the female population. Autologous tissue is often used for reconstruction after mastectomy. The deep inferior epigastric (DIEP) flap is a favorite for breast reconstruction because it entails careful perforator dissection with less muscle destruction. Recently, minimally invasive techniques in DIEP flap harvest have increased in popularity but their complication rate and security profile may vary from one technique to another. The purpose of this review study is to evaluate and compare two minimally invasive surgical approaches to abdominal based free flap harvest: the transabdominal pre-peritoneal robotic assisted DIEP flap harvest and total extra-peritoneal laparoscopic DIEP flap harvest. Brustkrebs stellt die häufigste maligne Erkrankung der Frau dar. Die Brustekonstruktion mit freien Lappenplastiken und autologem Gewebe ist ein Standardverfahren nach einer Mastektomie. Das am weitesten verbreitete Verfahren ist die A. epigastrica inferior Perforans-Lappenplastik (DIEP-Flap), die eine möglichst atraumatische Präparation des Perforans-Gefäßes mit möglichst geringer Verletzung des M. rectus abdominis zum Ziel hat. In jüngerer Zeit werden minimalinvasive Verfahren zunehmend eingesetzt, obwohl die Komplikationsraten und das Sicherheitsprofil bei unterschiedlichen Techniken bislang nicht gleichwertig zu den Standardverfahren ist. Diese Übersichtsarbeit bewertet und vergleicht zwei neue minimalinvasive chirurgische Verfahren für die Hebung von abdominalen freien Lappenplastiken: die transabdominale preperitoneale Roboter-gestützte DIEP Lappenhebung und die totale extra-peritoneale laparoskopische DIEP-Lappenhebung.",
+    "abstract_tr": "",
+    "score": 0.63
+  },
+  {
     "date": "2026-11-25",
     "category": "aesthetic",
     "pmid": "35690944",

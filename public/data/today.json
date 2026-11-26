@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "articles": [
     {
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "category": "aesthetic",
-      "pmid": "35690944",
-      "title": "Patterns in Academic Cosmetic Surgery Practice: Population Differences and Procedure Preferences.",
-      "authors": "Moore R, Zilinskas K, Tarabishy S et al.",
-      "journal": "Ann Plast Surg",
-      "year": 2022,
-      "doi": "10.1097/SAP.0000000000003159",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35690944/",
-      "citation_count": 6,
-      "rcr": 1.009808350084431,
-      "abstract": "PURPOSE: Although growth in cosmetic surgery remains constant in the private setting, academic cosmetic surgery practices are often underdeveloped. Our study aims to determine which patient populations access academic cosmetic surgery services. METHODS: The 2018 Health Care Utilization Project Nationwide Ambulatory Surgery Sample database was used for data analysis. Encounters for the following American Society of Plastic Surgery top 5 procedures for 2020 were selected: blepharoplasty, breast augmentation, liposuction, rhinoplasty, and rhytidectomy. Patient encounter data were collected because it relates to median income, geographic location, and primary payer status. RESULTS: The 2018 Nationwide Ambulatory Surgery Sample data set contained 44,078 encounters at academic surgical centers for the procedures listed previously. Low-income patients account for 13.7% of academic cosmetic surgery encounters compared with 37.9% for high-income patients. Breast augmentation rates are higher among low-income patients (20.5% vs 17.2%, P < 0.001), and high-income patients undergo rhytidectomy more frequently (5.7% vs 3.0%, P < 0.001). In the academic setting, patients from large metropolitan areas encompass the majority of cosmetic encounters (71.0%), and these patients are more likely to proceed with rhinoplasty, rhytidectomy, and liposuction procedures (P < 0.001). Patients from smaller metropolitan areas undergo blepharoplasty more frequently compared with those from larger metropolitan areas (56.4% vs 41.8%, P < 0.001). Self-pay and privately insured patients comprise the majority of academic cosmetic surgery encounters (40.8% and 29.9%, respectively). Eighty-eight percent of Medicare patients within this cohort underwent blepharoplasty, whereas self-pay patients accessed breast augmentation, liposuction, and rhytidectomy more often than other insured patients. CONCLUSIONS: Income status, patient location, and primary payer status play an important role in academic cosmetic surgery access rates and procedure preferences. Academic cosmetic practices can use these insights to tailor their services to the populations they serve.",
+      "pmid": "36580704",
+      "title": "Use of free flaps in aesthetic breast surgery: a single centre experience and literature review.",
+      "authors": "Zoccali G, Hagiga A, Farhadi J",
+      "journal": "J Plast Reconstr Aesthet Surg",
+      "year": 2023,
+      "doi": "10.1016/j.bjps.2022.11.042",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36580704/",
+      "citation_count": 3,
+      "rcr": 1.0419117277725367,
+      "abstract": "BACKGROUND: Implant-based breast augmentation is one of the most performed procedures in aesthetic surgery, whereas autologous tissue application is confined to fat grafting as adjuvant procedure. The use of free flaps in cosmetic mammoplasties is not popular, but the number of reports in the literature is increasing. We believe that autologous tissue transfer for cosmetic purposes could be a valuable alternative for volume enhancement in selected conditions, especially following weight loss. In this paper, we provide a systematic literature review of the current literature of using autologous free flaps for breast augmentation in non-cancer patients, and we also report our experience on this topic to identify possible indications and criteria for the patients' selection. METHODS: PRISMA's guidelines have been followed for the literature review. In order to demonstrate the feasibility, safety and patient satisfaction with breast volume enhancement with autologous tissue, a retrospective single-centre study was conducted on women who underwent breast volume enhancement with autologous tissue. Patient's satisfaction was assessed with a visual analogue scale (VAS) creating an ad-hoc outcome scale, and the data were summarised with a descriptive statistic. RESULTS: Twelve patients were enrolled in the study. Weight loss was the main indication for surgery. The average length of procedure was 5.1 h, and the hospitalization was 2.3 days. After 12 month, the patient outcome was excellent in 2 cases, good in 9 cases and moderate in 1 case. CONCLUSIONS: Although further research is needed, the literature review and our case series show that the use of free flaps for breast volume enhancement is safe and gives a satisfactory outcome.",
       "abstract_tr": "",
-      "score": 0.607
+      "score": 0.5994
     },
     {
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "category": "reconstructive",
-      "pmid": "35576016",
-      "title": "Fibula free flap perforasomes: vascular anatomical study and clinical applications.",
-      "authors": "Poulet V, Prevost A, Cavallier Z et al.",
-      "journal": "Surg Radiol Anat",
-      "year": 2022,
-      "doi": "10.1007/s00276-022-02953-4",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35576016/",
-      "citation_count": 8,
-      "rcr": 1.6463144175184972,
-      "abstract": "PURPOSE: This study assesses the anatomical features of the cutaneous fibular perforators and perforasomes of fibular free flap to determine the clinical implications therein. METHODS: This anatomical study was performed with 16 fresh cadavers after selective arterial injections of inked serum. The numbers of perforators, diameter, location of the perforasome center, perforator course, the distance between perforator origin and tibiofibular division, and the perforasome area were all documented. RESULTS: Thirty-one lower legs were dissected. Eighty-eight cutaneous perforators were found, averaging 2.8 per leg (1-4). The mean diameter was 1.7 mm and decreased from proximal to distal (p < 0.001). The centers of the perforasomes were aligned on an oblique projection from proximal to distal and anterior to posterior. Seventeen perforators (19%) were musculocutaneous, all in the proximal half of the leg, whereas 71 perforators were septocutaneous (81%), including 18 in the proximal half of the leg. Six of the uppermost perforators originated from the fibular artery less than 10 mm from the tibiofibular division. The mean area perforasome was 37.2 cm CONCLUSION: Distal and proximal fibular flap perforasomes sported different features. Large skin paddles supplied by large and often intramuscular perforators were found in the proximal half of the leg. Distal skin paddles were smaller, more posterior, and featured septocutaneous perforators. These factors should be considered in the skin paddle choice during the fibular free flap harvest.",
+      "pmid": "36410407",
+      "title": "Minimally Invasive Approaches to DIEP flap Harvest: A review of current data.",
+      "authors": "Nores GDPG, Kanchwala S",
+      "journal": "Handchir Mikrochir Plast Chir",
+      "year": 2023,
+      "doi": "10.1055/a-1936-3464",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36410407/",
+      "citation_count": 6,
+      "rcr": 1.5485996312573536,
+      "abstract": "Breast cancer is the most prevalent cancer in the female population. Autologous tissue is often used for reconstruction after mastectomy. The deep inferior epigastric (DIEP) flap is a favorite for breast reconstruction because it entails careful perforator dissection with less muscle destruction. Recently, minimally invasive techniques in DIEP flap harvest have increased in popularity but their complication rate and security profile may vary from one technique to another. The purpose of this review study is to evaluate and compare two minimally invasive surgical approaches to abdominal based free flap harvest: the transabdominal pre-peritoneal robotic assisted DIEP flap harvest and total extra-peritoneal laparoscopic DIEP flap harvest. Brustkrebs stellt die häufigste maligne Erkrankung der Frau dar. Die Brustekonstruktion mit freien Lappenplastiken und autologem Gewebe ist ein Standardverfahren nach einer Mastektomie. Das am weitesten verbreitete Verfahren ist die A. epigastrica inferior Perforans-Lappenplastik (DIEP-Flap), die eine möglichst atraumatische Präparation des Perforans-Gefäßes mit möglichst geringer Verletzung des M. rectus abdominis zum Ziel hat. In jüngerer Zeit werden minimalinvasive Verfahren zunehmend eingesetzt, obwohl die Komplikationsraten und das Sicherheitsprofil bei unterschiedlichen Techniken bislang nicht gleichwertig zu den Standardverfahren ist. Diese Übersichtsarbeit bewertet und vergleicht zwei neue minimalinvasive chirurgische Verfahren für die Hebung von abdominalen freien Lappenplastiken: die transabdominale preperitoneale Roboter-gestützte DIEP Lappenhebung und die totale extra-peritoneale laparoskopische DIEP-Lappenhebung.",
       "abstract_tr": "",
-      "score": 0.615
+      "score": 0.63
     }
   ]
 }
